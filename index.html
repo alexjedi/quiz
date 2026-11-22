@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" data-theme="grape">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Quiz</title>
+    <meta name="description" content="A quick quiz game to play with friends: share a link, answer fast, build streaks." />
+    <link rel="canonical" href="https://quiz.alexvoid.com/" />
+    <meta name="author" content="Alex Void" />
+    <link rel="author" href="https://alexvoid.com/" />
+    <meta property="og:title" content="Quiz" />
+    <meta property="og:description" content="A quick quiz game to play with friends: share a link, answer fast, build streaks." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://quiz.alexvoid.com/" />
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Quiz", "url": "https://quiz.alexvoid.com/", "description": "A quick quiz game to play with friends: share a link, answer fast, build streaks.", "applicationCategory": "GameApplication", "operatingSystem": "Any", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "author": {"@type": "Person", "name": "Alex Void", "url": "https://alexvoid.com/"}}</script>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const p = JSON.parse(localStorage.getItem("quiz:prefs") || "{}");
+        if (typeof p.theme === "string") document.documentElement.dataset.theme = p.theme;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <p>Quiz: a quick quiz game to play with friends. Made by <a href="https://alexvoid.com/">Alex Void</a>. It needs JavaScript to run.</p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

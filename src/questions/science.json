@@ -1,0 +1,31 @@
+{
+  "id": "science",
+  "title": "Science",
+  "questions": [
+    { "q": "What is the chemical symbol for gold?", "a": ["Au", "Ag", "Go", "Gd"] },
+    { "q": "Which gas do plants take from the air for photosynthesis?", "a": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"] },
+    { "q": "How many bones does an adult human have?", "a": ["206", "198", "212", "226"] },
+    { "q": "Which planet is known as the Red Planet?", "a": ["Mars", "Venus", "Mercury", "Jupiter"] },
+    { "q": "Roughly how fast does light travel in a vacuum?", "a": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "3,000,000 km/s"] },
+    { "q": "Which part of a cell is called its powerhouse?", "a": ["Mitochondrion", "Nucleus", "Ribosome", "Golgi apparatus"] },
+    { "q": "Which gas makes up most of Earth's atmosphere?", "a": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"] },
+    { "q": "Who published the general theory of relativity?", "a": ["Albert Einstein", "Isaac Newton", "Niels Bohr", "Max Planck"] },
+    { "q": "What is the pH of pure water at 25 °C?", "a": ["7", "0", "5", "14"] },
+    { "q": "Which element has atomic number 1?", "a": ["Hydrogen", "Helium", "Oxygen", "Carbon"] },
+    { "q": "Which force keeps the planets in orbit around the Sun?", "a": ["Gravity", "Magnetism", "Friction", "Air pressure"] },
+    { "q": "What is the largest organ of the human body?", "a": ["Skin", "Liver", "Lungs", "Brain"] },
+    { "q": "At what temperature does water boil at sea level, in Celsius?", "a": ["100", "90", "110", "212"] },
+    { "q": "Which particle carries a negative electric charge?", "a": ["Electron", "Proton", "Neutron", "Photon"] },
+    { "q": "Which star is closest to Earth?", "a": ["The Sun", "Proxima Centauri", "Sirius", "Polaris"] },
+    { "q": "Which blood cells carry oxygen?", "a": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"] },
+    { "q": "What does DNA stand for?", "a": ["Deoxyribonucleic acid", "Dinucleic amino acid", "Deoxyribose nitrogen acid", "Dioxyribonuclear acid"] },
+    { "q": "Who formulated the three laws of motion?", "a": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Albert Einstein"] },
+    { "q": "What is the unit of electrical resistance?", "a": ["Ohm", "Volt", "Ampere", "Watt"] },
+    { "q": "How many planets are in the Solar System?", "a": ["Eight", "Seven", "Nine", "Ten"] },
+    { "q": "What kind of animal is a dolphin?", "a": ["Mammal", "Fish", "Amphibian", "Reptile"] },
+    { "q": "Which metal is liquid at room temperature?", "a": ["Mercury", "Lead", "Tin", "Aluminium"] },
+    { "q": "What is the chemical formula of table salt?", "a": ["NaCl", "KCl", "NaOH", "CaCl2"] },
+    { "q": "Which part of a plant does most of its photosynthesis?", "a": ["Leaves", "Roots", "Stem", "Flowers"] },
+    { "q": "What is the study of earthquakes called?", "a": ["Seismology", "Volcanology", "Meteorology", "Geodesy"] }
+  ]
+}

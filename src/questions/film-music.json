@@ -1,0 +1,31 @@
+{
+  "id": "film-music",
+  "title": "Film and music",
+  "questions": [
+    { "q": "Who directed \"Jaws\"?", "a": ["Steven Spielberg", "George Lucas", "Martin Scorsese", "Ridley Scott"] },
+    { "q": "Which band released the album \"Abbey Road\"?", "a": ["The Beatles", "The Rolling Stones", "Pink Floyd", "The Who"] },
+    { "q": "Which fictional metal comes from Wakanda in \"Black Panther\"?", "a": ["Vibranium", "Adamantium", "Unobtainium", "Mithril"] },
+    { "q": "Who recorded \"Purple Rain\"?", "a": ["Prince", "Michael Jackson", "David Bowie", "Stevie Wonder"] },
+    { "q": "Which film won the first Oscar for Best Animated Feature?", "a": ["Shrek", "Monsters, Inc.", "Toy Story", "Spirited Away"] },
+    { "q": "How many strings does a standard guitar have?", "a": ["Six", "Four", "Five", "Seven"] },
+    { "q": "Who composed \"The Four Seasons\"?", "a": ["Antonio Vivaldi", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "George Frideric Handel"] },
+    { "q": "In \"The Matrix\", which colour pill does Neo take?", "a": ["Red", "Blue", "Green", "White"] },
+    { "q": "Who was the lead singer of Queen?", "a": ["Freddie Mercury", "Roger Taylor", "Brian May", "John Deacon"] },
+    { "q": "Which film made the line \"I'll be back\" famous?", "a": ["The Terminator", "Predator", "RoboCop", "Die Hard"] },
+    { "q": "Who directed \"Pulp Fiction\"?", "a": ["Quentin Tarantino", "Joel Coen", "David Fincher", "Guy Ritchie"] },
+    { "q": "Which singer is known as the Queen of Pop?", "a": ["Madonna", "Cher", "Whitney Houston", "Britney Spears"] },
+    { "q": "Who directed \"Titanic\" (1997)?", "a": ["James Cameron", "Peter Jackson", "Ron Howard", "Michael Bay"] },
+    { "q": "Which instrument did Miles Davis play?", "a": ["Trumpet", "Saxophone", "Piano", "Double bass"] },
+    { "q": "Who plays Captain Jack Sparrow?", "a": ["Johnny Depp", "Orlando Bloom", "Jude Law", "Brad Pitt"] },
+    { "q": "Which band released \"The Dark Side of the Moon\"?", "a": ["Pink Floyd", "Led Zeppelin", "Genesis", "Deep Purple"] },
+    { "q": "Who composed the music for \"Star Wars\"?", "a": ["John Williams", "Hans Zimmer", "Ennio Morricone", "Howard Shore"] },
+    { "q": "Which studio made \"My Neighbor Totoro\"?", "a": ["Studio Ghibli", "Toei Animation", "Madhouse", "Pixar"] },
+    { "q": "How many lines does a musical staff have?", "a": ["Five", "Four", "Six", "Seven"] },
+    { "q": "Which was the first non-English-language film to win the Oscar for Best Picture?", "a": ["Parasite", "Roma", "Amour", "Life Is Beautiful"] },
+    { "q": "Who released the album \"Thriller\"?", "a": ["Michael Jackson", "Prince", "Lionel Richie", "Stevie Wonder"] },
+    { "q": "In which city did The Beatles form?", "a": ["Liverpool", "London", "Manchester", "Birmingham"] },
+    { "q": "Who directed \"Spirited Away\"?", "a": ["Hayao Miyazaki", "Isao Takahata", "Satoshi Kon", "Makoto Shinkai"] },
+    { "q": "In which film series must a ring be destroyed in Mount Doom?", "a": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Eragon"] },
+    { "q": "What does \"forte\" mean in music?", "a": ["Loud", "Fast", "Soft", "Slow"] }
+  ]
+}

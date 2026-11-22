@@ -1,0 +1,31 @@
+{
+  "id": "geography",
+  "title": "Geography",
+  "questions": [
+    { "q": "What is the capital of Australia?", "a": ["Canberra", "Sydney", "Melbourne", "Perth"] },
+    { "q": "Which is the longest river in South America?", "a": ["Amazon", "Paraná", "Orinoco", "Magdalena"] },
+    { "q": "Which country has the largest population?", "a": ["India", "China", "United States", "Indonesia"] },
+    { "q": "Which is the smallest country in the world?", "a": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"] },
+    { "q": "Which is the largest hot desert on Earth?", "a": ["Sahara", "Arabian", "Kalahari", "Gobi"] },
+    { "q": "Which mountain is the highest above sea level?", "a": ["Mount Everest", "K2", "Kangchenjunga", "Denali"] },
+    { "q": "What is the capital of Canada?", "a": ["Ottawa", "Toronto", "Montreal", "Vancouver"] },
+    { "q": "Which continent has the most countries?", "a": ["Africa", "Asia", "Europe", "South America"] },
+    { "q": "Which country is shaped like a boot?", "a": ["Italy", "Greece", "Portugal", "Croatia"] },
+    { "q": "What is the capital of Turkey?", "a": ["Ankara", "Istanbul", "Izmir", "Antalya"] },
+    { "q": "Which river flows through Paris?", "a": ["Seine", "Loire", "Rhône", "Thames"] },
+    { "q": "Which is the largest country by area?", "a": ["Russia", "Canada", "China", "United States"] },
+    { "q": "On which continent is the Atacama Desert?", "a": ["South America", "Africa", "Asia", "Australia"] },
+    { "q": "Which city is nicknamed the Big Apple?", "a": ["New York", "Los Angeles", "Chicago", "Boston"] },
+    { "q": "Which strait separates Spain from Morocco?", "a": ["Strait of Gibraltar", "Bosphorus", "Strait of Hormuz", "Strait of Dover"] },
+    { "q": "What is the capital of Brazil?", "a": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"] },
+    { "q": "Which is the deepest lake in the world?", "a": ["Lake Baikal", "Lake Tanganyika", "Lake Superior", "Lake Victoria"] },
+    { "q": "Which country spans the most time zones, counting overseas territories?", "a": ["France", "Russia", "United States", "China"] },
+    { "q": "What is the capital of New Zealand?", "a": ["Wellington", "Auckland", "Christchurch", "Queenstown"] },
+    { "q": "Which country was once known as Abyssinia?", "a": ["Ethiopia", "Ghana", "Sudan", "Zimbabwe"] },
+    { "q": "Which is the largest island in the world?", "a": ["Greenland", "New Guinea", "Borneo", "Madagascar"] },
+    { "q": "In which country is Mount Kilimanjaro?", "a": ["Tanzania", "Kenya", "Uganda", "Ethiopia"] },
+    { "q": "Which European capital is built across 14 islands?", "a": ["Stockholm", "Copenhagen", "Amsterdam", "Helsinki"] },
+    { "q": "Which sea has no coastline?", "a": ["Sargasso Sea", "Dead Sea", "Coral Sea", "Black Sea"] },
+    { "q": "What is the capital of South Korea?", "a": ["Seoul", "Busan", "Pyongyang", "Incheon"] }
+  ]
+}

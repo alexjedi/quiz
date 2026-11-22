@@ -1,0 +1,31 @@
+:root {
+  --h: 300;
+  --h2: 345;
+  --ha: 165;
+  --depth: 0;
+}
+
+[data-theme="berry"] {
+  --h: 12;
+  --h2: 335;
+  --ha: 185;
+}
+
+[data-theme="ocean"] {
+  --h: 248;
+  --h2: 205;
+  --ha: 95;
+}
+
+[data-theme="forest"] {
+  --h: 160;
+  --h2: 125;
+  --ha: 85;
+}
+
+[data-theme="midnight"] {
+  --h: 272;
+  --h2: 245;
+  --ha: 195;
+  --depth: 0.14;
+}

@@ -1,0 +1,31 @@
+{
+  "id": "general",
+  "title": "General knowledge",
+  "questions": [
+    { "q": "Which planet has the most known moons?", "a": ["Saturn", "Jupiter", "Uranus", "Neptune"] },
+    { "q": "How many strings does a standard violin have?", "a": ["Four", "Five", "Six", "Three"] },
+    { "q": "What is the largest ocean on Earth?", "a": ["Pacific", "Atlantic", "Indian", "Arctic"] },
+    { "q": "Which language has the most native speakers?", "a": ["Mandarin Chinese", "English", "Spanish", "Hindi"] },
+    { "q": "How many players does one football (soccer) team have on the pitch?", "a": ["Eleven", "Ten", "Nine", "Twelve"] },
+    { "q": "What is the hardest natural substance?", "a": ["Diamond", "Quartz", "Granite", "Topaz"] },
+    { "q": "Which is the tallest land animal?", "a": ["Giraffe", "Elephant", "Ostrich", "Camel"] },
+    { "q": "Which city hosted the first modern Olympic Games in 1896?", "a": ["Athens", "Paris", "London", "Rome"] },
+    { "q": "How many keys does a standard piano have?", "a": ["88", "76", "92", "64"] },
+    { "q": "What is the smallest prime number?", "a": ["2", "1", "3", "0"] },
+    { "q": "Which chess piece moves only diagonally?", "a": ["Bishop", "Knight", "Rook", "Queen"] },
+    { "q": "Which colour do you get by mixing blue and yellow paint?", "a": ["Green", "Purple", "Orange", "Brown"] },
+    { "q": "Who painted the Mona Lisa?", "a": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Botticelli"] },
+    { "q": "How many sides does a hexagon have?", "a": ["Six", "Five", "Seven", "Eight"] },
+    { "q": "Which currency is used in Japan?", "a": ["Yen", "Won", "Yuan", "Baht"] },
+    { "q": "Who wrote \"Romeo and Juliet\"?", "a": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Christopher Marlowe"] },
+    { "q": "What is the main ingredient of guacamole?", "a": ["Avocado", "Tomato", "Lime", "Green peas"] },
+    { "q": "How many minutes are there in a full day?", "a": ["1,440", "1,240", "1,640", "2,400"] },
+    { "q": "Which instrument has keys, strings and hammers?", "a": ["Piano", "Harp", "Accordion", "Cello"] },
+    { "q": "What is the longest bone in the human body?", "a": ["Femur", "Tibia", "Humerus", "Fibula"] },
+    { "q": "Which country gave the Statue of Liberty to the United States?", "a": ["France", "United Kingdom", "Spain", "Italy"] },
+    { "q": "What does a sommelier specialise in?", "a": ["Wine", "Cheese", "Coffee", "Perfume"] },
+    { "q": "How many squares are there on a chessboard?", "a": ["64", "48", "72", "81"] },
+    { "q": "Which sea creature has three hearts?", "a": ["Octopus", "Starfish", "Jellyfish", "Seahorse"] },
+    { "q": "In which year did the Berlin Wall fall?", "a": ["1989", "1987", "1991", "1985"] }
+  ]
+}
