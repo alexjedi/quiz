@@ -1,0 +1,529 @@
+{
+  "id": "otdb-mythology",
+  "title": "Mythology",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "According to Algonquian folklore, how does one transform into a Wendigo?",
+      "a": [
+        "Participating in cannibalism.",
+        "Excessive mutilation of animal corpses.",
+        "Performing a ritual involving murder.",
+        "Drinking the blood of many slain animals."
+      ]
+    },
+    {
+      "q": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?",
+      "a": [
+        "Bull",
+        "Pig",
+        "Ox",
+        "Horse"
+      ]
+    },
+    {
+      "q": "What mythology did the god \"Apollo\" come from?",
+      "a": [
+        "Greek and Roman",
+        "Roman and Spanish",
+        "Greek and Chinese",
+        "Greek, Roman and Norse"
+      ]
+    },
+    {
+      "q": "What was the punishment for Sysiphus's craftiness?",
+      "a": [
+        "Cursed to roll a boulder up a hill for eternity.",
+        "Tied to a boulder for eternity, being pecked by birds.",
+        "Standing in a lake filled with water he could not drink.",
+        "To fell a tree that regenerated after every axe swing."
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a god in Norse Mythology.",
+      "a": [
+        "Jens",
+        "Loki",
+        "Tyr",
+        "Snotra"
+      ]
+    },
+    {
+      "q": "Who is the father of Icarus, who flew too close to the sun?",
+      "a": [
+        "Daedalus",
+        "Minos",
+        "Perseus",
+        "Zeus"
+      ]
+    },
+    {
+      "q": "In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",
+      "a": [
+        "Mistletoe",
+        "Wolf's Bane",
+        "Buckthorn",
+        "Hemlock"
+      ]
+    },
+    {
+      "q": "What is the name of the Greek god of blacksmiths?",
+      "a": [
+        "Hephaestus",
+        "Dyntos",
+        "Vulcan",
+        "Artagatus"
+      ]
+    },
+    {
+      "q": "Who is the god of war in Polynesian mythology?",
+      "a": [
+        "'Oro",
+        "Hina",
+        "Kohara",
+        "Māui"
+      ]
+    },
+    {
+      "q": "Hera is god of...",
+      "a": [
+        "Marriage",
+        "Agriculture",
+        "Sea",
+        "War"
+      ]
+    },
+    {
+      "q": "Who was the King of Gods in Ancient Greek mythology?",
+      "a": [
+        "Zeus",
+        "Apollo",
+        "Hermes",
+        "Poseidon"
+      ]
+    },
+    {
+      "q": "This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.",
+      "a": [
+        "Eris",
+        "Charon",
+        "Ceres",
+        "Dysnomia"
+      ]
+    },
+    {
+      "q": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+      "a": [
+        "Athena",
+        "Ares",
+        "Artemis",
+        "Apollo"
+      ]
+    },
+    {
+      "q": "In Greek Mythology, who was the daughter of King Minos?",
+      "a": [
+        "Ariadne",
+        "Athena",
+        "Ariel",
+        "Alana"
+      ]
+    },
+    {
+      "q": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+      "a": [
+        "Set",
+        "Horus",
+        "Ra",
+        "Anhur"
+      ]
+    },
+    {
+      "q": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+      "a": [
+        "A Horse",
+        "A Dragon",
+        "A Tiger",
+        "A Lion"
+      ]
+    },
+    {
+      "q": "What is the name of the first human being in Norse mythology?",
+      "a": [
+        "Ask",
+        "Asmund",
+        "Ake",
+        "Asger"
+      ]
+    },
+    {
+      "q": "A minotaur is half human half what?",
+      "a": [
+        "Bull",
+        "Cow",
+        "Horse",
+        "Eagle"
+      ]
+    },
+    {
+      "q": "Nidhogg is a mythical creature from what mythology?",
+      "a": [
+        "Norse",
+        "Egyptian",
+        "Greek",
+        "Hindu"
+      ]
+    },
+    {
+      "q": "Which of the following is not true about the life of Tiresias?",
+      "a": [
+        "Sailed with the Argonauts to find the golden fleece",
+        "Athena turned him into a woman, and then years later back into a man",
+        "Hera blinded him after he agreed with Zeus in an argument",
+        "Revealed to Oedipus that Oedipus had married his own mother"
+      ]
+    },
+    {
+      "q": "In Greek mythology, who is the god of wine?",
+      "a": [
+        "Dionysus",
+        "Hephaestus",
+        "Demeter",
+        "Apollo"
+      ]
+    },
+    {
+      "q": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+      "a": [
+        "Orpheus",
+        "Hercules",
+        "Perseus",
+        "Daedalus"
+      ]
+    },
+    {
+      "q": "What mytological creatures have women's faces and vultures' bodies?",
+      "a": [
+        "Harpies",
+        "Mermaids",
+        "Nymph",
+        "Lilith"
+      ]
+    },
+    {
+      "q": "Who did Hippomenes defeat in a footrace?",
+      "a": [
+        "Atalanta",
+        "Peleus",
+        "Theseus",
+        "Jason"
+      ]
+    },
+    {
+      "q": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+      "a": [
+        "Spider",
+        "Wild dog",
+        "Monkey",
+        "Crocodile"
+      ]
+    },
+    {
+      "q": "What is the name of the wildman that Gilgamesh befriends and goes on adventures with?",
+      "a": [
+        "Enkidu",
+        "Ishtar",
+        "Inanna",
+        "Agga"
+      ]
+    },
+    {
+      "q": "Which greek god/goddess tossed a golden apple with the words \"for the fairest\" into the middle of the feast of the gods?",
+      "a": [
+        "Eris",
+        "Hades",
+        "Ares",
+        "Artemis"
+      ]
+    },
+    {
+      "q": "The Nike apparel and footwear brand takes it's name from the Greek goddess of what?",
+      "a": [
+        "Victory",
+        "Courage",
+        "Strength",
+        "Honor"
+      ]
+    },
+    {
+      "q": "Who is the God Loki's son?",
+      "a": [
+        "Fenrir",
+        "Odin",
+        "Hel",
+        "Sigyn"
+      ]
+    },
+    {
+      "q": "An Ankh is the Egyptian Hieroglyph for what?",
+      "a": [
+        "Life",
+        "Love",
+        "Hatred",
+        "Poison"
+      ]
+    },
+    {
+      "q": "What immense structure is referred to in Norse Mythology as the Yggdrasil.",
+      "a": [
+        "Tree",
+        "Mountain",
+        "Temple",
+        "Castle"
+      ]
+    },
+    {
+      "q": "The greek god Poseidon was the god of what?",
+      "a": [
+        "The Sea",
+        "War",
+        "Sun",
+        "Fire"
+      ]
+    },
+    {
+      "q": "How many heads does Cerberus have?",
+      "a": [
+        "3",
+        "2",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "q": "Neptune's greek name was...",
+      "a": [
+        "Poseidon",
+        "Ares",
+        "Zeus",
+        "Apollo"
+      ]
+    },
+    {
+      "q": "Which Greek & Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",
+      "a": [
+        "Apollo",
+        "Aphrodite",
+        "Artemis",
+        "Athena"
+      ]
+    },
+    {
+      "q": "Which Norse God has a horse named Sleipnir?",
+      "a": [
+        "Odin",
+        "Thor",
+        "Frigg",
+        "Balder"
+      ]
+    },
+    {
+      "q": "The Norse god Odin has two pet crows named \"Huginn\" and \"Muninn\".  What do their names mean?",
+      "a": [
+        "Thought & Memory",
+        "Power & Peace",
+        "War & Learning",
+        "Sleeping & Waking"
+      ]
+    },
+    {
+      "q": "In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",
+      "a": [
+        "Pomegranate",
+        "Sunflower",
+        "Orange",
+        "Fig"
+      ]
+    },
+    {
+      "q": "What is the name of the Greek god of peaceful deaths?",
+      "a": [
+        "Thanatos",
+        "Tartarus",
+        "Hades",
+        "Moros"
+      ]
+    },
+    {
+      "q": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+      "a": [
+        "Nidhogg",
+        "Bragi",
+        "Odin",
+        "Ymir"
+      ]
+    },
+    {
+      "q": "What weakpoint of Achilles was expoited by the Trojan prince, Paris?",
+      "a": [
+        "Heel",
+        "Neck",
+        "Back",
+        "Calf"
+      ]
+    },
+    {
+      "q": "Which of these Roman gods doesn't have a counterpart in Greek mythology?",
+      "a": [
+        "Janus",
+        "Vulcan",
+        "Juno",
+        "Mars"
+      ]
+    },
+    {
+      "q": "Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",
+      "a": [
+        "Jason",
+        "Castor",
+        "Daedalus",
+        "Odysseus"
+      ]
+    },
+    {
+      "q": "In Norse Mythology, what is the name of the symbol commonly referred to as the \"Tree of Life\"?",
+      "a": [
+        "Yggdrasil",
+        "Ymir",
+        "Tree of the Earth",
+        "Odin's Roots"
+      ]
+    },
+    {
+      "q": "Who was the only god from Greece who did not get a name change in Rome?",
+      "a": [
+        "Apollo",
+        "Demeter",
+        "Zeus",
+        "Athena"
+      ]
+    },
+    {
+      "q": "In most traditions, who was the wife of Zeus?",
+      "a": [
+        "Hera",
+        "Aphrodite",
+        "Athena",
+        "Hestia"
+      ]
+    },
+    {
+      "q": "Hel was the daughter of which Norse Mythological figure?",
+      "a": [
+        "Loki",
+        "Thor",
+        "Odin",
+        "Balder"
+      ]
+    },
+    {
+      "q": "Talos, the mythical giant bronze man, was the protector of which island?",
+      "a": [
+        "Crete",
+        "Sardinia",
+        "Sicily",
+        "Cyprus"
+      ]
+    },
+    {
+      "q": "According to Japanese folklore, what is the favorite food of the Kappa.",
+      "a": [
+        "Cucumbers",
+        "Kabocha",
+        "Nasu",
+        "Soba"
+      ]
+    },
+    {
+      "q": "Who is the Egyptian god of reproduction and lettuce?",
+      "a": [
+        "Min",
+        "Menu",
+        "Mut",
+        "Meret"
+      ]
+    },
+    {
+      "q": "Who was the Roman god of fire?",
+      "a": [
+        "Vulcan",
+        "Apollo",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "q": "The ancient Roman god of war was commonly known as which of the following?",
+      "a": [
+        "Mars",
+        "Jupiter",
+        "Juno",
+        "Ares"
+      ]
+    },
+    {
+      "q": "In Greek Mythology, who killed Achilles?",
+      "a": [
+        "Paris",
+        "Hector",
+        "Helen",
+        "Pericles"
+      ]
+    },
+    {
+      "q": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+      "a": [
+        "Enkidu",
+        "Enki",
+        "Enlil",
+        "Enkimdu"
+      ]
+    },
+    {
+      "q": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+      "a": [
+        "New Zealand",
+        "Vanuatu",
+        "Fiji",
+        "Hawaii"
+      ]
+    },
+    {
+      "q": "Which of the following is not one of the Greek Fates?",
+      "a": [
+        "Narcissus",
+        "Clotho",
+        "Atropos",
+        "Lachesis"
+      ]
+    },
+    {
+      "q": "Which of these mythological creatures is said to be half-man and half-horse?",
+      "a": [
+        "Centaur",
+        "Minotaur",
+        "Pegasus",
+        "Gorgon"
+      ]
+    },
+    {
+      "q": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+      "a": [
+        "Aristaeus",
+        "Autonoe",
+        "Carme",
+        "Cephisso"
+      ]
+    }
+  ]
+}

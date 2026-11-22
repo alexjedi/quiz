@@ -1,0 +1,907 @@
+{
+  "id": "otdb-film",
+  "title": "Film",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "In Avengers: Infinity War, the Reality Stone (aka the Aether) was kept under safe possession by who?",
+      "a": [
+        "The Collector",
+        "Doctor Strange",
+        "The Grandmaster",
+        "Scarlet Witch"
+      ]
+    },
+    {
+      "q": "What is the birth name of Michael Caine?",
+      "a": [
+        "Maurice Micklewhite",
+        "Morris Coleman",
+        "Carl Myers",
+        "Martin Michaels"
+      ]
+    },
+    {
+      "q": "Who played Baron Victor Frankestein in the 1957 Hammer horror film \"The Curse of Frankenstein\"?",
+      "a": [
+        "Peter Cushing",
+        "Boris Karloff",
+        "Vincent Price",
+        "Lon Chaney Jr."
+      ]
+    },
+    {
+      "q": "Who starred in the film 1973 movie \"Enter The Dragon\"?",
+      "a": [
+        "Bruce Lee",
+        "Jackie Chan",
+        "Jet Li",
+        "Yun-Fat Chow"
+      ]
+    },
+    {
+      "q": "What was the title of the first Bond movie, released in 1962?",
+      "a": [
+        "Dr. No",
+        "From Russia with Love",
+        "Goldfinger",
+        "Thunderball"
+      ]
+    },
+    {
+      "q": "Darth Vader's famous reveal to Luke is iconic. But which of these is the right one?",
+      "a": [
+        "\"No. I am your father.\"",
+        "\"Luke, I am your father.\"",
+        "\"You're wrong. I am your father.\"",
+        "\"The truth is that I am your father.\""
+      ]
+    },
+    {
+      "q": "Who directed the 2015 movie \"The Revenant\"?",
+      "a": [
+        "Alejandro G. Iñárritu",
+        "Christopher Nolan",
+        "David Fincher",
+        "Wes Anderson"
+      ]
+    },
+    {
+      "q": "Which one of these action movies are shot entirely in one take?",
+      "a": [
+        "Victoria",
+        "Ip Man 2",
+        "The Bourne Legacy",
+        "Léon: The Professional"
+      ]
+    },
+    {
+      "q": "What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?",
+      "a": [
+        "Gort",
+        "Robby",
+        "Colossus",
+        "Box"
+      ]
+    },
+    {
+      "q": "This movie contains the quote, \"What we've got here is a failure to communicate.\"",
+      "a": [
+        "Cool Hand Luke",
+        "Bonnie and Clyde",
+        "The Graduate",
+        "In the Heat of the Night"
+      ]
+    },
+    {
+      "q": "The 2016 Disney animated film 'Moana' is based on which culture?",
+      "a": [
+        "Polynesian",
+        "Native American",
+        "Japanese",
+        "Nordic"
+      ]
+    },
+    {
+      "q": "The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?",
+      "a": [
+        "Mining gear",
+        "Clown costume",
+        "Santa suit",
+        "Police uniform"
+      ]
+    },
+    {
+      "q": "What did the first moving picture depict?",
+      "a": [
+        "A galloping horse",
+        "A woman in a dress",
+        "A man walking",
+        "A crackling fire"
+      ]
+    },
+    {
+      "q": "In which movie does Robin Williams' character have to disguise themselves into a woman?",
+      "a": [
+        "Mrs. Doubtfire",
+        "Old Dogs",
+        "Jumanji",
+        "Awakenings"
+      ]
+    },
+    {
+      "q": "Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?",
+      "a": [
+        "The Revenant",
+        "The Wolf Of Wall Street",
+        "Shutter Island",
+        "Inception"
+      ]
+    },
+    {
+      "q": "What is the name of the first \"Star Wars\" film by release order?",
+      "a": [
+        "A New Hope",
+        "The Phantom Menace",
+        "The Force Awakens",
+        "Revenge of the Sith"
+      ]
+    },
+    {
+      "q": "Who was the director of \"Scott Pilgrim vs. the World (2010)\"?",
+      "a": [
+        "Edgar Wright",
+        "Phil Lord",
+        "Chris Miller",
+        "Seth Rogan"
+      ]
+    },
+    {
+      "q": "How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)?",
+      "a": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ]
+    },
+    {
+      "q": "In the 1979 British film \"Quadrophenia\" what is the name of the seaside city the mods are visiting?",
+      "a": [
+        "Brighton",
+        "Eastbourne",
+        "Mousehole",
+        "Bridlington"
+      ]
+    },
+    {
+      "q": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+      "a": [
+        "Gale",
+        "Perkins",
+        "Day",
+        "Parker"
+      ]
+    },
+    {
+      "q": "\"The first rule is: you don't talk about it\" is a reference to which movie?",
+      "a": [
+        "Fight Club",
+        "The Island",
+        "Unthinkable",
+        "American Pie"
+      ]
+    },
+    {
+      "q": "How much money did the 2019 Marvel movie \"Avengers: Endgame\" gross for it's record-breaking worldwide opening weekend?",
+      "a": [
+        "1.2 billion USD",
+        "640 million USD",
+        "456 million USD",
+        "392 million USD"
+      ]
+    },
+    {
+      "q": "In the 1986 film \"The Wraith\", what concept car is used for the Turbo Interceptor?",
+      "a": [
+        "Dodge M4S",
+        "Pontiac Banshee",
+        "General Motors Firebird",
+        "Dodge Copperhead"
+      ]
+    },
+    {
+      "q": "In Big Hero 6, what were Baymax's motions modeled after?",
+      "a": [
+        "Baby penguins",
+        "Baby monkeys",
+        "Baby ostriches",
+        "Baby bears"
+      ]
+    },
+    {
+      "q": "Which 1994 film did Roger Ebert famously despise, saying \"I hated hated hated hated hated this movie\".",
+      "a": [
+        "North",
+        "3 Ninjas Kick Back",
+        "The Santa Clause",
+        "Richie Rich"
+      ]
+    },
+    {
+      "q": "In what movie does Eddie Murphy swap identities with Dan Aykroyd?",
+      "a": [
+        "Trading Places",
+        "Ghostbusters",
+        "Coming to America",
+        "The Blues Brothers"
+      ]
+    },
+    {
+      "q": "Johnny Depp made his big-screen acting debut in which film?",
+      "a": [
+        "A Nightmare on Elm Street",
+        "My Bloody Valentine",
+        "Halloween",
+        "Friday the 13th"
+      ]
+    },
+    {
+      "q": "What breed of dog was Marley in the film \"Marley & Me\" (2008)?",
+      "a": [
+        "Labrador Retriever",
+        "Golden Retriever",
+        "Dalmatian",
+        "Shiba Inu"
+      ]
+    },
+    {
+      "q": "What Queen song plays during the final fight scene of the film \"Hardcore Henry\"?",
+      "a": [
+        "Don't Stop Me Now",
+        "Brighton Rock",
+        "Another Bites the Dust",
+        "We Will Rock You"
+      ]
+    },
+    {
+      "q": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+      "a": [
+        "My Neighbor Totoro",
+        "Hop",
+        "Rise of the Guardians",
+        "Alice in Wonderland"
+      ]
+    },
+    {
+      "q": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+      "a": [
+        "San Francisco",
+        "Los Angeles",
+        "Sacramento",
+        "San Jose"
+      ]
+    },
+    {
+      "q": "Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?",
+      "a": [
+        "The Shining",
+        "2001: A Space Odyssey",
+        "Dr. Strangelove",
+        "Eyes Wide Shut"
+      ]
+    },
+    {
+      "q": "The 2002 film \"28 Days Later\" is mainly set in which European country?",
+      "a": [
+        "United Kingdom",
+        "France",
+        "Italy",
+        "Germany"
+      ]
+    },
+    {
+      "q": "In what year was the movie \"Police Academy\" released?",
+      "a": [
+        "1984",
+        "1986",
+        "1985",
+        "1983"
+      ]
+    },
+    {
+      "q": "In the 1992 film \"Army of Darkness\", what name does Ash give to his double-barreled shotgun?",
+      "a": [
+        "Boomstick",
+        "Bloomstick",
+        "Blastbranch",
+        "2-Pump Chump"
+      ]
+    },
+    {
+      "q": "In the 2014 film \"Birdman\", what is the primary instrument in the score?",
+      "a": [
+        "Drums",
+        "Saxophone",
+        "Violin",
+        "Actual Live Birds Singing"
+      ]
+    },
+    {
+      "q": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+      "a": [
+        "Max Payne",
+        "Alan Wake",
+        "Hitman",
+        "God Of War"
+      ]
+    },
+    {
+      "q": "In 2012, which movie won every category in the 32nd \"Golden Raspberry Awards\"?",
+      "a": [
+        "Jack and Jill",
+        "The Girl with the Dragon Tattoo",
+        "Thor",
+        "The King's Speech"
+      ]
+    },
+    {
+      "q": "Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?",
+      "a": [
+        "Ewan McGregor",
+        "Alec Guinness",
+        "Hayden Christensen",
+        "Liam Neeson"
+      ]
+    },
+    {
+      "q": "Which year was the first official Youtube Rewind released?",
+      "a": [
+        "2010",
+        "2012",
+        "2011",
+        "2013"
+      ]
+    },
+    {
+      "q": "In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",
+      "a": [
+        "Tom Bombadil",
+        "Strider",
+        "Barliman Butterbur",
+        "Celeborn"
+      ]
+    },
+    {
+      "q": "In what year was the first Transformers movie released?",
+      "a": [
+        "1986",
+        "2007",
+        "1984",
+        "2009"
+      ]
+    },
+    {
+      "q": "Which was the first of Alfred Hitchcock's movies to be filmed in colour?",
+      "a": [
+        "Rope",
+        "Psycho",
+        "Vertigo",
+        "Rebecca"
+      ]
+    },
+    {
+      "q": "Which actor played the main character in the 1990 film \"Edward Scissorhands\"?",
+      "a": [
+        "Johnny Depp",
+        "Clint Eastwood",
+        "Leonardo DiCaprio",
+        "Ben Stiller"
+      ]
+    },
+    {
+      "q": "What was Humphrey Bogart's middle name?",
+      "a": [
+        "DeForest",
+        "DeWinter",
+        "Steven",
+        "Bryce"
+      ]
+    },
+    {
+      "q": "In the \"Jurassic Park\" universe, when did \"Jurassic Park: San Diego\" begin construction?",
+      "a": [
+        "1985",
+        "1988",
+        "1986",
+        "1993"
+      ]
+    },
+    {
+      "q": "In the 1984 movie \"The Terminator\", what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+      "a": [
+        "T-800",
+        "I-950",
+        "T-888",
+        "T-1000"
+      ]
+    },
+    {
+      "q": "This movie contains the quote, \"I love the smell of napalm in the morning!\"",
+      "a": [
+        "Apocalypse Now",
+        "Platoon",
+        "The Deer Hunter",
+        "Full Metal Jacket"
+      ]
+    },
+    {
+      "q": "Which Batman villain is Mark Hamill known for having voiced?",
+      "a": [
+        "The Joker",
+        "Two-Face",
+        "Bane",
+        "Hush"
+      ]
+    },
+    {
+      "q": "In the 1974 Christmas flick \"The Year Without a Santa Claus,\" what are the names of the two elves who help Mrs. Claus save Christmas?",
+      "a": [
+        "Jingle & Jangle",
+        "Buddy & Bobby",
+        "Holly & Jolly",
+        "Snowflake & Icicle"
+      ]
+    },
+    {
+      "q": "When does \"Rogue One: A Star Wars Story\" take place chronologically in the series?",
+      "a": [
+        "Between Episode 3 and 4",
+        "After Episode 6",
+        "Before Episode 1",
+        "Between Episode 4 and 5"
+      ]
+    },
+    {
+      "q": "What was the last Marx Brothers film to feature Zeppo?",
+      "a": [
+        "Duck Soup",
+        "A Night at the Opera",
+        "A Day at the Races",
+        "Monkey Business"
+      ]
+    },
+    {
+      "q": "In Youtuber Jerma985's 2014 film \"Rat Movie: Mystery of the Mayan Treasure,\" who is the man who tries to steal the Mayan Treasure?",
+      "a": [
+        "Dick Dastardly Richards",
+        "Gabe \"The Glue Man\" Degrossi",
+        "Bootleg Duck Dynasty Byeah Batman",
+        "Demon Lord Zeraxos"
+      ]
+    },
+    {
+      "q": "Who provided a majority of the songs and lyrics for \"Spirit: Stallion of the Cimarron\"?",
+      "a": [
+        "Bryan Adams",
+        "Smash Mouth",
+        "Oasis",
+        "Air Supply"
+      ]
+    },
+    {
+      "q": "What American actor directed and co-starred alongside Emily Blunt in 2018's horror film \"A Quiet Place\"?",
+      "a": [
+        "John Krasinski",
+        "Keanu Reeves",
+        "Willem Dafoe",
+        "Josh Brolin"
+      ]
+    },
+    {
+      "q": "Who voiced Metalbeard in \"The Lego Movie\"?",
+      "a": [
+        "Nick Offerman",
+        "Liam Neeson",
+        "Morgan Freeman",
+        "Will Arnet"
+      ]
+    },
+    {
+      "q": "What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",
+      "a": [
+        "Batman",
+        "Superman",
+        "Iron Man",
+        "Spiderman"
+      ]
+    },
+    {
+      "q": "Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?",
+      "a": [
+        "Dan Marino",
+        "John Elway",
+        "Tom Brady",
+        "Joe Montana"
+      ]
+    },
+    {
+      "q": "Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?",
+      "a": [
+        "Nosferatu",
+        "Frankenstein",
+        "The Headless Horseman",
+        "Häxan"
+      ]
+    },
+    {
+      "q": "This trope refers to minor characters that are killed off to show how a monster works.",
+      "a": [
+        "Red Shirt",
+        "Minions",
+        "Expendables",
+        "Cannon Fodder"
+      ]
+    },
+    {
+      "q": "The 1939 movie \"The Wizard of Oz\" contained a horse that changed color, what material did they use to achieve this effect?",
+      "a": [
+        "Gelatin",
+        "Dye",
+        "Paint",
+        "CGI Effect"
+      ]
+    },
+    {
+      "q": "Who is the main antagonist of Christopher Nolan's 2012 film \"The Dark Knight Rises\"?",
+      "a": [
+        "Bane",
+        "The Joker",
+        "CIA",
+        "The Riddler"
+      ]
+    },
+    {
+      "q": "What was the first superhero film James Gunn was involved with?",
+      "a": [
+        "The Specials",
+        "Super",
+        "Guardians of the Galaxy",
+        "Brightburn"
+      ]
+    },
+    {
+      "q": "What was the name of the protagonist in the movie Commando (1985)?",
+      "a": [
+        "John Matrix",
+        "Ben Richards",
+        "Douglas Quaid",
+        "Harry Tasker"
+      ]
+    },
+    {
+      "q": "According to the Star Wars lore, what is Han Solo's home planet?",
+      "a": [
+        "Corellia",
+        "Tatooine",
+        "Naboo",
+        "Coruscant"
+      ]
+    },
+    {
+      "q": "Which of the following films was NOT directed by Quentin Tarantino?",
+      "a": [
+        "From Dusk till Dawn",
+        "Jackie Brown",
+        "Pulp Fiction",
+        "Reservoir Dogs"
+      ]
+    },
+    {
+      "q": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+      "a": [
+        "Dave",
+        "John",
+        "Will",
+        "Carl"
+      ]
+    },
+    {
+      "q": "What was the first monster to appear alongside Godzilla?",
+      "a": [
+        "Anguirus",
+        "King Kong",
+        "Mothra",
+        "King Ghidora"
+      ]
+    },
+    {
+      "q": "Which DC superhero was NOT included in the 2017 movie \"Justice League\"?",
+      "a": [
+        "Green Arrow",
+        "Batman",
+        "Cyborg",
+        "Wonder Woman"
+      ]
+    },
+    {
+      "q": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+      "a": [
+        "Bombardier Billy Wells",
+        "Freddie Mills",
+        "Terry Spinks",
+        "Don Cockell"
+      ]
+    },
+    {
+      "q": "Which film has been critically regarded as the best film of all time?",
+      "a": [
+        "Citizen Kane",
+        "Avatar",
+        "The Godfather Part II",
+        "The Room"
+      ]
+    },
+    {
+      "q": "In the movie \"Back to the Future,\" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",
+      "a": [
+        "88 mph",
+        "77 mph",
+        "100 mph",
+        "70 mph"
+      ]
+    },
+    {
+      "q": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+      "a": [
+        "Gopher",
+        "Tigger",
+        "Heffalumps",
+        "Rabbit"
+      ]
+    },
+    {
+      "q": "Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?",
+      "a": [
+        "Count Dracula",
+        "Dr Frankenstein",
+        "Werewolf",
+        "The Creature from the Black Lagoon"
+      ]
+    },
+    {
+      "q": "What is the oldest Disney film?",
+      "a": [
+        "Snow White and the Seven Dwarfs",
+        "Pinocchio",
+        "Dumbo",
+        "Fantasia"
+      ]
+    },
+    {
+      "q": "Actress Susan Sarandon caught pneumonia during filming of which movie?",
+      "a": [
+        "The Rocky Horror Picture Show",
+        "Thelma and Louise",
+        "Dead Man Walking",
+        "Enchanted"
+      ]
+    },
+    {
+      "q": "What is the name of the foley artist who designed the famous sounds of Star Wars, including Chewbacca's roar and R2-D2's beeps and whistles?",
+      "a": [
+        "Ben Burtt",
+        "Ken Burns",
+        "Ralph McQuarrie",
+        "Miranda Keyes"
+      ]
+    },
+    {
+      "q": "Which of these actors/actresses is NOT a part of the cast for the 2016 movie \"Suicide Squad\"?",
+      "a": [
+        "Scarlett Johansson",
+        "Jared Leto",
+        "Will Smith",
+        "Margot Robbie"
+      ]
+    },
+    {
+      "q": "Which of the following is not the name of a \"Bond Girl\"?",
+      "a": [
+        "Vanessa Kensington",
+        "Pam Bouvier",
+        "Mary Goodnight",
+        "Wai Lin"
+      ]
+    },
+    {
+      "q": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
+      "a": [
+        "The Simpsons Movie",
+        "Spider-Man 3",
+        "Shrek the Third",
+        "Ratatouille"
+      ]
+    },
+    {
+      "q": "In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",
+      "a": [
+        "The New Republic",
+        "The Rebel Alliance",
+        "The Crimson Dawn",
+        "The First Order"
+      ]
+    },
+    {
+      "q": "In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program's name?",
+      "a": [
+        "Clu",
+        "Tron",
+        "MCP",
+        "Quorra"
+      ]
+    },
+    {
+      "q": "Who is frozen at the end of the movie \"Goldeneye\"?",
+      "a": [
+        "Boris Grishenko",
+        "James Bond",
+        "Natalya Simonova",
+        "Alec Travelyan"
+      ]
+    },
+    {
+      "q": "What is the name of the queen's pet in A Bug's Life?",
+      "a": [
+        "Aphie",
+        "Flik",
+        "Hopper",
+        "Dot"
+      ]
+    },
+    {
+      "q": "Which of these Disney classics was released in 1970?",
+      "a": [
+        "The Aristocats",
+        "One Hundred and One Dalmatians",
+        "The Fox and the Hound",
+        "The Little Mermaid"
+      ]
+    },
+    {
+      "q": "In the 1964 film \"Zulu\", what song does the British Army company sing before the final battle?",
+      "a": [
+        "Men of Harlech",
+        "Scotland the Brave",
+        "Colonel Bogey March",
+        "The British Grenadiers"
+      ]
+    },
+    {
+      "q": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+      "a": [
+        "Plan 9 from Outer Space",
+        "The Man from Planet X",
+        "It Came from Outer Space",
+        "The Day The Earth Stood Still"
+      ]
+    },
+    {
+      "q": "In the film \"Requiem for a Dream\", what drug does Jared Leto's character get addicted to?",
+      "a": [
+        "Heroin",
+        "Cocaine",
+        "Marijuana",
+        "Oxycodone"
+      ]
+    },
+    {
+      "q": "Who directed the movie \"Alien\"?",
+      "a": [
+        "Ridley Scott",
+        "Christopher Nolan",
+        "Michael Bay",
+        "James Cameron"
+      ]
+    },
+    {
+      "q": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film \"Dirty Harry\"?",
+      "a": [
+        "1971",
+        "1975",
+        "1983",
+        "1969"
+      ]
+    },
+    {
+      "q": "This movie contains the quote, \"Nobody puts Baby in a corner.\"",
+      "a": [
+        "Dirty Dancing",
+        "Three Men and a Baby",
+        "Ferris Bueller's Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "q": "Brendan Fraser starred in the following movies, except which one?",
+      "a": [
+        "Titanic",
+        "Monkeybone",
+        "Encino Man",
+        "Mrs. Winterbourne"
+      ]
+    },
+    {
+      "q": "Who played Thanos in Avengers: Infinity War and Avengers: End Game?",
+      "a": [
+        "Josh Brolin",
+        "Tom Hiddleston",
+        "Adam Sandler",
+        "Sean Gunn"
+      ]
+    },
+    {
+      "q": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+      "a": [
+        "Beer",
+        "Fast food",
+        "Food stamps",
+        "They weren't paid"
+      ]
+    },
+    {
+      "q": "What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+      "a": [
+        "Groovy.",
+        "Gnarly.",
+        "Perfect.",
+        "Nice."
+      ]
+    },
+    {
+      "q": "In the \"Jurassic Park\" universe, what was the first dinosaur cloned by InGen in 1986?",
+      "a": [
+        "Velociraptor",
+        "Triceratops",
+        "Troodon",
+        "Brachiosaurus"
+      ]
+    },
+    {
+      "q": "Which iconic character is featured in movies such as \"The Enforcer\", \"Sudden Impact\", and \"The Dead Pool\"?",
+      "a": [
+        "Dirty Harry",
+        "Indiana Jones",
+        "James Bond",
+        "Harry Potter"
+      ]
+    },
+    {
+      "q": "Which of the following James Bond villains is not affiliated with the SPECTRE organization?",
+      "a": [
+        "Auric Goldfinger",
+        "Dr. Julius No",
+        "Rosa Klebb",
+        "Emilio Largo"
+      ]
+    },
+    {
+      "q": "Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
+      "a": [
+        "Willem Dafoe",
+        "Charlie Sheen",
+        "Matt Damon",
+        "Johnny Depp"
+      ]
+    },
+    {
+      "q": "In which African country was the 2006 film 'Blood Diamond' mostly set in?",
+      "a": [
+        "Sierra Leone",
+        "Liberia",
+        "Burkina Faso",
+        "Central African Republic"
+      ]
+    }
+  ]
+}

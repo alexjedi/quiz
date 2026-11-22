@@ -8,6 +8,12 @@ export interface Settings {
   packIds: string[];
 }
 
+export interface PackInfo {
+  id: string;
+  title: string;
+  count: number;
+}
+
 export interface PlayerView {
   id: string;
   name: string;
@@ -22,6 +28,7 @@ export interface PlayerView {
 export interface QuestionView {
   index: number;
   total: number;
+  blitz: boolean;
   pack: string;
   text: string;
   answers: string[];
@@ -51,6 +58,7 @@ export interface RoomState {
   now: number;
   phaseEndsAt: number;
   settings: Settings;
+  packs: PackInfo[];
   players: PlayerView[];
   question: QuestionView | null;
   reveal: RevealView | null;

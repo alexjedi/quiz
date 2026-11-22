@@ -1,0 +1,907 @@
+{
+  "id": "otdb-television",
+  "title": "Television",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Who was the first ever actor to play \"The Doctor\" on \"Doctor Who\"?",
+      "a": [
+        "William Hartnell",
+        "David Tennant",
+        "Peter Capaldi",
+        "Tom Baker"
+      ]
+    },
+    {
+      "q": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+      "a": [
+        "Finders Keepers",
+        "Double Dare",
+        "Nickelodeon Guts",
+        "Nick Arcade"
+      ]
+    },
+    {
+      "q": "The 1985 Toyota Corolla \"AE86\" was the hero car for what anime?",
+      "a": [
+        "Initial D",
+        "Wangan Midnight",
+        "Ghost MF",
+        "Ex Driver"
+      ]
+    },
+    {
+      "q": "Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?",
+      "a": [
+        "Tilly",
+        "Tom",
+        "Tiny",
+        "None of the Above"
+      ]
+    },
+    {
+      "q": "In \"It's Always Sunny in Philadelphia\" what was the name of Frank's wrestling persona?",
+      "a": [
+        "The Trash Man",
+        "Bird of War",
+        "Day Man",
+        "The Maniac"
+      ]
+    },
+    {
+      "q": "In the TV show \"Mad Men\", what was Donald Draper's birthname?",
+      "a": [
+        "Richard \"Dick\" Whitman",
+        "Donald Draper",
+        "John Ashbury",
+        "Michael \"Mikey\" Wilhelm"
+      ]
+    },
+    {
+      "q": "What was Nickelodeon's original name?",
+      "a": [
+        "Pinwheel",
+        "MTVKids",
+        "KidsTV",
+        "Splat!"
+      ]
+    },
+    {
+      "q": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+      "a": [
+        "Oscar",
+        "Emmy",
+        "Tony",
+        "Grammy"
+      ]
+    },
+    {
+      "q": "In \"Star Trek: Voyager\", which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+      "a": [
+        "Pathfinder",
+        "Message In A Bottle",
+        "Someone To Watch Over Me",
+        "Counterpoint"
+      ]
+    },
+    {
+      "q": "Who was the winner of the 2016 WWE Royal Rumble?",
+      "a": [
+        "Triple H",
+        "Roman Reigns",
+        "AJ Styles",
+        "Dean Ambrose"
+      ]
+    },
+    {
+      "q": "Which WWF wrestler had the nickname \"The Ayatollah of Rock 'N' Rolla\"?",
+      "a": [
+        "Chris Jericho",
+        "Marty Jannetty",
+        "Scott Hall",
+        "Shawn Michaels"
+      ]
+    },
+    {
+      "q": "What actor portrays Hogan \"Wash\" Washburne in the TV Show Firefly?",
+      "a": [
+        "Alan Tudyk",
+        "Adam Baldwin",
+        "Nathan Fillion",
+        "Sean Maher"
+      ]
+    },
+    {
+      "q": "In \"Star Trek\", what sauce is commonly used by Klingons on bregit lung?",
+      "a": [
+        "Grapok sauce",
+        "Gazorpazorp pudding",
+        "Sweet chili sauce",
+        "Grapork sauce"
+      ]
+    },
+    {
+      "q": "Who was Firestorm's rival during the original run of UK Robot Wars?",
+      "a": [
+        "Panic Attack",
+        "Razer",
+        "Chaos 2",
+        "Hypno Disc"
+      ]
+    },
+    {
+      "q": "Guy's Grocery Games is hosted by which presenter?",
+      "a": [
+        "Guy Fieri",
+        "Guy Martin",
+        "Guy Ritchie",
+        "Ainsley Harriott"
+      ]
+    },
+    {
+      "q": "In \"Breaking Bad,\" which main character was planned to be killed in Season 1 but wasn't because the show creator liked the actor?",
+      "a": [
+        "Jesse Pinkman",
+        "Saul Goodman",
+        "Gus Fring",
+        "Hank Schrader"
+      ]
+    },
+    {
+      "q": "From what show is the character \"James Doakes\"?",
+      "a": [
+        "Dexter",
+        "Marvel's Daredevil",
+        "Boardwalk Empire",
+        "The Walking Dead"
+      ]
+    },
+    {
+      "q": "Who played the Waitress in the Spam sketch of \"Monty Python's Flying Circus\"?",
+      "a": [
+        "Terry Jones",
+        "Eric Idle",
+        "Graham Chapman",
+        "John Cleese"
+      ]
+    },
+    {
+      "q": "In the original Doctor Who series (1963), fourth doctor Tom Baker's scarf was how long?",
+      "a": [
+        "7 Meters",
+        "10 Meters",
+        "2 Meters",
+        "5 Meters"
+      ]
+    },
+    {
+      "q": "What is the surname of the character Daryl in AMC's show The Walking Dead?",
+      "a": [
+        "Dixon",
+        "Grimes",
+        "Dickinson",
+        "Dicketson"
+      ]
+    },
+    {
+      "q": "Who is the main character in the show \"Burn Notice\"?",
+      "a": [
+        "Michael Westen",
+        "Sam Axe",
+        "Fiona Glenanne",
+        "Madeline Westen"
+      ]
+    },
+    {
+      "q": "In AMC's TV Series \"The Walking Dead\" what are \"Zombies\" referred to as?",
+      "a": [
+        "Walkers",
+        "Creepers",
+        "Maggots",
+        "Hell Pigs"
+      ]
+    },
+    {
+      "q": "Which company has exclusive rights to air episodes of the \"The Grand Tour\"?",
+      "a": [
+        "Amazon",
+        "Netflix",
+        "BBC",
+        "CCTV"
+      ]
+    },
+    {
+      "q": "In Star Trek: The Next Generation, what is the name of Data's cat?",
+      "a": [
+        "Spot",
+        "Mittens",
+        "Tom",
+        "Kitty"
+      ]
+    },
+    {
+      "q": "In \"Star Trek\", what is the Klingon delicacy of \"gagh\" made from?",
+      "a": [
+        "Serpent worms",
+        "Earthworms",
+        "Spaghetti noodles",
+        "Klingworms"
+      ]
+    },
+    {
+      "q": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
+      "a": [
+        "Slipping off a cliff, and nearly drowning in icy water",
+        "Crash landing when arriving at Keflavík airport",
+        "A minor car accident in a snowstorm",
+        "Being served under-cooked chicken at his hotel"
+      ]
+    },
+    {
+      "q": "In the Black Mirror episode \"Bandersnatch\", PAC-MAN stands for:",
+      "a": [
+        "Program And Control Man",
+        "Postgraduate Aplications Centre Man",
+        "Political Action Committee Man",
+        "Physics & Astronomy Classification Man"
+      ]
+    },
+    {
+      "q": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+      "a": [
+        "Time And Relative Dimensions In Space",
+        "Time And Resting Dimensions In Space",
+        "Time And Relative Dimensions In Style",
+        "Toilet Aid Rope Dog Is Soup"
+      ]
+    },
+    {
+      "q": "In the Star Trek universe, what color is Vulcan blood?",
+      "a": [
+        "Green",
+        "Blue",
+        "Red",
+        "Purple"
+      ]
+    },
+    {
+      "q": "What is the name of the race horse that Tony Soprano becomes attached to?",
+      "a": [
+        "Pie-O-My",
+        "Man o' war",
+        "Bada Bing",
+        "Honest Earnings"
+      ]
+    },
+    {
+      "q": "What is Meg's full name in \"Family Guy\"?",
+      "a": [
+        "Megatron Griffin",
+        "Who-Cares Griffin",
+        "Neil Griffin",
+        "Megan Griffin"
+      ]
+    },
+    {
+      "q": "The theme for the popular science fiction series \"Doctor Who\" was composed by who?",
+      "a": [
+        "Ron Grainer",
+        "Murray Gold",
+        "Delia Derbyshire",
+        "Peter Howell"
+      ]
+    },
+    {
+      "q": "In which year did the British television series \"The Bill\" end?",
+      "a": [
+        "2010",
+        "2001",
+        "2007",
+        "2012"
+      ]
+    },
+    {
+      "q": "Who was the first Big Brother US winner to win with a perfect game?",
+      "a": [
+        "Dan Gheesling",
+        "Ian Terry",
+        "Jordan Lloyd",
+        "Rachael Reilly"
+      ]
+    },
+    {
+      "q": "Which of these Nickelodeon game shows aired first?",
+      "a": [
+        "Double Dare",
+        "Nick Arcade",
+        "Finders Keepers",
+        "Nickelodeon Guts"
+      ]
+    },
+    {
+      "q": "Which of these in the Star Trek series is NOT Klingon food?",
+      "a": [
+        "Hors d'oeuvre",
+        "Racht",
+        "Gagh",
+        "Bloodwine"
+      ]
+    },
+    {
+      "q": "Grant Gustin plays which superhero on the CW show of the same name?",
+      "a": [
+        "The Flash",
+        "The Arrow",
+        "Black Canary",
+        "Daredevil"
+      ]
+    },
+    {
+      "q": "Cesar Romero played which iconic Batman villain from the 1960's TV show?",
+      "a": [
+        "The Joker",
+        "The Penguin",
+        "The Riddler",
+        "Mr. Freeze"
+      ]
+    },
+    {
+      "q": "What is the real name of the famous spanish humorist, El Risitas?",
+      "a": [
+        "Juan Joya Borga",
+        "Gabriel Garcia Marquez",
+        "Jesus Quintero",
+        "Ernesto Guevara"
+      ]
+    },
+    {
+      "q": "What is the name of the \"Flash\" and \"Arrow\" spinoff featuring a team of characters that have appeared on both shows?",
+      "a": [
+        "Legends of Tomorrow",
+        "Heroes of Tomorrow",
+        "The Justice Society of America",
+        "The Justice Society"
+      ]
+    },
+    {
+      "q": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
+      "a": [
+        "Eggo Waffles",
+        "Toast",
+        "Captain Crunch",
+        "Bacon and Eggs"
+      ]
+    },
+    {
+      "q": "In the show \"Tengen Toppa Gurren Lagann\" what is the name of the character who force everyone to live underground?",
+      "a": [
+        "Lordgenome",
+        "Kingloname",
+        "Lord Genome",
+        "King Loname"
+      ]
+    },
+    {
+      "q": "On the NBC show Community, whose catch-phrase was \"Pop! Pop!\"?",
+      "a": [
+        "Magnitude",
+        "Star Burns",
+        "Leonard",
+        "Senoir Chang"
+      ]
+    },
+    {
+      "q": "What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?",
+      "a": [
+        "October 10th, 2010",
+        "November 6th, 2010",
+        "April 14th, 1984",
+        "May 18th, 2015"
+      ]
+    },
+    {
+      "q": "In which British seaside town was the BBC sitcom \"Fawlty Towers\" set?",
+      "a": [
+        "Torquay",
+        "Blackpool",
+        "Bournemouth",
+        "Great Yarmouth"
+      ]
+    },
+    {
+      "q": "In the television show Breaking Bad, what is the street name of Walter and Jesse's notorious product?",
+      "a": [
+        "Blue Sky",
+        "Baby Blue",
+        "Rock Candy",
+        "Pure Glass"
+      ]
+    },
+    {
+      "q": "When did the TV show Rick and Morty first air on Adult Swim?",
+      "a": [
+        "2013",
+        "2014",
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "q": "What is the name of the mad scientist who owns Planet Express in Futurama?",
+      "a": [
+        "Hubert J. Farnsworth",
+        "Philip J. Fry",
+        "Rick Sanchez",
+        "Ogden Wernstrom"
+      ]
+    },
+    {
+      "q": "In the TV show 'M*A*S*H', what was the nickname of Corporal Walter O'Reilly?",
+      "a": [
+        "Radar",
+        "Hawkeye",
+        "Hot Lips",
+        "Trapper"
+      ]
+    },
+    {
+      "q": "In Game of Thrones, what is Littlefinger's real name?",
+      "a": [
+        "Petyr Baelish",
+        "Podrick Payne",
+        "Lancel Lannister",
+        "Torrhen Karstark"
+      ]
+    },
+    {
+      "q": "In \"Breaking Bad\", Walter White is a high school teacher diagnosed with which form of cancer?",
+      "a": [
+        "Lung Cancer",
+        "Prostate Cancer",
+        "Brain Cancer",
+        "Testicular Cancer"
+      ]
+    },
+    {
+      "q": "In the show \"The Office\" who does Michael Scott eventually end up with?",
+      "a": [
+        "Holly Flax",
+        "Angela Martin",
+        "Jan Levinson",
+        "Pam Beesly"
+      ]
+    },
+    {
+      "q": "In Supernatural, what's is Sam's brothers name?",
+      "a": [
+        "Dean",
+        "Dave",
+        "Steve",
+        "Mike"
+      ]
+    },
+    {
+      "q": "In the show \"Dragonball Z\", what is the name of Cell's most powerful attack?",
+      "a": [
+        "Solar Kamehameha",
+        "Super Kamehameha",
+        "Cell Kamehameha",
+        "Android Kamehameha"
+      ]
+    },
+    {
+      "q": "What does Bart sell his soul for in The Simpsons episode 'Bart Sells His Soul'?",
+      "a": [
+        "$5",
+        "A Copy of Bonestorm 2",
+        "$100",
+        "A Giant Gobstopper"
+      ]
+    },
+    {
+      "q": "Which British writer wrote for both Doctor Who and Sherlock?",
+      "a": [
+        "Steven Moffatt",
+        "Phil Ford",
+        "Russell T Davies",
+        "Toby Whithouse"
+      ]
+    },
+    {
+      "q": "In \"The Simpsons\", what is the real name of \"Comic Book Guy\"?",
+      "a": [
+        "Jeff Albertson",
+        "Comic Book Guy",
+        "Edward Stone",
+        "Jack Richardson"
+      ]
+    },
+    {
+      "q": "Who played the sun baby in the original run of Teletubbies?",
+      "a": [
+        "Jessica Smith",
+        "Pui Fan Lee",
+        "Sue Monroe",
+        "Lisa Brockwell"
+      ]
+    },
+    {
+      "q": "Which movie served as the KTMA pilot episode for the show \"Mystery Science Theater 3000\"?",
+      "a": [
+        "The Green Slime",
+        "The Robot Vs. The Aztec Mummy",
+        "The Crawling Eye",
+        "Plan 9 From Outer Space"
+      ]
+    },
+    {
+      "q": "In what year did \"The Big Bang Theory\" debut on CBS?",
+      "a": [
+        "2007",
+        "2008",
+        "2006",
+        "2009"
+      ]
+    },
+    {
+      "q": "Who played Agent Fox Mulder in the TV sci-fi drama \"The X-Files\"?",
+      "a": [
+        "David Duchovny",
+        "Gillian Anderson",
+        "Robert Patrick",
+        "Mitch Pileggi"
+      ]
+    },
+    {
+      "q": "In the comedy series \"Trailer Park Boys\", which of the following characters takes care of stray cats?",
+      "a": [
+        "Bubbles",
+        "Ricky",
+        "Julian",
+        "Randy"
+      ]
+    },
+    {
+      "q": "How many seasons did the Sci-Fi television show \"Stargate Universe\" have?",
+      "a": [
+        "2",
+        "10",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "q": "Prior to working at Wizards of the Coast, \"Mark Rosewater\" was a writer for which show?",
+      "a": [
+        "Roseanne",
+        "Boy Meets World",
+        "The X-Files",
+        "NYPD Blue"
+      ]
+    },
+    {
+      "q": "Which of these television shows makes everyone look under their chair?",
+      "a": [
+        "Oprah",
+        "Jimmy Fallon",
+        "Saturday Night Live",
+        "Larry Rubert"
+      ]
+    },
+    {
+      "q": "What is the name of Chris's brother in \"Everybody Hates Chris\"?",
+      "a": [
+        "Drew",
+        "Jerome",
+        "Greg",
+        "Joe"
+      ]
+    },
+    {
+      "q": "What is the name of the planet that the Doctor from television series \"Doctor Who\" comes from?",
+      "a": [
+        "Gallifrey",
+        "Sontar",
+        "Skaro",
+        "Mondas"
+      ]
+    },
+    {
+      "q": "In the show 'Doctor Who', what is the name of the time-capsule model stolen by 'the Doctor'?",
+      "a": [
+        "TT Type 40, Mark 3 (TARDIS)",
+        "TT Type 1, Mark 3 (TARDIS)",
+        "TT Type 40, Mark 5 (TARDIS)",
+        "TT Type 1, Mark 5 (TARDIS)"
+      ]
+    },
+    {
+      "q": "What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked?",
+      "a": [
+        "Mr. Bean in Room 426",
+        "Mr. Bean Goes to Town",
+        "The Trouble with Mr. Bean",
+        "Back to School Mr. Bean"
+      ]
+    },
+    {
+      "q": "Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"?",
+      "a": [
+        "LazyTown",
+        "Sofia the First",
+        "DuckTales",
+        "Tom and Jerry"
+      ]
+    },
+    {
+      "q": "In the episode of SpongeBob SquarePants, \"Survival of the Idiots\", Spongebob called Patrick which nickname?",
+      "a": [
+        "Pinhead",
+        "Starfish",
+        "Larry",
+        "Dirty Dan"
+      ]
+    },
+    {
+      "q": "Which character was played by Dustin Diamond in the sitcom 'Saved by the Bell'?",
+      "a": [
+        "Screech",
+        "Zack",
+        "Mr. Belding",
+        "A.C. Slater"
+      ]
+    },
+    {
+      "q": "In the TV show \"Cheers\", Sam Malone was a former relief pitcher for which baseball team?",
+      "a": [
+        "Boston Red Sox",
+        "New York Mets",
+        "Baltimore Orioles",
+        "Milwaukee Brewers"
+      ]
+    },
+    {
+      "q": "In \"Donkey Kong Country\", why does Donkey Kong want to know the secret of the crystal coconut?",
+      "a": [
+        "He's the big kahuna.",
+        "To find out where all the bananas are.",
+        "Because Diddy Kong forced him.",
+        "He wants to punish brutes."
+      ]
+    },
+    {
+      "q": "Who composed the theme song for The Simpsons?",
+      "a": [
+        "Danny Elfman",
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone"
+      ]
+    },
+    {
+      "q": "In \"Spongebob Squarepants,\" what is Mr. Krabs' full name?",
+      "a": [
+        "Eugene H. Krabs",
+        "Eugene G. Krabs",
+        "Eugene J. Krabs",
+        "Eugene D. Krabs"
+      ]
+    },
+    {
+      "q": "What was the name of the police officer in the cartoon \"Top Cat\"?",
+      "a": [
+        "Dibble",
+        "Barbrady",
+        "Mahoney",
+        "Murphy"
+      ]
+    },
+    {
+      "q": "The \"Psycho\" series of videos on YouTube was created by which of the following?",
+      "a": [
+        "RiDGiD STUDiOS",
+        "Dan Bell",
+        "Billy Familia",
+        "VeganGainz"
+      ]
+    },
+    {
+      "q": "Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks?",
+      "a": [
+        "George Clooney",
+        "Matthew Perry",
+        "Dennis Miller",
+        "Pierce Brosnan"
+      ]
+    },
+    {
+      "q": "Which of these Bojack Horseman characters is a human?",
+      "a": [
+        "Todd Chavez",
+        "Lennie Turtletaub",
+        "Princess Carolyn",
+        "Tom Jumbo-Grumbo"
+      ]
+    },
+    {
+      "q": "What TV show featured older women named Blanche, Rose, Dorothy and Sophia?",
+      "a": [
+        "The Golden Girls",
+        "Cheers",
+        "The Wonder Years",
+        "Family Ties"
+      ]
+    },
+    {
+      "q": "Which of the following figures did NOT have a cameo on \"The Drew Carey Show\" (1995-2004)?",
+      "a": [
+        "Bill Cosby",
+        "Donald Trump",
+        "\"Weird Al\" Yankovic",
+        "Daffy Duck"
+      ]
+    },
+    {
+      "q": "In Game of Thrones what is the name of Jon Snow's sword?",
+      "a": [
+        "Longclaw",
+        "Oathkeeper",
+        "Widow's Wail",
+        "Needle"
+      ]
+    },
+    {
+      "q": "Who was the star of the TV series \"24\"?",
+      "a": [
+        "Kiefer Sutherland",
+        "Kevin Bacon",
+        "Hugh Laurie",
+        "Rob Lowe"
+      ]
+    },
+    {
+      "q": "How many seasons did the TV show \"Donkey Kong Country\" last?",
+      "a": [
+        "2",
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "q": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+      "a": [
+        "Laura Roslin",
+        "William Adama",
+        "Tricia Helfer",
+        "Harry Stills"
+      ]
+    },
+    {
+      "q": "In the TV Show \"Donkey Kong Country\", which episode did the song \"Eddie, Let Me Go Back To My Home\" play in?",
+      "a": [
+        "It's a Wonderful Life",
+        "Message In A Bottle Show",
+        "To The Moon Baboon",
+        "Ape-Nesia"
+      ]
+    },
+    {
+      "q": "\"The A Team\" first aired in the USA and in the UK in what year?",
+      "a": [
+        "1983",
+        "1981",
+        "1985",
+        "1987"
+      ]
+    },
+    {
+      "q": "In which state of America was the Fresh Prince of Bel-Air born and raised in?",
+      "a": [
+        "Pennsylvania",
+        "Florida",
+        "California",
+        "New Jersey"
+      ]
+    },
+    {
+      "q": "Which of following is rude and dishonorable by Klingon standards?",
+      "a": [
+        "Taking his D'k tahg",
+        "Insulting and laughing at him at the dinner table",
+        "Reaching over and taking his meal",
+        "Punching him and taking his ship station position"
+      ]
+    },
+    {
+      "q": "The first half-hour CGI cartoon, ReBoot, aired on which year?",
+      "a": [
+        "1994",
+        "1993",
+        "1998",
+        "1999"
+      ]
+    },
+    {
+      "q": "In the original Star Trek TV series, what was Captain James T. Kirk's middle name?",
+      "a": [
+        "Tiberius",
+        "Trevor",
+        "Travis",
+        "Tyrone"
+      ]
+    },
+    {
+      "q": "How many seasons did \"Stargate SG-1\" have?",
+      "a": [
+        "10",
+        "3",
+        "7",
+        "12"
+      ]
+    },
+    {
+      "q": "In Star Trek, what is the name of Spock's father?",
+      "a": [
+        "Sarek",
+        "Tuvok",
+        "T'Pal",
+        "Surak"
+      ]
+    },
+    {
+      "q": "In Breaking Bad, the initials W.W. refer to which of the following?",
+      "a": [
+        "Walter White",
+        "William Wolf",
+        "Willy Wonka",
+        "Wally Walrus"
+      ]
+    },
+    {
+      "q": "In Two and a Half Men, what is Alan Harper's son's name?",
+      "a": [
+        "Jake",
+        "John",
+        "Jeremy",
+        "James"
+      ]
+    },
+    {
+      "q": "Which track by \"Massive Attack\" is used for the theme of \"House\"?",
+      "a": [
+        "Teardrop",
+        "Protection",
+        "Angel",
+        "Black Milk"
+      ]
+    },
+    {
+      "q": "Who was the winner of \"Big Brother\" Season 10?",
+      "a": [
+        "Dan Gheesling",
+        "Bryce Kranyik",
+        "Ryan Sutfin",
+        "Chris Mundorf"
+      ]
+    },
+    {
+      "q": "Who won Big Brother 2014 UK?",
+      "a": [
+        "Helen Wood",
+        "Christopher Hall",
+        "Pauline Bennett",
+        "Pavandeep \"Pav\" Paul"
+      ]
+    },
+    {
+      "q": "In the cartoon 'SpongeBob SquarePants', what did the acronym E.V.I.L stand for?",
+      "a": [
+        "Every Villain Is Lemons",
+        "Every Villain Is Lemonade",
+        "Every Villain Is Limes",
+        "Each Villain Is Lemonade"
+      ]
+    }
+  ]
+}

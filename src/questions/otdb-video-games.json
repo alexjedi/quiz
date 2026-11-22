@@ -1,0 +1,907 @@
+{
+  "id": "otdb-video-games",
+  "title": "Video Games",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "What is the name of the protagonist of Life Is Strange?",
+      "a": [
+        "Max Caulfield",
+        "Frank Bowers",
+        "Rachel Amber",
+        "Kate Marsh"
+      ]
+    },
+    {
+      "q": "In \"PUBATTLEGROUNDS\" which ammo type does the M24 use?",
+      "a": [
+        "7.62mm",
+        "5.56mm",
+        "9mm",
+        ".300 Magnum"
+      ]
+    },
+    {
+      "q": "What was the original name of  \"Minecraft\"?",
+      "a": [
+        "Cave Game",
+        "Minecraft: Order of the Stone",
+        "Dig And Build",
+        "Infiniminer"
+      ]
+    },
+    {
+      "q": "Who was Tetris created by?",
+      "a": [
+        "Alexey Pajitnov",
+        "Toru Iwatani",
+        "Allan Alcorn",
+        "William Higinbotham"
+      ]
+    },
+    {
+      "q": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+      "a": [
+        "Danganronpa: Trigger Happy Havoc",
+        "Danganronpa 2: Goodbye Despair",
+        "Danganronpa V3: Killing Harmony",
+        "Danganronpa 3: The End of Hope's Peak High School"
+      ]
+    },
+    {
+      "q": "Which of these characters wasn't a villian in Club Penguin?",
+      "a": [
+        "The Director",
+        "Herbert P. Bear",
+        "Tusk",
+        "Ultimate Proto-Bot 10000"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a main playable character in \"Grand Theft Auto V\"?",
+      "a": [
+        "Lamar",
+        "Trevor",
+        "Michael",
+        "Franklin"
+      ]
+    },
+    {
+      "q": "What element does the Zinogre use in Monster Hunter?",
+      "a": [
+        "Thunder",
+        "Ice",
+        "Fire",
+        "Water"
+      ]
+    },
+    {
+      "q": "In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",
+      "a": [
+        "Izayoi Sakuya",
+        "Hakurei Reimu",
+        "Kirisame Marisa",
+        "Kochiya Sanae"
+      ]
+    },
+    {
+      "q": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+      "a": [
+        "IDCLIP",
+        "IDFA",
+        "IDDQD",
+        "IDSPISPOPD"
+      ]
+    },
+    {
+      "q": "In the \"Halo\" series, what is the name of the race of aliens humans refer to as \"Grunts\"?",
+      "a": [
+        "Unggoy",
+        "Huragok",
+        "Sangheili",
+        "Yanme'e"
+      ]
+    },
+    {
+      "q": "What is the lowest amount of max health you can have in Team Fortress 2?",
+      "a": [
+        "70",
+        "100",
+        "50",
+        "95"
+      ]
+    },
+    {
+      "q": "Which of the following is not a faction in Tom Clancy's The Division?",
+      "a": [
+        "CDC",
+        "Cleaners",
+        "Last Man Batallion",
+        "Rikers"
+      ]
+    },
+    {
+      "q": "What is the name of the final boss in Turok: Dinosaur Hunter?",
+      "a": [
+        "The Campaigner",
+        "The Primagen",
+        "Oblivion",
+        "Lord Tyrannus"
+      ]
+    },
+    {
+      "q": "When was Nintendo's Virtual Boy released?",
+      "a": [
+        "1995",
+        "1989",
+        "1997",
+        "1992"
+      ]
+    },
+    {
+      "q": "What block in Minecraft has the highest blast resistance?",
+      "a": [
+        "Barrier",
+        "Obsidian",
+        "Bedrock",
+        "Block of Diamond"
+      ]
+    },
+    {
+      "q": "Who was the main antagonist of Max Payne 3 (2012)?",
+      "a": [
+        "Victor Branco",
+        "Álvaro Neves",
+        "Armando Becker",
+        "Milo Rego"
+      ]
+    },
+    {
+      "q": "Who's the creator of Geometry Dash?",
+      "a": [
+        "Robert Topala",
+        "Scott Cawthon",
+        "Adam Engels",
+        "Andrew Spinks"
+      ]
+    },
+    {
+      "q": "Which of these was NOT a launch title for the Nintendo 64?",
+      "a": [
+        "Mario Kart 64",
+        "Super Mario 64",
+        "Pilotwings 64",
+        "Saikyō Habu Shōgi"
+      ]
+    },
+    {
+      "q": "In Call of Duty: United Offensive, what two soldiers share a name of a video game character?",
+      "a": [
+        "Gordon & Freeman",
+        "Sam & Fisher",
+        "Nathan & Drake",
+        "Dig & Dug"
+      ]
+    },
+    {
+      "q": "What vehicle in PUBG has the highest top speed?",
+      "a": [
+        "Motorcycle",
+        "PG-117",
+        "Dacia",
+        "Buggy"
+      ]
+    },
+    {
+      "q": "What video game engine does the videogame Quake 2 run in?",
+      "a": [
+        "iD Tech 2",
+        "iD Tech 3",
+        "iD Tech 1",
+        "Unreal Engine"
+      ]
+    },
+    {
+      "q": "In \"Mario & Sonic at the Olympic Games\", characters are split into how many types?",
+      "a": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "q": "Who developed the 2016 farming RPG \"Stardew Valley\"?",
+      "a": [
+        "Eric Barone",
+        "Daisuke Amaya",
+        "Jasper Byrne",
+        "Lucas Pope"
+      ]
+    },
+    {
+      "q": "If a \"360 no-scope\" is one full rotation before shooting, how many rotations would a \"1080 no-scope\" be?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "q": "Killing Floor started as a mod for which Unreal Engine 2 game?",
+      "a": [
+        "Unreal Tournament 2004",
+        "Deus Ex: Invisible War",
+        "Unreal Tournament 3",
+        "Postal"
+      ]
+    },
+    {
+      "q": "Which of these games was NOT developed by Markus Persson?",
+      "a": [
+        "Dwarf Fortress",
+        "Minecraft",
+        "Wurm Online",
+        "0x10c"
+      ]
+    },
+    {
+      "q": "In the game \"The Sims\", how many Simoleons does each family start with?",
+      "a": [
+        "20,000",
+        "10,000",
+        "15,000",
+        "25,000"
+      ]
+    },
+    {
+      "q": "Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?",
+      "a": [
+        "Caroline",
+        "Abigail",
+        "Haley",
+        "Leah"
+      ]
+    },
+    {
+      "q": "What household item make the characters of \"Steins; Gate\" travel through time?",
+      "a": [
+        "Microwave",
+        "Computer",
+        "Refrigerator",
+        "Televison"
+      ]
+    },
+    {
+      "q": "What Sims console game featured the Black Eyed Peas in the game?",
+      "a": [
+        "The Urbz: Sims In The City",
+        "The Sims 2",
+        "The Sims",
+        "The Sims: Bustin Out"
+      ]
+    },
+    {
+      "q": "What was the first \"Team Fortress 2\" update to include a war?",
+      "a": [
+        "Sniper vs. Spy Update",
+        "WAR! Update",
+        "Meet Your Match Update",
+        "Spy Vs. Engineer Update"
+      ]
+    },
+    {
+      "q": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+      "a": [
+        "Stairs",
+        "Two-Story Building",
+        "Rocket Launcher",
+        "Stage Play"
+      ]
+    },
+    {
+      "q": "Which country was Eliza \"Ash\" Cohen from \"Tom Clancy's Rainbow Six Siege\" born in?",
+      "a": [
+        "Israel",
+        "United States of America",
+        "Mexico",
+        "Canada"
+      ]
+    },
+    {
+      "q": "What is the name the location-based augmented reality game developed by Niantic before Pokémon GO?",
+      "a": [
+        "Ingress",
+        "Aggress",
+        "Regress",
+        "Digress"
+      ]
+    },
+    {
+      "q": "In the Nintendo DS game 'Ghost Trick: Phantom Detective', what is the name of the hitman seen at the start of the game?",
+      "a": [
+        "Nearsighted Jeego",
+        "One Step Ahead Tengo",
+        "Missile",
+        "Cabanela"
+      ]
+    },
+    {
+      "q": "What is the homeworld of the Elites from Halo?",
+      "a": [
+        "Sanghelios",
+        "Te",
+        "Doisac",
+        "Eayn"
+      ]
+    },
+    {
+      "q": "Which game in the \"Monster Hunter\" series introduced the \"Insect Glaive\" weapon?",
+      "a": [
+        "Monster Hunter 4",
+        "Monster Hunter Freedom",
+        "Monster Hunter Stories",
+        "Monster Hunter 2"
+      ]
+    },
+    {
+      "q": "During development of \"Super Mario World\", Yoshi's hard saddle was originally which of these?",
+      "a": [
+        "A shell",
+        "A slide of Gelatin",
+        "A poffin",
+        "A spike"
+      ]
+    },
+    {
+      "q": "In the Halo series, which era of SPARTAN is Master Chief?",
+      "a": [
+        "SPARTAN-II",
+        "SPARTAN-I",
+        "SPARTAN-III",
+        "SPARTAN-IV"
+      ]
+    },
+    {
+      "q": "What was the first video game in the Batman \"Arkham\" series?",
+      "a": [
+        "Arkham Asylum",
+        "Arkham Knight",
+        "Arkham City",
+        "Arkham Origins"
+      ]
+    },
+    {
+      "q": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+      "a": [
+        "60",
+        "65",
+        "55",
+        "70"
+      ]
+    },
+    {
+      "q": "Who is the main character in Metal Gear Rising: Revengeance?",
+      "a": [
+        "Raiden",
+        "Solid Snake",
+        "Otacon",
+        "Revolver Ocelot"
+      ]
+    },
+    {
+      "q": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+      "a": [
+        "Mark Hamill",
+        "Jason Dohring",
+        "Jesse McCartney",
+        "Haley Joel Osment"
+      ]
+    },
+    {
+      "q": "In \"Resident Evil 2\", what is Leon Kennedy's middle name?",
+      "a": [
+        "Scott",
+        "Shaun",
+        "Simon",
+        "Sam"
+      ]
+    },
+    {
+      "q": "In the game Overwatch, which hero out of the following 4 is from Brazil?",
+      "a": [
+        "Lúcio",
+        "Sombra",
+        "McCree",
+        "Symmetra"
+      ]
+    },
+    {
+      "q": "Who is the main antagonist in the Portal franchise?",
+      "a": [
+        "GLaDOS",
+        "Chell",
+        "Wheatley",
+        "Rick"
+      ]
+    },
+    {
+      "q": "In the Super Smash Bros. series, which game first featured Luigi as a playable character?",
+      "a": [
+        "Super Smash Bros.",
+        "Super Smash Bros. Melee",
+        "Super Smash Bros. Brawl",
+        "Super Smash Bros. for Wii U"
+      ]
+    },
+    {
+      "q": "Which Final Fantasy game consisted of a female-only cast of party members?",
+      "a": [
+        "Final Fantasy X-2",
+        "Final Fantasy IX",
+        "Final Fantasy V",
+        "Final Fantasy XIII-2"
+      ]
+    },
+    {
+      "q": "In what engine was Titanfall made in?",
+      "a": [
+        "Source Engine",
+        "Frostbite 3",
+        "Unreal Engine",
+        "Cryengine"
+      ]
+    },
+    {
+      "q": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+      "a": [
+        "Jynx",
+        "Electabuzz",
+        "Magmar",
+        "Rhydon"
+      ]
+    },
+    {
+      "q": "Which of these levels does NOT appear in the console/PC versions of the game \"Sonic Generations\"?",
+      "a": [
+        "Mushroom Hill",
+        "City Escape",
+        "Planet Wisp",
+        "Sky Sanctuary"
+      ]
+    },
+    {
+      "q": "Which game did NOT get financed via Crowdfunding?",
+      "a": [
+        "Enter the Gungeon",
+        "Town of Salem",
+        "Undertale",
+        "Tower Unite"
+      ]
+    },
+    {
+      "q": "What company develops the Rock Band series of rhythm games?",
+      "a": [
+        "Harmonix",
+        "Activision",
+        "Konami",
+        "Electronic Arts"
+      ]
+    },
+    {
+      "q": "The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+      "a": [
+        "Night Trap",
+        "Sewer Shark",
+        "The Daedalus Encounter",
+        "Corpse Killer"
+      ]
+    },
+    {
+      "q": "In the game \"Super Hang-On\" which is the top speed WITH the use of turbo?",
+      "a": [
+        "324 km/h",
+        "320 km/h",
+        "280 km/h",
+        "286 km/h"
+      ]
+    },
+    {
+      "q": "Which of these Pokemon is NOT exclusively female?",
+      "a": [
+        "Clefairy",
+        "Salazzle",
+        "Mandibuzz",
+        "Illumise"
+      ]
+    },
+    {
+      "q": "What CS:GO case contains the Butterfly Knife?",
+      "a": [
+        "Breakout Case",
+        "Shadow Case",
+        "Vanguard Case",
+        "Esports 2014 Case"
+      ]
+    },
+    {
+      "q": "What programming language does the Source Engine use?",
+      "a": [
+        "C++",
+        "Python",
+        "Java",
+        "Lua"
+      ]
+    },
+    {
+      "q": "What name does the little headcrab in \"Half Life 2\" have?",
+      "a": [
+        "Lamarr",
+        "Jumperr",
+        "Drett",
+        "Jerry"
+      ]
+    },
+    {
+      "q": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+      "a": [
+        "No Mercy",
+        "Subway Sprint",
+        "Hospital Havoc",
+        "Blood Harvest"
+      ]
+    },
+    {
+      "q": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+      "a": [
+        "Skeleton",
+        "Frog",
+        "Horror",
+        "Plant"
+      ]
+    },
+    {
+      "q": "When was \"System Shock\" released?",
+      "a": [
+        "1994",
+        "1995",
+        "2000",
+        "1998"
+      ]
+    },
+    {
+      "q": "What country is Sean Matsuda from in Street Fighter?",
+      "a": [
+        "Brazil",
+        "Japan",
+        "USA",
+        "UK"
+      ]
+    },
+    {
+      "q": "What was the first interactive movie video game?",
+      "a": [
+        "Astron Belt",
+        "Dragon's Lair",
+        "Cube Quest",
+        "M.A.C.H. 3"
+      ]
+    },
+    {
+      "q": "What is the name of the island introduced in the ARMA III: APEX expansion pack?",
+      "a": [
+        "Tanoa",
+        "Altis",
+        "Stratis",
+        "Malden"
+      ]
+    },
+    {
+      "q": "In which year did the first Monster Hunter game get released?",
+      "a": [
+        "2004",
+        "2006",
+        "2005",
+        "2002"
+      ]
+    },
+    {
+      "q": "What is the first Sony PlayStation console that runs on CD?",
+      "a": [
+        "PS",
+        "PS2",
+        "PS3",
+        "PS4"
+      ]
+    },
+    {
+      "q": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into \"Super Smash Bros.\"?",
+      "a": [
+        "Dragon King: The Fighting Game",
+        "Nintendo Legends: Fight!",
+        "Martial Arts: King of the Hill",
+        "Aerial Warriors: Supreme Battle"
+      ]
+    },
+    {
+      "q": "In World of Warcraft's Mists of Pandaria expansion, What was the level cap?",
+      "a": [
+        "90",
+        "85",
+        "80",
+        "75"
+      ]
+    },
+    {
+      "q": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+      "a": [
+        "Toad",
+        "Luigi",
+        "Yoshi",
+        "Bowser"
+      ]
+    },
+    {
+      "q": "Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?",
+      "a": [
+        "Occultic; Nine",
+        "Steins; Gate",
+        "Robotics; Notes",
+        "Chaos; Child"
+      ]
+    },
+    {
+      "q": "In Divinity: Original Sin 2, who is the earliest companion you can acquire?",
+      "a": [
+        "The Red Prince",
+        "Fane",
+        "Sebille",
+        "Beast"
+      ]
+    },
+    {
+      "q": "Which franchise was NOT featured in the 2015 video game \"Lego Dimensions\"?",
+      "a": [
+        "Breaking Bad",
+        "Portal",
+        "Doctor Who",
+        "Back to the Future"
+      ]
+    },
+    {
+      "q": "Which of these TrackMania environments was NOT in the original game?",
+      "a": [
+        "Bay",
+        "Desert",
+        "Snow",
+        "Rally"
+      ]
+    },
+    {
+      "q": "In Team Fortress 2, which class wields a shotgun?",
+      "a": [
+        "Everyone Listed",
+        "Heavy",
+        "Soldier",
+        "Engineer"
+      ]
+    },
+    {
+      "q": "When was Minecraft first released to the public?",
+      "a": [
+        "May 17th, 2009",
+        "September 17th, 2009",
+        "November 18th, 2011",
+        "October 7th, 2011"
+      ]
+    },
+    {
+      "q": "Which company is the one responsible for creating the strategy videogame Stellaris?",
+      "a": [
+        "Paradox Development Studio",
+        "Overkill Software",
+        "Tripwire Interactive LLC",
+        "Ensemble Studios"
+      ]
+    },
+    {
+      "q": "In the video game Undertale, what Fun Value is required to obtain the Fake Hallway?",
+      "a": [
+        "66",
+        "91",
+        "45",
+        "39"
+      ]
+    },
+    {
+      "q": "Which gaming series includes \"The Diabolical Box\" and \"The Curious Village\"?",
+      "a": [
+        "Professor Layton",
+        "Persona",
+        "Etrian Odyssey",
+        "Sam & Max"
+      ]
+    },
+    {
+      "q": "Which of these Pokémon cannot learn Surf?",
+      "a": [
+        "Arbok",
+        "Linoone",
+        "Tauros",
+        "Nidoking"
+      ]
+    },
+    {
+      "q": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+      "a": [
+        "Cicero",
+        "Lucien Lachance",
+        "Archimedes",
+        "Astrid"
+      ]
+    },
+    {
+      "q": "In the Assassin's Creed series,what was the name of Desmond Miles given by Abstergo?",
+      "a": [
+        "Subject 17",
+        "Subject 16",
+        "Subject 18",
+        "Altaïr Ibn-La'Ahad"
+      ]
+    },
+    {
+      "q": "Which actor provided the voice for the main character's father in Fallout 3?",
+      "a": [
+        "Liam Neeson",
+        "Kiefer Sutherland",
+        "Brendan Gleeson",
+        "Robbie Coltrane"
+      ]
+    },
+    {
+      "q": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+      "a": [
+        "Midori Gurin",
+        "Kokona Hruka",
+        "Oka Ruto",
+        "Pipi Osu"
+      ]
+    },
+    {
+      "q": "What is Solid Snake's real name?",
+      "a": [
+        "David",
+        "Solid Snake",
+        "John",
+        "Huey"
+      ]
+    },
+    {
+      "q": "What is the name of the alien species introduced in Shadow the Hedgehog (2005)?",
+      "a": [
+        "Black Arms",
+        "The Swarm",
+        "Black Hive",
+        "The Eclipse"
+      ]
+    },
+    {
+      "q": "In the Mario Kart and Smash Bros. Games, Princess Rosalina is considered what weight class?",
+      "a": [
+        "Heavy",
+        "Medium",
+        "Light",
+        "Light-Medium"
+      ]
+    },
+    {
+      "q": "In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?",
+      "a": [
+        "Quan Chi",
+        "Sub-Zero",
+        "Sektor",
+        "Shang Tsung"
+      ]
+    },
+    {
+      "q": "As of the year 2026, how many known moons does Jupiter have?",
+      "a": [
+        "97",
+        "11",
+        "43",
+        "104"
+      ]
+    },
+    {
+      "q": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+      "a": [
+        "Deid Mann",
+        "Frank Sahwit",
+        "Shey De Killer",
+        "Raymond Shields"
+      ]
+    },
+    {
+      "q": "Who are the two protagonists of the game Yakuza 0?",
+      "a": [
+        "Kazuma Kiryu and Goro Majima",
+        "Shintaro Kazama and Kazuma Kiryu",
+        "Keiji Shibusawa and Daisaku Kuze",
+        "Akira Nishikiyama and Tetsu Tachibana"
+      ]
+    },
+    {
+      "q": "In \"Warhammer: End Times - Vermintide\", what is the name of the rat faction you fight in the game?",
+      "a": [
+        "Skaven",
+        "Ratmen",
+        "The Horde",
+        "Chaos"
+      ]
+    },
+    {
+      "q": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+      "a": [
+        "Palace of the Dead",
+        "Heaven on High",
+        "Aetherochemical Research Facility",
+        "Sunken Temple of Qarn"
+      ]
+    },
+    {
+      "q": "In the book & video game Metro 2033, which Moscow Metro station is the main character Artyom's home station?",
+      "a": [
+        "VDNKh",
+        "Prospekt Mira",
+        "Kitay-Gorod",
+        "Botanichesky Sad"
+      ]
+    },
+    {
+      "q": "In the 1980s, a service called Gameline allowed users to download games to what console?",
+      "a": [
+        "Atari 2600",
+        "Sega Genesis",
+        "Nintendo Entertainment System",
+        "ColecoVision"
+      ]
+    },
+    {
+      "q": "What is the Alien Race in the game \"Lego Racers 2\" known as?",
+      "a": [
+        "Ramas",
+        "Slizers",
+        "Roboriders",
+        "Turagas"
+      ]
+    },
+    {
+      "q": "Who is the creator of the Super Smash Bros. Series?",
+      "a": [
+        "Masahiro Sakurai",
+        "Reggie Fils-Aimé",
+        "Bill Trinen",
+        "Hideo Kojima"
+      ]
+    },
+    {
+      "q": "In Dota 2, Wraith King was previously known as...",
+      "a": [
+        "Skeleton King",
+        "Reaper King",
+        "Skull King",
+        "Hell King"
+      ]
+    },
+    {
+      "q": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+      "a": [
+        "Folklore",
+        "Shadow of the Colossus",
+        "ICO",
+        "Beyond Good & Evil"
+      ]
+    }
+  ]
+}

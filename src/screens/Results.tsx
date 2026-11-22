@@ -10,7 +10,13 @@ import { send } from "../state/room";
 export function Results({ state, onLeave }: { state: RoomState; onLeave: () => void }) {
   const { players, self } = state;
   const host = players.some((player) => player.id === self.id && player.host);
-  const winner = players.reduce((best, player) => (player.score > best.score ? player : best), players[0]);
+  const top = Math.max(...players.map((player) => player.score));
+  const winners = players.filter((player) => player.score === top);
+  const names = winners.map((player) => player.name);
+  const title =
+    winners.length === 1
+      ? `${names[0]} wins!`
+      : `${names.slice(0, -1).join(", ")} and ${names[names.length - 1]} share the win!`;
 
   return (
     <div className="mx-auto flex w-full max-w-xl flex-1 flex-col justify-center gap-5">
@@ -20,10 +26,12 @@ export function Results({ state, onLeave }: { state: RoomState; onLeave: () => v
           <span className="animate-float text-gold">
             <CrownIcon size={44} />
           </span>
-          <span className="animate-bounce-in">
-            <Avatar seed={winner.avatar} size={96} />
+          <span className="flex animate-bounce-in -space-x-4">
+            {winners.map((winner) => (
+              <Avatar key={winner.id} seed={winner.avatar} size={96} />
+            ))}
           </span>
-          <Heading className="text-2xl">{winner.name} wins!</Heading>
+          <Heading className="text-2xl">{title}</Heading>
         </div>
         <Scoreboard players={players} selfId={self.id} />
       </Panel>

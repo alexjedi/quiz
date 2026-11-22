@@ -1,0 +1,628 @@
+{
+  "id": "otdb-animals",
+  "title": "Animals",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "\"Decapods\" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+      "a": [
+        "Krill",
+        "Lobsters",
+        "Shrimp",
+        "Crabs"
+      ]
+    },
+    {
+      "q": "What is the scientific name for modern day humans?",
+      "a": [
+        "Homo Sapiens",
+        "Homo Ergaster",
+        "Homo Erectus",
+        "Homo Neanderthalensis"
+      ]
+    },
+    {
+      "q": "The dish Fugu, is made from what family of fish?",
+      "a": [
+        "Pufferfish",
+        "Bass",
+        "Salmon",
+        "Mackerel"
+      ]
+    },
+    {
+      "q": "What is the collective noun for a group of crows?",
+      "a": [
+        "Murder",
+        "Pack",
+        "Gaggle",
+        "Herd"
+      ]
+    },
+    {
+      "q": "What is the scientific name of the cheetah?",
+      "a": [
+        "Acinonyx jubatus",
+        "Panthera onca",
+        "Lynx rufus",
+        "Felis catus"
+      ]
+    },
+    {
+      "q": "What scientific suborder does the family Hyaenidae belong to?",
+      "a": [
+        "Feliformia",
+        "Haplorhini",
+        "Caniformia",
+        "Ciconiiformes"
+      ]
+    },
+    {
+      "q": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+      "a": [
+        "Nuts",
+        "Nothing",
+        "Fruit",
+        "Seaweed"
+      ]
+    },
+    {
+      "q": "Which of these is a colony of polyps and not a jellyfish?",
+      "a": [
+        "Portuguese Man-of-War",
+        "Sea Wasp",
+        "Irukandji",
+        "Sea Nettle"
+      ]
+    },
+    {
+      "q": "What type of creature is a Bonobo?",
+      "a": [
+        "Ape",
+        "Lion",
+        "Parrot",
+        "Wildcat"
+      ]
+    },
+    {
+      "q": "Hippocampus is the Latin name for which marine creature?",
+      "a": [
+        "Seahorse",
+        "Dolphin",
+        "Whale",
+        "Octopus"
+      ]
+    },
+    {
+      "q": "How many teeth does an adult rabbit have?",
+      "a": [
+        "28",
+        "30",
+        "26",
+        "24"
+      ]
+    },
+    {
+      "q": "What is the fastest  land animal?",
+      "a": [
+        "Cheetah",
+        "Lion",
+        "Thomson’s Gazelle",
+        "Pronghorn Antelope"
+      ]
+    },
+    {
+      "q": "About how much of their body weight in food do sea otters eat every day?",
+      "a": [
+        "25%",
+        "10%",
+        "80%",
+        "45%"
+      ]
+    },
+    {
+      "q": "Which breed of dog is traditionally associated with firefighters?",
+      "a": [
+        "Dalmatians",
+        "German Shepard",
+        "Great Dane",
+        "Mastiff"
+      ]
+    },
+    {
+      "q": "Which of these animals is NOT a lizard?",
+      "a": [
+        "Tuatara",
+        "Komodo Dragon",
+        "Gila Monster",
+        "Green Iguana"
+      ]
+    },
+    {
+      "q": "Which of the following is another name for the \"Poecilotheria Metallica Tarantula\"?",
+      "a": [
+        "Gooty",
+        "Hopper",
+        "Silver Stripe",
+        "Woebegone"
+      ]
+    },
+    {
+      "q": "What is the scientific name for the Bald Eagle?",
+      "a": [
+        "Haliaeetus Leucocephalus",
+        "Tyto Alba",
+        "Cyanocitta Cristata",
+        "Aquila Chrysaetos"
+      ]
+    },
+    {
+      "q": "How many legs do butterflies have?",
+      "a": [
+        "6",
+        "2",
+        "4",
+        "0"
+      ]
+    },
+    {
+      "q": "What is the name of the family that the domestic cat is a member of?",
+      "a": [
+        "Felidae",
+        "Felinae",
+        "Felis",
+        "Cat"
+      ]
+    },
+    {
+      "q": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+      "a": [
+        "Hemocyanin",
+        "Cytochrome",
+        "Iron",
+        "Methionine"
+      ]
+    },
+    {
+      "q": "What type of animal is a natterjack?",
+      "a": [
+        "Toad",
+        "Bird",
+        "Fish",
+        "Insect"
+      ]
+    },
+    {
+      "q": "Wombats are native to which Country?",
+      "a": [
+        "Australia",
+        "New Zealand",
+        "Papua New Guinea",
+        "Palau"
+      ]
+    },
+    {
+      "q": "What is the scientific name of the Budgerigar?",
+      "a": [
+        "Melopsittacus undulatus",
+        "Nymphicus hollandicus",
+        "Pyrrhura molinae",
+        "Ara macao"
+      ]
+    },
+    {
+      "q": "Which animal was part of an Russian domestication experiment in 1959?",
+      "a": [
+        "Foxes",
+        "Pigeons",
+        "Bears",
+        "Alligators"
+      ]
+    },
+    {
+      "q": "What is Grumpy Cat's real name?",
+      "a": [
+        "Tardar Sauce",
+        "Sauce",
+        "Minnie",
+        "Broccoli"
+      ]
+    },
+    {
+      "q": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+      "a": [
+        "Simien Jackel",
+        "Ethiopian Coyote",
+        "Amharic Fox",
+        "Canis Simiensis"
+      ]
+    },
+    {
+      "q": "What are rhino's horn made of?",
+      "a": [
+        "Keratin",
+        "Bone",
+        "Ivory",
+        "Skin"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a venomous snake?",
+      "a": [
+        "Reticulated python",
+        "Malayan Krait",
+        "Yellow bellied sea snake",
+        "Black mamba"
+      ]
+    },
+    {
+      "q": "What is the world's longest venomous snake?",
+      "a": [
+        "King Cobra",
+        "Green Anaconda",
+        "Inland Taipan",
+        "Yellow Bellied Sea Snake"
+      ]
+    },
+    {
+      "q": "What is the fastest animal?",
+      "a": [
+        "Peregrine Falcon",
+        "Golden Eagle",
+        "Cheetah",
+        "Horsefly"
+      ]
+    },
+    {
+      "q": "What colour is the female blackbird?",
+      "a": [
+        "Brown",
+        "Black",
+        "White",
+        "Yellow"
+      ]
+    },
+    {
+      "q": "Which species of Brown Bear is not extinct?",
+      "a": [
+        "Syrian Brown Bear",
+        "California Grizzly Bear",
+        "Atlas Bear",
+        "Mexican Grizzly Bear"
+      ]
+    },
+    {
+      "q": "What does \"hippopotamus\" mean and in what langauge?",
+      "a": [
+        "River Horse (Greek)",
+        "River Horse (Latin)",
+        "Fat Pig (Greek)",
+        "Fat Pig (Latin)"
+      ]
+    },
+    {
+      "q": "Which is the national animal of India?",
+      "a": [
+        "Tiger",
+        "Lion",
+        "Horse",
+        "Camel"
+      ]
+    },
+    {
+      "q": "What is the collective noun for bears?",
+      "a": [
+        "Sloth",
+        "Drove",
+        "Tribe",
+        "Husk"
+      ]
+    },
+    {
+      "q": "For what reason would a spotted hyena \"laugh\"?",
+      "a": [
+        "Nervousness",
+        "Excitement",
+        "Aggression",
+        "Exhaustion"
+      ]
+    },
+    {
+      "q": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
+      "a": [
+        "New Zealand",
+        "South Africa",
+        "Australia",
+        "Madagascar"
+      ]
+    },
+    {
+      "q": "Which of the following is true when alligators are behaving territorially?",
+      "a": [
+        "They bellow while showing their tail and neck",
+        "Open their jaws while making a clicking noise",
+        "They run full force at the threat",
+        "Slap their tails on the ground"
+      ]
+    },
+    {
+      "q": "Which dog breed is named after a region in Croatia",
+      "a": [
+        "Dalmatian",
+        "Pekingnese",
+        "Chihuahua",
+        "Pomeranian"
+      ]
+    },
+    {
+      "q": "What scientific family does the Aardwolf belong to?",
+      "a": [
+        "Hyaenidae",
+        "Canidae",
+        "Felidae",
+        "Eupleridae"
+      ]
+    },
+    {
+      "q": "What is the scientific name for the \"Polar Bear\"?",
+      "a": [
+        "Ursus Maritimus",
+        "Polar Bear",
+        "Ursus Spelaeus",
+        "Ursus Arctos"
+      ]
+    },
+    {
+      "q": "What color is a Steller's Jay?",
+      "a": [
+        "blue and black",
+        "blue and grey",
+        "blue and white",
+        "grey and black"
+      ]
+    },
+    {
+      "q": "What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+      "a": [
+        "Pugs",
+        "Bulldogs",
+        "Boxers",
+        "Chihuahua"
+      ]
+    },
+    {
+      "q": "Which of these species is not extinct?",
+      "a": [
+        "Komodo dragon",
+        "Japanese sea lion",
+        "Tasmanian tiger",
+        "Saudi gazelle"
+      ]
+    },
+    {
+      "q": "Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?",
+      "a": [
+        "Cervids",
+        "Hominids",
+        "Felids",
+        "Canids"
+      ]
+    },
+    {
+      "q": "Which of these animals are not real?",
+      "a": [
+        "Nemean Lion",
+        "Sea Dragon",
+        "Tasmanian Devil",
+        "Giant Squid"
+      ]
+    },
+    {
+      "q": "Which species is a \"mountain chicken\"?",
+      "a": [
+        "Frog",
+        "Chicken",
+        "Horse",
+        "Fly"
+      ]
+    },
+    {
+      "q": "What is the average lifespan of a domestic rabbit?",
+      "a": [
+        "8-12 years",
+        "1-2 years",
+        "4-7 years",
+        "14-20 years"
+      ]
+    },
+    {
+      "q": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+      "a": [
+        "Mad Cow disease",
+        "Weil's disease",
+        "Milk fever",
+        "Foot-and-mouth disease"
+      ]
+    },
+    {
+      "q": "What color/colour is a polar bear's skin?",
+      "a": [
+        "Black",
+        "White",
+        "Pink",
+        "Green"
+      ]
+    },
+    {
+      "q": "What is the name for a male bee that comes from an unfertilized egg?",
+      "a": [
+        "Drone",
+        "Soldier",
+        "Worker",
+        "Male"
+      ]
+    },
+    {
+      "q": "Cashmere is the wool from which kind of animal?",
+      "a": [
+        "Goat",
+        "Sheep",
+        "Camel",
+        "Llama"
+      ]
+    },
+    {
+      "q": "What is the name of a rabbit's abode?",
+      "a": [
+        "Burrow",
+        "Nest",
+        "Den",
+        "Dray"
+      ]
+    },
+    {
+      "q": "How many known living species of hyenas are there?",
+      "a": [
+        "4",
+        "8",
+        "2",
+        "6"
+      ]
+    },
+    {
+      "q": "What are the scales on all snakes and most lizards are made of?",
+      "a": [
+        "Keratin",
+        "Ecdysis",
+        "Epidermis",
+        "Ankyloglossia"
+      ]
+    },
+    {
+      "q": "Snakes and lizards are known to flick their tongue, this behavior is to?",
+      "a": [
+        "Capture scent particles",
+        "Taste the sweet air",
+        "Threaten other species",
+        "Attract female mates"
+      ]
+    },
+    {
+      "q": "What is the national bird of Bahrain?",
+      "a": [
+        "Bulbul",
+        "Hummingbird",
+        "Falcon",
+        "Sparrow"
+      ]
+    },
+    {
+      "q": "The now extinct species \"Thylacine\" was native to where?",
+      "a": [
+        "Tasmania, Australia",
+        "Baluchistan, Pakistan",
+        "Wallachia, Romania",
+        "Oregon, United States"
+      ]
+    },
+    {
+      "q": "Which class of animals are newts members of?",
+      "a": [
+        "Amphibian",
+        "Fish",
+        "Reptiles",
+        "Mammals"
+      ]
+    },
+    {
+      "q": "What is the scientific name of the Common Chimpanzee?",
+      "a": [
+        "Pan troglodytes",
+        "Gorilla gorilla",
+        "Pan paniscus",
+        "Panthera leo"
+      ]
+    },
+    {
+      "q": "What is the collective noun for rats?",
+      "a": [
+        "Mischief",
+        "Pack",
+        "Race",
+        "Drift"
+      ]
+    },
+    {
+      "q": "To which biological phylum do all mammals, birds and reptiles belong?",
+      "a": [
+        "Chordata",
+        "Echinodermata",
+        "Annelida",
+        "Placazoa"
+      ]
+    },
+    {
+      "q": "By definition, where does an abyssopelagic animal live?",
+      "a": [
+        "At the bottom of the ocean",
+        "In the desert",
+        "On top of a mountain",
+        "Inside a tree"
+      ]
+    },
+    {
+      "q": "What is the Gray Wolf's scientific name?",
+      "a": [
+        "Canis Lupus",
+        "Canis Aureus",
+        "Canis Latrans",
+        "Canis Lupus Lycaon"
+      ]
+    },
+    {
+      "q": "What is the collective noun for vultures?",
+      "a": [
+        "Wake",
+        "Ambush",
+        "Building",
+        "Gaze"
+      ]
+    },
+    {
+      "q": "What is the average amount of chinchillas born into a single litter?",
+      "a": [
+        "2-3",
+        "10-15",
+        "5-8",
+        "15-18"
+      ]
+    },
+    {
+      "q": "Unlike on most salamanders, this part of a newt is flat?",
+      "a": [
+        "Tail",
+        "Head",
+        "Teeth",
+        "Feet"
+      ]
+    },
+    {
+      "q": "What do you call a baby bat?",
+      "a": [
+        "Pup",
+        "Cub",
+        "Chick",
+        "Kid"
+      ]
+    },
+    {
+      "q": "What bird is born with claws on its wing digits?",
+      "a": [
+        "Hoatzin",
+        "Cormorant",
+        "Cassowary",
+        "Secretary bird"
+      ]
+    }
+  ]
+}

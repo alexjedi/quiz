@@ -1,0 +1,907 @@
+{
+  "id": "otdb-computers",
+  "title": "Computers",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Whistler was the codename of this Microsoft Operating System.",
+      "a": [
+        "Windows XP",
+        "Windows 2000",
+        "Windows 7",
+        "Windows 95"
+      ]
+    },
+    {
+      "q": "What programming language was GitHub written in?",
+      "a": [
+        "Ruby",
+        "JavaScript",
+        "Python",
+        "Lua"
+      ]
+    },
+    {
+      "q": "What was the first commerically available computer processor?",
+      "a": [
+        "Intel 4004",
+        "Intel 486SX",
+        "TMS 1000",
+        "AMD AM386"
+      ]
+    },
+    {
+      "q": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+      "a": [
+        "Final",
+        "Static",
+        "Private",
+        "Public"
+      ]
+    },
+    {
+      "q": "What five letter word is the motto of the IBM Computer company?",
+      "a": [
+        "Think",
+        "Click",
+        "Logic",
+        "Pixel"
+      ]
+    },
+    {
+      "q": "In networking, what does OSPF stand for?",
+      "a": [
+        "Open Shortest Path First",
+        "Order State Part First",
+        "Order Sense Ping Find",
+        "Open Signal Path Finder"
+      ]
+    },
+    {
+      "q": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "a": [
+        "Coffee Lake",
+        "Sandy Bridge",
+        "Skylake",
+        "Broadwell"
+      ]
+    },
+    {
+      "q": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "a": [
+        "2005",
+        "1999",
+        "2002",
+        "2008"
+      ]
+    },
+    {
+      "q": "On which computer hardware device is the BIOS chip located?",
+      "a": [
+        "Motherboard",
+        "Hard Disk Drive",
+        "Central Processing Unit",
+        "Graphics Processing Unit"
+      ]
+    },
+    {
+      "q": "What does \"LCD\" stand for?",
+      "a": [
+        "Liquid Crystal Display",
+        "Language Control Design",
+        "Last Common Difference",
+        "Long Continuous Design"
+      ]
+    },
+    {
+      "q": "CMOS is tech used for constructing integrated circuits. What does CMOS stand for?",
+      "a": [
+        "Complementary metal–oxide–semiconductor",
+        "Complementary magnetic-ohms-semiconductor",
+        "Computer-made operating system",
+        "Computer-made oscillating static"
+      ]
+    },
+    {
+      "q": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "a": [
+        "Motherboard",
+        "Central Processing Unit",
+        "Hard Disk Drive",
+        "Random Access Memory"
+      ]
+    },
+    {
+      "q": "Which one of these is not an official development name for a Ubuntu release?",
+      "a": [
+        "Mystic Mansion",
+        "Trusty Tahr",
+        "Utopic Unicorn",
+        "Wily Werewolf"
+      ]
+    },
+    {
+      "q": "Which of these is not a key value of Agile software development?",
+      "a": [
+        "Comprehensive documentation",
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a computer science algorithm?",
+      "a": [
+        "Float Sort",
+        "Bubble Sort",
+        "Merge Sort",
+        "Quick Sort"
+      ]
+    },
+    {
+      "q": "What is the number of keys on a standard Windows Keyboard?",
+      "a": [
+        "104",
+        "64",
+        "94",
+        "76"
+      ]
+    },
+    {
+      "q": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "a": [
+        "Micronesia",
+        "Fiji",
+        "Tuvalu",
+        "Marshall Islands"
+      ]
+    },
+    {
+      "q": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+      "a": [
+        "Cherry MX Blue",
+        "Cherry MX Black",
+        "Cherry MX Red",
+        "Cherry MX Brown"
+      ]
+    },
+    {
+      "q": "The Windows OS was delevoped by which company?",
+      "a": [
+        "Microsoft",
+        "Apple",
+        "Nokia",
+        "IBM"
+      ]
+    },
+    {
+      "q": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "a": [
+        "JavaScript",
+        "C#",
+        "Python",
+        "PHP"
+      ]
+    },
+    {
+      "q": "Which SQL keyword is used to fetch data from a database?",
+      "a": [
+        "SELECT",
+        "INDEX",
+        "VALUES",
+        "EXEC"
+      ]
+    },
+    {
+      "q": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "a": [
+        "Taiwan",
+        "United States",
+        "Germany",
+        "China (People's Republic of)"
+      ]
+    },
+    {
+      "q": "In the programming language \"Python\", which of these statements would display the string \"Hello World\" correctly?",
+      "a": [
+        "print(\"Hello World\")",
+        "console.log(\"Hello World\")",
+        "echo \"Hello World\"",
+        "printf(\"Hello World\")"
+      ]
+    },
+    {
+      "q": "In computing terms, typically what does CLI stand for?",
+      "a": [
+        "Command Line Interface",
+        "Common Language Input",
+        "Control Line Interface",
+        "Common Language Interface"
+      ]
+    },
+    {
+      "q": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "a": [
+        ".svg",
+        ".png",
+        ".jpeg",
+        ".gif"
+      ]
+    },
+    {
+      "q": "The name of technology company HP stands for what?",
+      "a": [
+        "Hewlett-Packard",
+        "Howard Packmann",
+        "Husker-Pollosk",
+        "Hellman-Pohl"
+      ]
+    },
+    {
+      "q": "What does the \"MP\" stand for in MP3?",
+      "a": [
+        "Moving Picture",
+        "Music Player",
+        "Multi Pass",
+        "Micro Point"
+      ]
+    },
+    {
+      "q": "What was the name of the security vulnerability found in Bash in 2014?",
+      "a": [
+        "Shellshock",
+        "Heartbleed",
+        "Bashbug",
+        "Stagefright"
+      ]
+    },
+    {
+      "q": "In programming, what do you call functions with the same name but different implementations?",
+      "a": [
+        "Overloading",
+        "Overriding",
+        "Abstracting",
+        "Inheriting"
+      ]
+    },
+    {
+      "q": "The acronym \"RIP\" stands for which of these?",
+      "a": [
+        "Routing Information Protocol",
+        "Runtime Instance Processes",
+        "Regular Interval Processes",
+        "Routine Inspection Protocol"
+      ]
+    },
+    {
+      "q": "Which of the following computer components can be built using only NAND gates?",
+      "a": [
+        "ALU",
+        "CPU",
+        "RAM",
+        "Register"
+      ]
+    },
+    {
+      "q": "What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?",
+      "a": [
+        "Ctrl + C",
+        "Ctrl + X",
+        "Alt + C",
+        "Alt + X"
+      ]
+    },
+    {
+      "q": "Which data structure does FILO apply to?",
+      "a": [
+        "Stack",
+        "Queue",
+        "Heap",
+        "Tree"
+      ]
+    },
+    {
+      "q": "In computing, what does MIDI stand for?",
+      "a": [
+        "Musical Instrument Digital Interface",
+        "Musical Interface of Digital Instruments",
+        "Modular Interface of Digital Instruments",
+        "Musical Instrument Data Interface"
+      ]
+    },
+    {
+      "q": ".at is the top-level domain for what country?",
+      "a": [
+        "Austria",
+        "Argentina",
+        "Australia",
+        "Angola"
+      ]
+    },
+    {
+      "q": "Color model CMYK stands for?",
+      "a": [
+        "Cyan, Magenta, Yellow, and Black",
+        "Cream, Maroon, Yellow, and Black",
+        "Cyan, Magenta, Yellow, and Khaki",
+        "Cream, Maroon, Yellow, and Khaki"
+      ]
+    },
+    {
+      "q": "What does GHz stand for?",
+      "a": [
+        "Gigahertz",
+        "Gigahotz",
+        "Gigahetz",
+        "Gigahatz"
+      ]
+    },
+    {
+      "q": "What does the term GPU stand for?",
+      "a": [
+        "Graphics Processing Unit",
+        "Gaming Processor Unit",
+        "Graphite Producing Unit",
+        "Graphical Proprietary Unit"
+      ]
+    },
+    {
+      "q": "What does the DOS in Microsoft's first operating system \"MS-DOS\" stand for?",
+      "a": [
+        "Disk Operating System",
+        "Dumb Operating System",
+        "Driver Oriented System",
+        "Diskless Operating System"
+      ]
+    },
+    {
+      "q": "How many cores does the Intel i7-6950X have?",
+      "a": [
+        "10",
+        "12",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "q": "What does CPU stand for?",
+      "a": [
+        "Central Processing Unit",
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ]
+    },
+    {
+      "q": "What is largely considered the precursor to the USB format?",
+      "a": [
+        "PS/2",
+        "SVGA",
+        "PCIe",
+        "FireWire"
+      ]
+    },
+    {
+      "q": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+      "a": [
+        "Clipper Chip",
+        "Enigma Machine",
+        "Skipjack",
+        "Nautilus"
+      ]
+    },
+    {
+      "q": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "a": [
+        "FM-7",
+        "PC-9801",
+        "Xmillennium",
+        "MSX"
+      ]
+    },
+    {
+      "q": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+      "a": [
+        "Injection",
+        "Broken Authentication",
+        "Cross-Site Scripting",
+        "Insecure Direct Object References"
+      ]
+    },
+    {
+      "q": "What internet protocol was documented in RFC 1459?",
+      "a": [
+        "IRC",
+        "HTTP",
+        "HTTPS",
+        "FTP"
+      ]
+    },
+    {
+      "q": "How fast is USB 3.1 Gen 2 theoretically?",
+      "a": [
+        "10 Gb/s",
+        "5 Gb/s",
+        "8 Gb/s",
+        "1 Gb/s"
+      ]
+    },
+    {
+      "q": "What does the term USB stand for?",
+      "a": [
+        "Universal Serial Bus",
+        "Universal Simtex Blot",
+        "Unified Signal Bus",
+        "Unityped Semtex Backer"
+      ]
+    },
+    {
+      "q": "Who is the founder of Palantir?",
+      "a": [
+        "Peter Thiel",
+        "Mark Zuckerberg",
+        "Marc Benioff",
+        "Jack Dorsey"
+      ]
+    },
+    {
+      "q": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+      "a": [
+        "Region 3",
+        "Region 1",
+        "Region 2",
+        "Region 4"
+      ]
+    },
+    {
+      "q": "What is the name of Layer 7 of the OSI model?",
+      "a": [
+        "Application",
+        "Session",
+        "Network",
+        "Present"
+      ]
+    },
+    {
+      "q": "What does the Prt Sc button do?",
+      "a": [
+        "Captures what's on the screen and copies it to your clipboard",
+        "Nothing",
+        "Saves a .png file of what's on the screen in your screenshots folder in photos",
+        "Closes all windows"
+      ]
+    },
+    {
+      "q": "Who is the original author of the realtime physics engine called PhysX?",
+      "a": [
+        "NovodeX",
+        "Ageia",
+        "Nvidia",
+        "AMD"
+      ]
+    },
+    {
+      "q": "What is the code name for the mobile operating system Android 7.0?",
+      "a": [
+        "Nougat",
+        "Ice Cream Sandwich",
+        "Jelly Bean",
+        "Marshmallow"
+      ]
+    },
+    {
+      "q": "The programming language 'Swift' was created to replace what other programming language?",
+      "a": [
+        "Objective-C",
+        "C#",
+        "Ruby",
+        "C++"
+      ]
+    },
+    {
+      "q": "What does the International System of Quantities refer 1024 bytes as?",
+      "a": [
+        "Kibibyte",
+        "Kylobyte",
+        "Kilobyte",
+        "Kelobyte"
+      ]
+    },
+    {
+      "q": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "a": [
+        "Transport",
+        "Session",
+        "Data link",
+        "Network"
+      ]
+    },
+    {
+      "q": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+      "a": [
+        "center",
+        "static",
+        "absolute",
+        "relative"
+      ]
+    },
+    {
+      "q": "When was the programming language \"C#\" released?",
+      "a": [
+        "2000",
+        "1998",
+        "1999",
+        "2001"
+      ]
+    },
+    {
+      "q": "What was the name given to Android 4.3?",
+      "a": [
+        "Jelly Bean",
+        "Lollipop",
+        "Nutella",
+        "Froyo"
+      ]
+    },
+    {
+      "q": "The C programming language was created by this American computer scientist.",
+      "a": [
+        "Dennis Ritchie",
+        "Tim Berners Lee",
+        "al-Khwārizmī",
+        "Willis Ware"
+      ]
+    },
+    {
+      "q": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+      "a": [
+        "Binary",
+        "JavaScript",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "q": "Approximately how many Apple I personal computers were created?",
+      "a": [
+        "200",
+        "100",
+        "500",
+        "1000"
+      ]
+    },
+    {
+      "q": "What does AD stand for in relation to Windows Operating Systems?",
+      "a": [
+        "Active Directory",
+        "Alternative Drive",
+        "Automated Database",
+        "Active Department"
+      ]
+    },
+    {
+      "q": ".rs is the top-level domain for what country?",
+      "a": [
+        "Serbia",
+        "Romania",
+        "Russia",
+        "Rwanda"
+      ]
+    },
+    {
+      "q": "What was the first Android version specifically optimized for tablets?",
+      "a": [
+        "Honeycomb",
+        "Eclair",
+        "Froyo",
+        "Marshmellow"
+      ]
+    },
+    {
+      "q": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+      "a": [
+        "Green",
+        "Red",
+        "Blue",
+        "Yellow"
+      ]
+    },
+    {
+      "q": "Which of these programming languages is a low-level language?",
+      "a": [
+        "Assembly",
+        "Python",
+        "C#",
+        "Pascal"
+      ]
+    },
+    {
+      "q": "What does SSD stand for?",
+      "a": [
+        "Solid State Drive",
+        "Solution Source Disk",
+        "Solid State Disk",
+        "Source Solution Drive"
+      ]
+    },
+    {
+      "q": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+      "a": [
+        "Year",
+        "Four Years",
+        "Two Years",
+        "Eight Years"
+      ]
+    },
+    {
+      "q": "According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+      "a": [
+        "A' + B'",
+        "A'B + B'A",
+        "A'B'",
+        "AB' + AB"
+      ]
+    },
+    {
+      "q": "America Online (AOL) started out as which of these online service providers?",
+      "a": [
+        "Quantum Link",
+        "CompuServe",
+        "Prodigy",
+        "GEnie"
+      ]
+    },
+    {
+      "q": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "a": [
+        "<marquee></marquee>",
+        "<scroll></scroll>",
+        "<move></move>",
+        "<slide></slide>"
+      ]
+    },
+    {
+      "q": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
+      "a": [
+        "Cheetah",
+        "Puma",
+        "Tiger",
+        "Leopard"
+      ]
+    },
+    {
+      "q": "What is the maximum value of a 32-bit signed binary integer?",
+      "a": [
+        "2,147,483,647",
+        "255",
+        "2048",
+        "9,223,372,036,854,775,807"
+      ]
+    },
+    {
+      "q": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "a": [
+        "New Mexico",
+        "Washington",
+        "Colorado",
+        "Arizona"
+      ]
+    },
+    {
+      "q": "When Gmail first launched, how much storage did it provide for your email?",
+      "a": [
+        "1GB",
+        "512MB",
+        "5GB",
+        "Unlimited"
+      ]
+    },
+    {
+      "q": "How many bits are commonly in a single byte?",
+      "a": [
+        "Eight bits",
+        "Six bits",
+        "Twelve bits",
+        "Fifteen bits"
+      ]
+    },
+    {
+      "q": "What does the 'S' in the RSA encryption algorithm stand for?",
+      "a": [
+        "Shamir",
+        "Secure",
+        "Schottky",
+        "Stable"
+      ]
+    },
+    {
+      "q": "What major programming language does Unreal Engine 4 use?",
+      "a": [
+        "C++",
+        "Assembly",
+        "C#",
+        "ECMAScript"
+      ]
+    },
+    {
+      "q": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "a": [
+        "ADPCM Sampler",
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ]
+    },
+    {
+      "q": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+      "a": [
+        "44.1 kHz",
+        "32.0 kHz",
+        "1.5 MHz",
+        "20.5 kHz"
+      ]
+    },
+    {
+      "q": "When did the online streaming service \"Mixer\" launch?",
+      "a": [
+        "2016",
+        "2013",
+        "2009",
+        "2011"
+      ]
+    },
+    {
+      "q": "Which of the following physical typologies are used with Ethernet Networks?",
+      "a": [
+        "Star",
+        "Ring",
+        "Mesh",
+        "Hex"
+      ]
+    },
+    {
+      "q": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "a": [
+        "?:",
+        "??",
+        "if then",
+        "?"
+      ]
+    },
+    {
+      "q": "What was Bitcoin's block size limit in 2010?",
+      "a": [
+        "1 MB",
+        "1GB",
+        "1 KB",
+        "1 TB"
+      ]
+    },
+    {
+      "q": "What was the first company to use the term \"Golden Master\"?",
+      "a": [
+        "Apple",
+        "IBM",
+        "Microsoft",
+        "Google"
+      ]
+    },
+    {
+      "q": "Nvidia's headquarters are based in which Silicon Valley city?",
+      "a": [
+        "Santa Clara",
+        "Palo Alto",
+        "Cupertino",
+        "Mountain View"
+      ]
+    },
+    {
+      "q": "This mobile OS held the largest market share in 2012.",
+      "a": [
+        "iOS",
+        "Android",
+        "BlackBerry",
+        "Symbian"
+      ]
+    },
+    {
+      "q": "What port does HTTP run on?",
+      "a": [
+        "80",
+        "53",
+        "443",
+        "23"
+      ]
+    },
+    {
+      "q": "How many values can a single byte represent?",
+      "a": [
+        "256",
+        "8",
+        "1",
+        "1024"
+      ]
+    },
+    {
+      "q": "How long is an IPv6 address?",
+      "a": [
+        "128 bits",
+        "32 bits",
+        "64 bits",
+        "128 bytes"
+      ]
+    },
+    {
+      "q": "What is known as \"the brain\" of the Computer?",
+      "a": [
+        "Central Processing Unit",
+        "Motherboard",
+        "Graphics Processing Unit",
+        "Keyboard"
+      ]
+    },
+    {
+      "q": "Which RAID array type is associated with data mirroring?",
+      "a": [
+        "RAID 1",
+        "RAID 0",
+        "RAID 10",
+        "RAID 5"
+      ]
+    },
+    {
+      "q": "In computing, what does LAN stand for?",
+      "a": [
+        "Local Area Network",
+        "Long Antenna Node",
+        "Light Access Node",
+        "Land Address Navigation"
+      ]
+    },
+    {
+      "q": "In any programming language, what is the most common way to iterate through an array?",
+      "a": [
+        "'For' loops",
+        "'If' Statements",
+        "'Do-while' loops",
+        "'While' loops"
+      ]
+    },
+    {
+      "q": "Which computer language would you associate Django framework with?",
+      "a": [
+        "Python",
+        "C#",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "q": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "a": [
+        "Apple",
+        "Microsoft",
+        "Atari",
+        "Commodore"
+      ]
+    },
+    {
+      "q": "What kind of memory is used on memory cache?",
+      "a": [
+        "SRAM",
+        "DRAM",
+        "ROM",
+        "Flash"
+      ]
+    },
+    {
+      "q": "The Electron computer was released in Britain during 1983 for the home computing market, by which company?",
+      "a": [
+        "Acorn Computers",
+        "Sinclair Research",
+        "Amstrad PLC",
+        "Commodore Business Machines"
+      ]
+    }
+  ]
+}

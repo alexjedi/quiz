@@ -1,0 +1,907 @@
+{
+  "id": "otdb-history",
+  "title": "History",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?",
+      "a": [
+        "St. Helena",
+        "Elba",
+        "Corsica",
+        "Canary"
+      ]
+    },
+    {
+      "q": "During the Wars of the Roses (1455 - 1487) which Englishman was dubbed \"the Kingmaker\"?",
+      "a": [
+        "Richard Neville",
+        "Richard III",
+        "Henry V",
+        "Thomas Warwick"
+      ]
+    },
+    {
+      "q": "What was the Canada's first capital?",
+      "a": [
+        "Kingston",
+        "Toronto",
+        "Ottawa",
+        "Montreal"
+      ]
+    },
+    {
+      "q": "How long did World War II last?",
+      "a": [
+        "6 years",
+        "4 years",
+        "5 years",
+        "7 years"
+      ]
+    },
+    {
+      "q": "Who was the first prime minister of Canada?",
+      "a": [
+        "John Macdonald",
+        "John Abbott",
+        "Alexander Mackenzie",
+        "Robert Borden"
+      ]
+    },
+    {
+      "q": "When was the People's Republic of China founded?",
+      "a": [
+        "October 1, 1949",
+        "April 3, 1947",
+        "May 7, 1945",
+        "December 6, 1950"
+      ]
+    },
+    {
+      "q": "How many years did the Hundred Years' War last?",
+      "a": [
+        "116",
+        "100",
+        "90",
+        "101"
+      ]
+    },
+    {
+      "q": "The assassination of which royal led to the start of World War I?",
+      "a": [
+        "Archduke Franz Ferdinand",
+        "Louis Mountbatten",
+        "King Charles I",
+        "Nicholas II"
+      ]
+    },
+    {
+      "q": "On what street did the 1666 Great Fire of London start?",
+      "a": [
+        "Pudding Lane",
+        "Baker Street",
+        "Houses of Parliament",
+        "St Paul's Cathedral"
+      ]
+    },
+    {
+      "q": "When did the British hand-over sovereignty of Hong Kong back to China?",
+      "a": [
+        "1997",
+        "1999",
+        "1841",
+        "1900"
+      ]
+    },
+    {
+      "q": "Who was the leader of the Communist Party of Yugoslavia ?",
+      "a": [
+        "Josip Broz Tito",
+        "Karadjordje Petrovic",
+        "Milos Obilic",
+        "Aleskandar Petrovic"
+      ]
+    },
+    {
+      "q": "The creator of the Enigma Cypher and Machine was of what nationality?",
+      "a": [
+        "German",
+        "American",
+        "British",
+        "Polish"
+      ]
+    },
+    {
+      "q": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+      "a": [
+        "Nagasaki",
+        "Kawasaki",
+        "Tokyo",
+        "Kagoshima"
+      ]
+    },
+    {
+      "q": "Toussaint Louverture led a successful slave revolt in which country?",
+      "a": [
+        "Haiti",
+        "France",
+        "Cuba",
+        "United States"
+      ]
+    },
+    {
+      "q": "Who was the main developer of the Suez Canal?",
+      "a": [
+        "Ferdinand de Lesseps",
+        "Louis-Eugène Cavaignac",
+        "John Milton",
+        "Johann Lukas von Hildebrandt"
+      ]
+    },
+    {
+      "q": "Which Louis was known as 'The Sun King of France'?",
+      "a": [
+        "Louis XIV",
+        "Louis XIII",
+        "Louis XV",
+        "Louis XVI"
+      ]
+    },
+    {
+      "q": "In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?",
+      "a": [
+        "John and Mary",
+        "Joseph and Catherine",
+        "William and Elizabeth",
+        "George and Anne"
+      ]
+    },
+    {
+      "q": "Which English king was married to Eleanor of Aquitaine?",
+      "a": [
+        "Henry II",
+        "Richard I",
+        "Henry I",
+        "Henry V"
+      ]
+    },
+    {
+      "q": "Which one of these tanks was designed and operated by the United Kingdom?",
+      "a": [
+        "Tog II",
+        "M4 Sherman",
+        "Tiger H1",
+        "T-34"
+      ]
+    },
+    {
+      "q": "The pantheon in Rome was used to worship what god?",
+      "a": [
+        "Any god they wanted",
+        "Athena",
+        "Zeus",
+        "Both Athena and Zeus"
+      ]
+    },
+    {
+      "q": "Which of the following is not in the Indo-European language family?",
+      "a": [
+        "Finnish",
+        "English",
+        "Hindi",
+        "Russian"
+      ]
+    },
+    {
+      "q": "Who famously coined the phrase \"I think, therefore I am\"?",
+      "a": [
+        "Descartes",
+        "Plato",
+        "Aristotle",
+        "Shakespeare"
+      ]
+    },
+    {
+      "q": "The Battle of the Somme in World War I took place in which country?",
+      "a": [
+        "France",
+        "Germany",
+        "Italy",
+        "Austria"
+      ]
+    },
+    {
+      "q": "According to legend, the ancient Greeks constructed a huge wooden model of which animal to gain entrance to Troy?",
+      "a": [
+        "Horse",
+        "Goat",
+        "Elephant",
+        "Wolf"
+      ]
+    },
+    {
+      "q": "The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?",
+      "a": [
+        "100 Megatons",
+        "200 Megatons",
+        "75 Megatons",
+        "150 Megatons"
+      ]
+    },
+    {
+      "q": "What was the real name of the Albanian national leader Skanderbeg?",
+      "a": [
+        "Gjergj Kastrioti",
+        "Diturak Zhulati",
+        "Iskander Bejko",
+        "Mirash Krasniki"
+      ]
+    },
+    {
+      "q": "Who succeded Josef Stalin as the leader of the Soviet Union?",
+      "a": [
+        "Nikita Krushchev",
+        "Lavrentiy Beria",
+        "Vyacheslav Molotov",
+        "Georgy Malenkov"
+      ]
+    },
+    {
+      "q": "What was the first recorded object to ever reach space?",
+      "a": [
+        "Bumper-WAC",
+        "American Manhole Cover",
+        "Sputnik I",
+        "Sputnik II"
+      ]
+    },
+    {
+      "q": "In what year was the last natural case of smallpox documented?",
+      "a": [
+        "1977",
+        "1982",
+        "1980",
+        "1990"
+      ]
+    },
+    {
+      "q": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+      "a": [
+        "Battle of Adrianople",
+        "Battle of Thessalonica",
+        "Battle of Pollentia",
+        "Battle of Constantinople"
+      ]
+    },
+    {
+      "q": "What year did the Titanic sink?",
+      "a": [
+        "1912",
+        "1930",
+        "1917",
+        "1941"
+      ]
+    },
+    {
+      "q": "When did the Battle of the Bulge end?",
+      "a": [
+        "January 25, 1945",
+        "August 6, 1945",
+        "December 7, 1941",
+        "December 16, 1944"
+      ]
+    },
+    {
+      "q": "Which of the following was not one of Joseph Stalin's ten blows during World War II?",
+      "a": [
+        "Vistula-Oder Offensive",
+        "Crimean Offensive",
+        "Leningrad-Novgorod Offensive",
+        "Operation Bagration"
+      ]
+    },
+    {
+      "q": "In which year did the First World War begin?",
+      "a": [
+        "1914",
+        "1930",
+        "1917",
+        "1939"
+      ]
+    },
+    {
+      "q": "The minigun was designed in 1960 by which manufacturer.",
+      "a": [
+        "General Electric",
+        "Colt Firearms",
+        "Heckler & Koch",
+        "Sig Sauer"
+      ]
+    },
+    {
+      "q": "America's Strategic Defense System during the Cold War was nicknamed after this famous movie.",
+      "a": [
+        "Star Wars",
+        "Jaws",
+        "Blade Runner",
+        "Alien"
+      ]
+    },
+    {
+      "q": "Who assassinated President James A. Garfield?",
+      "a": [
+        "Charles Guiteau",
+        "Sirhan Sirhan",
+        "Leon Czolgosz",
+        "John Wilkes Booth"
+      ]
+    },
+    {
+      "q": "Who was the first President of the People's Republic of China?",
+      "a": [
+        "Mao Zedong",
+        "Liu Shaoqi",
+        "Dong Biwu",
+        "Li Xiannian"
+      ]
+    },
+    {
+      "q": "In what year did the First World War end?",
+      "a": [
+        "1918",
+        "1914",
+        "1916",
+        "1912"
+      ]
+    },
+    {
+      "q": "During the Roman Triumvirate of 42 BCE, what region of the Roman Republic was given to Lepidus?",
+      "a": [
+        "Hispania",
+        "Italia",
+        "Gallia",
+        "Asia"
+      ]
+    },
+    {
+      "q": "What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?",
+      "a": [
+        "Hampton Court",
+        "St James's Palace",
+        "Buckingham Palace",
+        "Coughton Court"
+      ]
+    },
+    {
+      "q": "Which of the following years is commonly referred to as the \"Year Without a Summer\"?",
+      "a": [
+        "1816",
+        "1823",
+        "1813",
+        "1808"
+      ]
+    },
+    {
+      "q": "Which South American country fought Great Britain over the Falkland Islands in 1982?",
+      "a": [
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Venezuela"
+      ]
+    },
+    {
+      "q": "In what dialogue did Socrates defend himself to the court of Athens?",
+      "a": [
+        "The Apology",
+        "The Euthyphro",
+        "The Laws",
+        "The Republic"
+      ]
+    },
+    {
+      "q": "How many women joined the United States Armed Services during World War II?",
+      "a": [
+        "350,000",
+        "225,000",
+        "100,000",
+        "500,000"
+      ]
+    },
+    {
+      "q": "When Christopher Columbus sailed to America, what was the first region he arrived in?",
+      "a": [
+        "The Bahamas Archipelago",
+        "Florida",
+        "Isthmus of Panama",
+        "Nicaragua"
+      ]
+    },
+    {
+      "q": "Bohdan Khmelnytsky was which of the following?",
+      "a": [
+        "Leader of the Ukrainian Cossacks",
+        "General Secretary of the Communist Party of the USSR",
+        "Prince of Wallachia",
+        "Grand Prince of Novgorod"
+      ]
+    },
+    {
+      "q": "What was the name of the African-American cultural explosion centered in upper Manhattan during the 1920s and 1930s?",
+      "a": [
+        "Harlem Renaissance",
+        "Inwood Renaissance",
+        "Bed-Stuy Renaissance",
+        "Upper East Renaissance"
+      ]
+    },
+    {
+      "q": "What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure?",
+      "a": [
+        "Polio",
+        "Cancer",
+        "Meningitis",
+        "HIV"
+      ]
+    },
+    {
+      "q": "The ancient city of Chichén Itzá was built by which civilization?",
+      "a": [
+        "Mayans",
+        "Aztecs",
+        "Incas",
+        "Toltecs"
+      ]
+    },
+    {
+      "q": "On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?",
+      "a": [
+        "USS Hornet",
+        "USS Enterprise",
+        "USS Lexington",
+        "USS Saratoga"
+      ]
+    },
+    {
+      "q": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+      "a": [
+        "Assyrians",
+        "Babylonians",
+        "Hittites",
+        "Elamites"
+      ]
+    },
+    {
+      "q": "What was the transfer of disease, crops, and people across the Atlantic shortly after the discovery of the Americas called?",
+      "a": [
+        "The Columbian Exchange",
+        "Triangle Trade",
+        "Transatlantic Slave Trade",
+        "The Silk Road"
+      ]
+    },
+    {
+      "q": "What did Albert Einstein win the Nobel Prize for in 1921?",
+      "a": [
+        "Photoelectric Effect",
+        "Relativity",
+        "Wave-Particle Duality",
+        "Zero-Point Energy"
+      ]
+    },
+    {
+      "q": "Who was the only US President to be elected four times?",
+      "a": [
+        "Franklin Roosevelt",
+        "Theodore Roosevelt",
+        "George Washington",
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "q": "The Spitfire L.F. Mk IX had what engine?",
+      "a": [
+        "Merlin 66",
+        "Griffon 65",
+        "Merlin 50",
+        "Merlin X"
+      ]
+    },
+    {
+      "q": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+      "a": [
+        "Australia",
+        "India",
+        "Canada",
+        "Brazil"
+      ]
+    },
+    {
+      "q": "Who was the first president of Kenya?",
+      "a": [
+        "Jomo Kenyatta",
+        "Daniel Moi",
+        "Tom Mboya",
+        "Oginga Odinga"
+      ]
+    },
+    {
+      "q": "How old was the famous King Tutankhamen (Tut) when he died?",
+      "a": [
+        "19",
+        "21",
+        "15",
+        "30"
+      ]
+    },
+    {
+      "q": "Which country had an \"Orange Revolution\" between 2004 and 2005?",
+      "a": [
+        "Ukraine",
+        "Belarus",
+        "Latvia",
+        "Lithuania"
+      ]
+    },
+    {
+      "q": "What was William Frederick Cody better known as?",
+      "a": [
+        "Buffalo Bill",
+        "Billy the Kid",
+        "Wild Bill Hickok",
+        "Pawnee Bill"
+      ]
+    },
+    {
+      "q": "What was the name of the first permanent English settlement in America?",
+      "a": [
+        "Jamestown",
+        "New York",
+        "St. John's",
+        "Plymouth"
+      ]
+    },
+    {
+      "q": "Who led France during the \"Reign of Terror\" ?",
+      "a": [
+        "Maximilien Robespierre",
+        "Napoleon Bonaparte",
+        "Jean-Paul Marat",
+        "Louis XVI"
+      ]
+    },
+    {
+      "q": "In what year did the Berlin Wall fall?",
+      "a": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ]
+    },
+    {
+      "q": "What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic bomb on Hiroshima?",
+      "a": [
+        "Enola Gay",
+        "Necessary Evil",
+        "The Great Artiste",
+        "Full House"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT classified as a Semetic language?",
+      "a": [
+        "Sumerian",
+        "Maltese",
+        "Akkadian",
+        "Mandaic"
+      ]
+    },
+    {
+      "q": "What is widely considered to be the oldest civilization known to mankind?",
+      "a": [
+        "Sumeria",
+        "Babylon",
+        "Assyria",
+        "Phoenicia"
+      ]
+    },
+    {
+      "q": "Which one of these was not a beach landing site in the Invasion of Normandy?",
+      "a": [
+        "Silver",
+        "Gold",
+        "Juno",
+        "Sword"
+      ]
+    },
+    {
+      "q": "The Battle of Hastings was fought in which year?",
+      "a": [
+        "1066",
+        "911",
+        "1204",
+        "1420"
+      ]
+    },
+    {
+      "q": "What was the original name of New York City?",
+      "a": [
+        "New Amsterdam",
+        "New London",
+        "New Paris",
+        "New Rome"
+      ]
+    },
+    {
+      "q": "Which of these facilities was not present on the Titanic?",
+      "a": [
+        "Fainting room",
+        "Turkish bath",
+        "Kennel",
+        "Squash court"
+      ]
+    },
+    {
+      "q": "When did the Crisis of the Third Century begin?",
+      "a": [
+        "235 AD",
+        "235 BC",
+        "242 AD",
+        "210 AD"
+      ]
+    },
+    {
+      "q": "Which King of England was faced with the Peasants' Revolt in 1381?",
+      "a": [
+        "Richard II",
+        "Edward III",
+        "Edward II",
+        "Henry IV"
+      ]
+    },
+    {
+      "q": "Which building was set aflame on August 24th, 1812?",
+      "a": [
+        "The White House",
+        "Parliament Building",
+        "Grand National Assembly Building",
+        "Palace of the Nation"
+      ]
+    },
+    {
+      "q": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+      "a": [
+        "Agent Orange",
+        "Phosgene",
+        "Mustard Gas",
+        "Hydrogen Cyanide"
+      ]
+    },
+    {
+      "q": "How many Sister Ships were related to the TItanic?",
+      "a": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "q": "What date was the first flight of the P-40 Warhawk?",
+      "a": [
+        "October 14 1938",
+        "August 21 1939",
+        "January 12 1940",
+        "June 1 1939"
+      ]
+    },
+    {
+      "q": "List the following Iranic empires in chronological order:",
+      "a": [
+        "Median, Achaemenid, Parthian, Sassanid",
+        "Median, Achaemenid, Sassanid, Parthian",
+        "Achaemenid, Median, Parthian, Sassanid",
+        "Achaemenid, Median, Sassanid, Parthian"
+      ]
+    },
+    {
+      "q": "Who is attributed credit for recording the epic poem The Odyssey?",
+      "a": [
+        "Homer",
+        "Aristotle",
+        "Odysseus",
+        "Socrates"
+      ]
+    },
+    {
+      "q": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+      "a": [
+        "The Flamingo",
+        "The MGM Grand",
+        "The Sands",
+        "The Sahara"
+      ]
+    },
+    {
+      "q": "In what year did Texas secede from Mexico?",
+      "a": [
+        "1836",
+        "1838",
+        "1845",
+        "1844"
+      ]
+    },
+    {
+      "q": "What year was the first Pizza Hut restaurant opened?",
+      "a": [
+        "1958",
+        "1976",
+        "1965",
+        "1942"
+      ]
+    },
+    {
+      "q": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+      "a": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Harold Macmillan",
+        "Edward Heath"
+      ]
+    },
+    {
+      "q": "In 1547 who became the 1st Tsar of Russia",
+      "a": [
+        "Ivan the Terrible",
+        "Alexis of Russia",
+        "Mikhail Romanov",
+        "Peter the Great"
+      ]
+    },
+    {
+      "q": "Who assassinated Archduke Franz Ferdinand?",
+      "a": [
+        "Gavrilo Princip",
+        "Nedeljko Čabrinović",
+        "Oskar Potiorek",
+        "Ferdinand Cohen-Blind"
+      ]
+    },
+    {
+      "q": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+      "a": [
+        "Goldsboro, North Carolina",
+        "Hicksville, New York",
+        "Jacksonville, Florida",
+        "Conway, Arkansas"
+      ]
+    },
+    {
+      "q": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+      "a": [
+        "55",
+        "50",
+        "60",
+        "54"
+      ]
+    },
+    {
+      "q": "What battle was the longest in World War I, lasting approximately 303 days?",
+      "a": [
+        "Battle of Verdun",
+        "Battle of Passchendaele",
+        "Battle of Amiens",
+        "Battle of Stalingrad"
+      ]
+    },
+    {
+      "q": "When did Vesuvius destroy the city of Pompeii?",
+      "a": [
+        "79 AD",
+        "62 AD",
+        "31 BC",
+        "54 BC"
+      ]
+    },
+    {
+      "q": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+      "a": [
+        "Chernobyl",
+        "Ignalina",
+        "Mayak",
+        "Kursk"
+      ]
+    },
+    {
+      "q": "Which country was an allied power in World War II?",
+      "a": [
+        "Soviet Union",
+        "Italy",
+        "Germany",
+        "Japan"
+      ]
+    },
+    {
+      "q": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+      "a": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "Franklin D. Roosevelt",
+        "Herbert Hoover"
+      ]
+    },
+    {
+      "q": "Who invented the \"Flying Shuttle\" in 1738; one of the key developments in the industrialization of weaving?",
+      "a": [
+        "John Kay",
+        "James Hargreaves",
+        "Richard Arkwright",
+        "John Deere"
+      ]
+    },
+    {
+      "q": "Who is the creator of the soft drink, Dr. Pepper?",
+      "a": [
+        "Charles Alderton",
+        "James Wellington",
+        "Johnson Hinsin",
+        "Boris Heviltik"
+      ]
+    },
+    {
+      "q": "When did Lithuania declare independence from the Soviet Union?",
+      "a": [
+        "March 11th, 1990",
+        "December 25th, 1991",
+        "December 5th, 1991",
+        "April 20th, 1989"
+      ]
+    },
+    {
+      "q": "Which Nation did NOT have a Colony in modern-day North America?",
+      "a": [
+        "Portugal",
+        "Spain",
+        "Sweden",
+        "Netherlands"
+      ]
+    },
+    {
+      "q": "When did the Byzantine Empire collapse?",
+      "a": [
+        "1453",
+        "1299",
+        "1353",
+        "1498"
+      ]
+    },
+    {
+      "q": "What micro-state is considered to have the oldest constitution still in effect?",
+      "a": [
+        "San Marino",
+        "Andorra",
+        "Monaco",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    {
+      "q": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+      "a": [
+        "Pope Leo III",
+        "Pope Urban IV",
+        "Pope Stephen V",
+        "Pope Valentine"
+      ]
+    },
+    {
+      "q": "When was Adolf Hitler appointed as Chancellor of Germany?",
+      "a": [
+        "January 30, 1933",
+        "September 1, 1939",
+        "February 27, 1933",
+        "October 6, 1939"
+      ]
+    }
+  ]
+}

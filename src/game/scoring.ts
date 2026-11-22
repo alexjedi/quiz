@@ -3,6 +3,8 @@ import type { AbilityId, AbilityState, Settings } from "./protocol";
 export const POINTS_CORRECT = 100;
 export const POINTS_FASTEST = 50;
 export const REVEAL_MS = 3000;
+export const BLITZ_COUNT = 10;
+export const BLITZ_SECONDS = 5;
 export const ANSWER_GRACE_MS = 300;
 export const MAX_PLAYERS = 12;
 export const NAME_LIMIT = 14;

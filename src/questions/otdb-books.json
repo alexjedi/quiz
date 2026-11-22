@@ -1,0 +1,907 @@
+{
+  "id": "otdb-books",
+  "title": "Books",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Who was the original author of Frankenstein?",
+      "a": [
+        "Mary Shelley",
+        "Edgar Allan Poe",
+        "Bram Stoker",
+        "H. P. Lovecraft"
+      ]
+    },
+    {
+      "q": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+      "a": [
+        "INGSOC",
+        "Neo-Bolshevism",
+        "Obliteration of the Self",
+        "Earth Alliance"
+      ]
+    },
+    {
+      "q": "Where does the book \"The Silence of the Lambs\" get its title from?",
+      "a": [
+        "The main character's trauma in childhood",
+        "The relation it has with killing the innocents",
+        "The villain's favourite meal",
+        "The voice of innocent people being shut by the powerful"
+      ]
+    },
+    {
+      "q": "Who wrote \"A Tale of Two Cities\"?",
+      "a": [
+        "Charles Dickens",
+        "Charles Darwin",
+        "Mark Twain",
+        "Roald Dahl"
+      ]
+    },
+    {
+      "q": "In which classic novel is there a character named Homer Simpson?",
+      "a": [
+        "The Day of the Locust",
+        "Catch-22",
+        "Of Mice and Men",
+        "A Separate Peace"
+      ]
+    },
+    {
+      "q": "What is the name of the fourth book in Stephen King's The Dark Tower series?",
+      "a": [
+        "Wizard and Glass",
+        "Wolves of the Calla",
+        "Hearts in Atlantis",
+        "The Dark Half"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a work done by Shakespeare?",
+      "a": [
+        "Trial of Temperance",
+        "Measure For Measure",
+        "Titus Andronicus",
+        "Cymbeline"
+      ]
+    },
+    {
+      "q": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+      "a": [
+        "The Dresden Files",
+        "A Hat in Time",
+        "The Cinder Spires",
+        "My Life as a Teenage Wizard"
+      ]
+    },
+    {
+      "q": "Which fictional English county was the setting for Thomas Hardy's novels?",
+      "a": [
+        "Wessex",
+        "Barsetshire",
+        "Fulchester",
+        "Ambridge"
+      ]
+    },
+    {
+      "q": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+      "a": [
+        "John Steinbeck",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner"
+      ]
+    },
+    {
+      "q": "In Alice in Wonderland, what is the name of Alice's kitten?",
+      "a": [
+        "Dinah",
+        "Oscar",
+        "Heath",
+        "Smokey"
+      ]
+    },
+    {
+      "q": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+      "a": [
+        "Astoria Greengrass",
+        "Pansy Parkinson",
+        "Millicent Bulstrode",
+        "Hermione Granger"
+      ]
+    },
+    {
+      "q": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+      "a": [
+        "The Prince and the Pauper",
+        "Hamlet",
+        "Wealthy Boy and the Schmuck",
+        "A Modern Twain Story"
+      ]
+    },
+    {
+      "q": "The book \"The Little Prince\" was written by...",
+      "a": [
+        "Antoine de Saint-Exupéry",
+        "Miguel de Cervantes Saavedra",
+        "Jane Austen",
+        "F. Scott Fitzgerald"
+      ]
+    },
+    {
+      "q": "Of the following, which Stephen King novel was published earliest?",
+      "a": [
+        "\"Cujo\"",
+        "\"Misery\"",
+        "\"Christine\"",
+        "\"IT\""
+      ]
+    },
+    {
+      "q": "American illustrator and writer Maurice Sendak is most well-known for writing which children's book?",
+      "a": [
+        "Where The Wild Things Are",
+        "The Neverending Story",
+        "Charlie and the Chocolate Factory",
+        "The Cat in the Hat"
+      ]
+    },
+    {
+      "q": "What is the make and model of the tour vehicles in \"Jurassic Park\" (1990)?",
+      "a": [
+        "1989 Toyota Land Cruiser",
+        "1989 Jeep Wrangler YJ Sahar",
+        "1989 Ford Explorer XLT",
+        "Mercedes M-Class"
+      ]
+    },
+    {
+      "q": "How many books are in the Chronicles of Narnia series?",
+      "a": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "q": "Who wrote the novel 'Fear And Loathing In Las Vegas'?",
+      "a": [
+        "Hunter S. Thompson",
+        "F. Scott Fitzgerald",
+        "Henry Miller",
+        "William S. Burroughs"
+      ]
+    },
+    {
+      "q": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+      "a": [
+        "Richard Bachman",
+        "J. D. Robb",
+        "Mark Twain",
+        "Lewis Carroll"
+      ]
+    },
+    {
+      "q": "Who is the author of the \"A Song of Ice and Fire\" book series, starting with \"A Game of Thrones\"?",
+      "a": [
+        "George R. R. Martin",
+        "Brandon Sanderson",
+        "J. R. R. Tolkien",
+        "Steven Erikson"
+      ]
+    },
+    {
+      "q": "What was Sir Handel's original name in \"The Railway Series\" and it's animated counterpart \"Thomas and Friends?\"",
+      "a": [
+        "Falcon",
+        "Eagle",
+        "Kyte",
+        "Swallow"
+      ]
+    },
+    {
+      "q": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+      "a": [
+        "A Study in Scarlet",
+        "The Sign of the Four",
+        "A Case of Identity",
+        "The Doings of Raffles Haw"
+      ]
+    },
+    {
+      "q": "Where does Stephen King's \"IT\" take place?",
+      "a": [
+        "Derry, Maine",
+        "Rockford, Illinois",
+        "Innsmouth, Massachusetts",
+        "Kingsland, Texas"
+      ]
+    },
+    {
+      "q": "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
+      "a": [
+        "A Clash of Kings",
+        "A Dance with Dragons",
+        "A Storm of Swords",
+        "A Feast for Crows"
+      ]
+    },
+    {
+      "q": "Who was the author of the 1954 novel, \"Lord of the Flies\"?",
+      "a": [
+        "William Golding",
+        "Stephen King",
+        "F. Scott Fitzgerald",
+        "Hunter Fox"
+      ]
+    },
+    {
+      "q": "In the \"Harry Potter\" series, what is Headmaster Dumbledore's full name?",
+      "a": [
+        "Albus Percival Wulfric Brian Dumbledore",
+        "Albus Valum Jetta Mobius Dumbledore",
+        "Albus James Lunae Otto Dumbledore",
+        "Albus Valencium Horatio Kul Dumbledore"
+      ]
+    },
+    {
+      "q": "Mary Shelley is the author of what classic horror story?",
+      "a": [
+        "Frankenstein",
+        "Dracula",
+        "Strange Case of Dr Jekyll and Mr Hyde",
+        "The Legend of Sleepy Hollow"
+      ]
+    },
+    {
+      "q": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+      "a": [
+        "Gloin",
+        "Thorin Oakenshield",
+        "Bombur",
+        "Dwalin"
+      ]
+    },
+    {
+      "q": "How many Harry Potter books are there?",
+      "a": [
+        "7",
+        "8",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "q": "What was the name of Captain Nemo's submarine in \"20,000 Leagues Under the Sea\"?",
+      "a": [
+        "The Nautilus",
+        "The Neptune",
+        "The Poseidon",
+        "The Atlantis"
+      ]
+    },
+    {
+      "q": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+      "a": [
+        "1984",
+        "The Old Man and the Sea",
+        "Catcher and the Rye",
+        "To Kill a Mockingbird"
+      ]
+    },
+    {
+      "q": "What's Harry Potter's dad's name?",
+      "a": [
+        "James Potter",
+        "Joey Potter",
+        "Frank Potter",
+        "Hairy Potter Sr."
+      ]
+    },
+    {
+      "q": "Who is the author of the series \"Malazan Book of the Fallen\"?",
+      "a": [
+        "Steven Erikson",
+        "Ian Cameron Esslemont",
+        "George R. R. Martin",
+        "J. R. R. Tolkien"
+      ]
+    },
+    {
+      "q": "Who wrote the young adult novel \"The Fault in Our Stars\"?",
+      "a": [
+        "John Green",
+        "Stephenie Meyer",
+        "Suzanne Collins",
+        "Stephen Chbosky"
+      ]
+    },
+    {
+      "q": "In Terry Pratchett's Discworld novel 'Wyrd Sisters', which of these are not one of the three main witches?",
+      "a": [
+        "Winny Hathersham",
+        "Granny Weatherwax",
+        "Nanny Ogg",
+        "Magrat Garlick"
+      ]
+    },
+    {
+      "q": "In Rudyard Kipling's \"The Jungle Book\", what type of snake was Kaa?",
+      "a": [
+        "Python",
+        "Cobra",
+        "Anaconda",
+        "Viper"
+      ]
+    },
+    {
+      "q": "Who wrote the children's story \"The Little Match Girl\"?",
+      "a": [
+        "Hans Christian Andersen",
+        "Charles Dickens",
+        "Lewis Carroll",
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "q": "\"Green Eggs And Ham\" is a book by which author?",
+      "a": [
+        "Dr. Seuss",
+        "Beatrix Potter",
+        "Roald Dahl",
+        "A.A. Milne"
+      ]
+    },
+    {
+      "q": "Which of the following was the author of \"Username Evie\"?",
+      "a": [
+        "Joe Sugg",
+        "Zoe Sugg",
+        "Joe Weller",
+        "Alfie Deyes"
+      ]
+    },
+    {
+      "q": "In what Harry Potter book was a Horcrux first encountered?",
+      "a": [
+        "The Chamber of Secrets",
+        "The Half-Blood Prince",
+        "The Goblet of Fire",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "q": "What position does Harry Potter play in Quidditch?",
+      "a": [
+        "Seeker",
+        "Beater",
+        "Chaser",
+        "Keeper"
+      ]
+    },
+    {
+      "q": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+      "a": [
+        "Camino Island",
+        "Rogue Lawyer",
+        "Gray Mountain",
+        "The Litigators"
+      ]
+    },
+    {
+      "q": "Which classic horror character killed Elizabeth Lavenza?",
+      "a": [
+        "Frankenstein's Monster",
+        "Count Dracula",
+        "Werewolf",
+        "The Creature from the Black Lagoon"
+      ]
+    },
+    {
+      "q": "By what name was the author Eric Blair better known?",
+      "a": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ernest Hemingway",
+        "Ray Bradbury"
+      ]
+    },
+    {
+      "q": "In the Harry Potter universe, what is Cornelius Fudge's middle name?",
+      "a": [
+        "Oswald",
+        "James",
+        "Harold",
+        "Christopher"
+      ]
+    },
+    {
+      "q": "What is Ron Weasley's middle name?",
+      "a": [
+        "Bilius",
+        "Arthur",
+        "John",
+        "Dominic"
+      ]
+    },
+    {
+      "q": "Who is the protagonist of the book: \"The Catcher in the Rye\" by J.D. Salinger",
+      "a": [
+        "Holden Caulfield",
+        "Holden David",
+        "Jerome Caulfield",
+        "Jerome David"
+      ]
+    },
+    {
+      "q": "Abel Magwitch is a character from which Charles Dickens novel?",
+      "a": [
+        "Great Expectations",
+        "The Pickwick Papers",
+        "Nicholas Nickleby",
+        "Oliver Twist"
+      ]
+    },
+    {
+      "q": "What is the name of Eragon's dragon in \"Eragon\"?",
+      "a": [
+        "Saphira",
+        "Glaedr",
+        "Thorn",
+        "Arya"
+      ]
+    },
+    {
+      "q": "Which author co-wrote \"The Communist Manifesto\" alongside Karl Marx?",
+      "a": [
+        "Friedrich Engels",
+        "Robert Owen",
+        "Alexander Kerensky",
+        "Paul Lafargue"
+      ]
+    },
+    {
+      "q": "Which of the following is the world's best-selling book?",
+      "a": [
+        "The Lord of the Rings",
+        "The Little Prince",
+        "Harry Potter and the Philosopher's Stone",
+        "The Da Vinci Code"
+      ]
+    },
+    {
+      "q": "Which of these book series is by James Patterson?",
+      "a": [
+        "Maximum Ride",
+        "Harry Potter",
+        "The Legend of Xanth",
+        "The Bartemaeus Trilogy"
+      ]
+    },
+    {
+      "q": "In the novel \"Lord of the Rings\", how many rings of power were given to the race of man?",
+      "a": [
+        "9",
+        "5",
+        "11",
+        "13"
+      ]
+    },
+    {
+      "q": "In the \"The Hobbit\", who kills Smaug?",
+      "a": [
+        "Bard",
+        "Bilbo Baggins",
+        "Gandalf the Grey",
+        "Frodo"
+      ]
+    },
+    {
+      "q": "In Michael Crichton's novel \"Jurassic Park\", John Hammond meets his demise at the claws of which dinosaur?",
+      "a": [
+        "Procompsognathus",
+        "Dilophosaurus",
+        "Tyrannosaurus Rex",
+        "Velociraptor"
+      ]
+    },
+    {
+      "q": "Which of these books was NOT written by the Czech author Karel Čapek?",
+      "a": [
+        "Journey to the Center of the Earth",
+        "The War with the Newts",
+        "R.U.R. (Rossum's Universal Robots)",
+        "Dashenka, or the Life of a Puppy"
+      ]
+    },
+    {
+      "q": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+      "a": [
+        "Terisiare",
+        "Aerona",
+        "Shiv",
+        "Jamuraa"
+      ]
+    },
+    {
+      "q": "J.K. Rowling completed \"Harry Potter and the Deathly Hallows\" in which hotel in Edinburgh, Scotland?",
+      "a": [
+        "The Balmoral",
+        "The Dunstane Hotel",
+        "Hotel Novotel",
+        "Sheraton Grand Hotel & Spa"
+      ]
+    },
+    {
+      "q": "This play is generally considered to be the most adaptable of Shakespeare’s works, and follows two “star-crossed lovers”.",
+      "a": [
+        "Romeo and Juliet",
+        "Hamlet",
+        "The Tempest",
+        "King Lear"
+      ]
+    },
+    {
+      "q": "In the children's book series, where is Paddington Bear originally from?",
+      "a": [
+        "Peru",
+        "India",
+        "Iceland",
+        "Canada"
+      ]
+    },
+    {
+      "q": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+      "a": [
+        "Ulgrotha",
+        "Bant",
+        "Llanowar",
+        "Tazeem"
+      ]
+    },
+    {
+      "q": "In Margaret Atwood's \"The Handmaid's Tale\", what is Offred's real name is implied to be?",
+      "a": [
+        "June",
+        "August",
+        "April",
+        "May"
+      ]
+    },
+    {
+      "q": "In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",
+      "a": [
+        "Zhao Yun",
+        "Liu Bei",
+        "Guan Yu",
+        "Zhang Fei"
+      ]
+    },
+    {
+      "q": "What is the fourth book of the Old Testament?",
+      "a": [
+        "Numbers",
+        "Genesis",
+        "Exodus",
+        "Leviticus"
+      ]
+    },
+    {
+      "q": "What is Hermione Granger's middle name?",
+      "a": [
+        "Jean",
+        "Jane",
+        "Emma",
+        "Jo"
+      ]
+    },
+    {
+      "q": "Who wrote the novel \"Moby-Dick\"?",
+      "a": [
+        "Herman Melville",
+        "William Golding",
+        "William Shakespeare",
+        "J. R. R. Tolkien"
+      ]
+    },
+    {
+      "q": "In the book series \"Odd Thomas\", Danny Jessup has what genetic disease?",
+      "a": [
+        "Osteogenesis Imperfecta",
+        "Spinocerebellar ataxia",
+        "Adrenoleukodystrophy",
+        "Cystic Fibrosis"
+      ]
+    },
+    {
+      "q": "According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+      "a": [
+        "42",
+        "Loving everyone around you",
+        "Chocolate",
+        "Death"
+      ]
+    },
+    {
+      "q": "In the \"Harry Potter\" novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+      "a": [
+        "Answer a riddle",
+        "Rhythmically tap barrels with a wand",
+        "Speak a password",
+        "Knock in sequence"
+      ]
+    },
+    {
+      "q": "Which of the following authors was not born in England?",
+      "a": [
+        "Arthur Conan Doyle",
+        "Graham Greene",
+        "H G Wells",
+        "Arthur C Clarke"
+      ]
+    },
+    {
+      "q": "In the book \"The Martian\", how long was Mark Watney trapped on Mars (in Sols)?",
+      "a": [
+        "549 Days",
+        "765 Days",
+        "401 Days",
+        "324 Days"
+      ]
+    },
+    {
+      "q": "What is the name of Sherlock Holmes's brother?",
+      "a": [
+        "Mycroft Holmes",
+        "Mederi Holmes",
+        "Martin Holmes",
+        "Herbie Hancock Holmes"
+      ]
+    },
+    {
+      "q": "In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",
+      "a": [
+        "The Thorn of Camorr",
+        "The Rose of the Marrows",
+        "The Thorn of Emberlain",
+        "The Thorn of the Marrows"
+      ]
+    },
+    {
+      "q": "Which Russian author wrote the epic novel War and Peace?",
+      "a": [
+        "Leo Tolstoy",
+        "Fyodor Dostoyevsky",
+        "Alexander Pushkin",
+        "Vladimir Nabokov"
+      ]
+    },
+    {
+      "q": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+      "a": [
+        "Badger",
+        "Fox",
+        "Frog",
+        "Rabbit"
+      ]
+    },
+    {
+      "q": "What was the name of the Mysterious Island, in Jules Verne's \"The Mysterious Island\"?",
+      "a": [
+        "Lincoln Island",
+        "Vulcania Island",
+        "Prometheus Island",
+        "Neptune Island"
+      ]
+    },
+    {
+      "q": "The novel \"Of Mice And Men\" was written by what author?",
+      "a": [
+        "John Steinbeck",
+        "George Orwell",
+        "Mark Twain",
+        "Harper Lee"
+      ]
+    },
+    {
+      "q": "What was the last message of the Dolphins in \"The Hitchhiker's Guide to the Galaxy\"?",
+      "a": [
+        "\"So long, and thanks for all the fish.\"",
+        "\"The answer is 42.\"",
+        "\"Land of the brave.\"",
+        "\"Goodbye cruel world!\""
+      ]
+    },
+    {
+      "q": "George Orwell's novel \"Animal Farm\" was inspired by which historical event?",
+      "a": [
+        "The rise of communism and Stalin's policies.",
+        "The rise of Imperial Japan and Pacific control.",
+        "The rise of fascism and Hitler's influences.",
+        "Franklin D. Roosevelt's New Deal and its effects on The Great Depression."
+      ]
+    },
+    {
+      "q": "Which poet wrote \"The Ballad of Reading Gaol\" whilst imprisoned for being gay?",
+      "a": [
+        "Oscar Wilde",
+        "Lord Byron",
+        "William Blake",
+        "Wilfred Owen"
+      ]
+    },
+    {
+      "q": "The novel \"Jane Eyre\" was written by what author?",
+      "a": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Jane Austen",
+        "Louisa May Alcott"
+      ]
+    },
+    {
+      "q": "According to Bram Stoker's novel, in which British coastal town did Dracula come ashore?",
+      "a": [
+        "Whitby",
+        "Scarborough",
+        "Brighton",
+        "Portsmouth"
+      ]
+    },
+    {
+      "q": "What is the name of the protagonist of J.D. Salinger's novel Catcher in the Rye?",
+      "a": [
+        "Holden Caulfield",
+        "Fletcher Christian",
+        "Jay Gatsby",
+        "Randall Flagg"
+      ]
+    },
+    {
+      "q": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+      "a": [
+        "The Greasers",
+        "The Outsiders",
+        "The Mafia",
+        "The Socs"
+      ]
+    },
+    {
+      "q": "What is the name of the town in which Lily and James Potter are buried?",
+      "a": [
+        "Godric's Hollow",
+        "Hogsmeade",
+        "Ottery St. Catchpole",
+        "Little Hangleton"
+      ]
+    },
+    {
+      "q": "Who wrote the \"A Song of Ice And Fire\" fantasy novel series?",
+      "a": [
+        "George R. R. Martin",
+        "George Lucas",
+        "George Orwell",
+        "George Eliot"
+      ]
+    },
+    {
+      "q": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+      "a": [
+        "Shadow",
+        "Thievery",
+        "Justice",
+        "Chaos"
+      ]
+    },
+    {
+      "q": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+      "a": [
+        "Sarpadia",
+        "Otaria",
+        "Terisiare",
+        "Shiv"
+      ]
+    },
+    {
+      "q": "Which is NOT a book in the Harry Potter Series?",
+      "a": [
+        "The House Elf",
+        "The Chamber of Secrets",
+        "The Prisoner of Azkaban",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "q": "Which famous book is sub-titled 'The Modern Prometheus'?",
+      "a": [
+        "Frankenstein",
+        "Dracula",
+        "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "The Legend of Sleepy Hollow"
+      ]
+    },
+    {
+      "q": "Who wrote \"Harry Potter\"?",
+      "a": [
+        "J.K. Rowling",
+        "J.R.R. Tolkien",
+        "Terry Pratchett",
+        "Daniel Radcliffe"
+      ]
+    },
+    {
+      "q": "By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?",
+      "a": [
+        "The Artful Dodger",
+        "Fagin",
+        "Bull’s-eye",
+        "Mr. Fang"
+      ]
+    },
+    {
+      "q": "The book \"Fahrenheit 451\" was written by whom?",
+      "a": [
+        "Ray Bradbury",
+        "R. L. Stine",
+        "Wolfgang Amadeus Mozart",
+        "Stephen King"
+      ]
+    },
+    {
+      "q": "The title of Adolf Hitler's autobiography \"Mein Kampf\" is what when translated to English?",
+      "a": [
+        "My Struggle",
+        "My Hatred",
+        "My Sadness",
+        "My Desire"
+      ]
+    },
+    {
+      "q": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+      "a": [
+        "Frankenstein's monster",
+        "Dracula",
+        "The Thing",
+        "The Invisible Man"
+      ]
+    },
+    {
+      "q": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+      "a": [
+        "SCP-173",
+        "SCP-001",
+        "SCP-999",
+        "SCP-1459"
+      ]
+    },
+    {
+      "q": "Which famous spy novelist wrote the childrens' story \"Chitty-Chitty-Bang-Bang\"?",
+      "a": [
+        "Ian Fleming",
+        "Joseph Conrad",
+        "John Buchan",
+        "Graham Greene"
+      ]
+    },
+    {
+      "q": "Who wrote the 1967 horror novel \"Rosemary's Baby\"?",
+      "a": [
+        "Ira Levin",
+        "Stephen King",
+        "Robert Bloch",
+        "Mary Shelley"
+      ]
+    },
+    {
+      "q": "Which author and poet famously wrote the line, \"The female of the species is more deadly than the male\"?",
+      "a": [
+        "Rudyard Kipling",
+        "Edgar Allan Poe",
+        "William Shakespeare",
+        "William Wordsworth"
+      ]
+    }
+  ]
+}

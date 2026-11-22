@@ -3,6 +3,7 @@ import type {
   AbilityId,
   AbilityState,
   ClientMessage,
+  PackInfo,
   Phase,
   PlayerView,
   RoomState,
@@ -12,6 +13,8 @@ import type {
 import {
   ANSWER_GRACE_MS,
   AVATAR_COUNT,
+  BLITZ_COUNT,
+  BLITZ_SECONDS,
   COUNT_OPTIONS,
   MAX_PLAYERS,
   NAME_LIMIT,
@@ -50,6 +53,7 @@ interface Prepared {
 }
 
 const ANSWER_COUNT = 4;
+const PACK_LIST: PackInfo[] = packs.map((pack) => ({ id: pack.id, title: pack.title, count: pack.questions.length }));
 
 export class Room extends DurableObject {
   private seats = new Map<string, Seat>();
@@ -60,6 +64,9 @@ export class Room extends DurableObject {
   private settings: Settings = defaultSettings(packs.map((p) => p.id));
   private questions: Prepared[] = [];
   private index = 0;
+  private blitz = false;
+  private roundMs = 0;
+  private asked = new Set<string>();
   private startedAt = 0;
   private phaseEndsAt = 0;
   private fastestId: string | null = null;
@@ -135,7 +142,7 @@ export class Room extends DurableObject {
         pick: null,
         pickedAfter: 0,
         hidden: [],
-        deadline: this.phase === "question" ? this.startedAt + this.settings.roundSeconds * 1000 : 0,
+        deadline: this.phase === "question" ? this.startedAt + this.roundMs : 0,
         earned: [],
         gain: 0,
       };
@@ -180,6 +187,8 @@ export class Room extends DurableObject {
     this.settings = defaultSettings(packs.map((p) => p.id));
     this.questions = [];
     this.index = 0;
+    this.blitz = false;
+    this.asked.clear();
   }
 
   private ensureHost(): void {
@@ -205,18 +214,28 @@ export class Room extends DurableObject {
     this.broadcast();
   }
 
-  private start(): void {
+  private draw(packIds: string[] | null, count: number): Prepared[] {
     const pool: Prepared[] = [];
     for (const pack of packs) {
-      if (!this.settings.packIds.includes(pack.id)) continue;
+      if (packIds && !packIds.includes(pack.id)) continue;
       for (const question of pack.questions) {
-        if (question.a.length !== ANSWER_COUNT) continue;
+        if (question.a.length !== ANSWER_COUNT || this.asked.has(question.q)) continue;
         const answers = shuffled(question.a, Math.random);
         pool.push({ pack: pack.title, text: question.q, answers, correct: answers.indexOf(question.a[0]) });
       }
     }
-    if (pool.length === 0) return;
-    this.questions = shuffled(pool, Math.random).slice(0, this.settings.questionCount);
+    const drawn = shuffled(pool, Math.random).slice(0, count);
+    for (const question of drawn) this.asked.add(question.text);
+    return drawn;
+  }
+
+  private start(): void {
+    this.asked.clear();
+    const drawn = this.draw(this.settings.packIds, this.settings.questionCount);
+    if (drawn.length === 0) return;
+    this.questions = drawn;
+    this.blitz = false;
+    this.roundMs = this.settings.roundSeconds * 1000;
     for (const seat of [...this.seats.values()]) {
       if (!seat.socket) {
         this.seats.delete(seat.id);
@@ -236,7 +255,7 @@ export class Room extends DurableObject {
     this.phase = "question";
     this.startedAt = Date.now();
     this.fastestId = null;
-    const deadline = this.startedAt + this.settings.roundSeconds * 1000;
+    const deadline = this.startedAt + this.roundMs;
     this.phaseEndsAt = deadline;
     for (const seat of this.seats.values()) {
       seat.pick = null;
@@ -280,7 +299,7 @@ export class Room extends DurableObject {
     if (this.phase !== "question" || seat.pick !== null) return;
     if (seat.abilities[ability] !== "ready" || Date.now() >= seat.deadline) return;
     if (ability === "time") {
-      seat.deadline = this.startedAt + this.settings.roundSeconds * 2000;
+      seat.deadline = this.startedAt + this.roundMs * 2;
     } else if (ability === "hide" || ability === "fifty") {
       const targets = hideTargets(ability, this.questions[this.index].correct, seat.hidden, ANSWER_COUNT, Math.random);
       if (targets.length === 0) return;
@@ -321,9 +340,33 @@ export class Room extends DurableObject {
       this.startQuestion(this.index + 1);
       return;
     }
+    if (!this.blitz && this.tiedForFirst()) {
+      const drawn = this.draw(null, BLITZ_COUNT);
+      if (drawn.length > 0) {
+        this.questions = drawn;
+        this.blitz = true;
+        this.roundMs = BLITZ_SECONDS * 1000;
+        this.startQuestion(0);
+        return;
+      }
+    }
     this.phase = "results";
     this.phaseEndsAt = 0;
     this.broadcast();
+  }
+
+  private tiedForFirst(): boolean {
+    let top = -1;
+    let leaders = 0;
+    for (const seat of this.seats.values()) {
+      if (seat.score > top) {
+        top = seat.score;
+        leaders = 1;
+      } else if (seat.score === top) {
+        leaders++;
+      }
+    }
+    return leaders > 1;
   }
 
   private toLobby(): void {
@@ -367,11 +410,12 @@ export class Room extends DurableObject {
     const question = current && {
       index: this.index,
       total: this.questions.length,
+      blitz: this.blitz,
       pack: current.pack,
       text: current.text,
       answers: current.answers,
       startedAt: this.startedAt,
-      durationMs: this.settings.roundSeconds * 1000,
+      durationMs: this.roundMs,
     };
     let reveal: RoomState["reveal"] = null;
     if (current && this.phase === "reveal") {
@@ -391,6 +435,7 @@ export class Room extends DurableObject {
           now,
           phaseEndsAt: this.phaseEndsAt,
           settings: this.settings,
+          packs: PACK_LIST,
           players,
           question,
           reveal,

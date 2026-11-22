@@ -1,0 +1,907 @@
+{
+  "id": "otdb-music",
+  "title": "Music",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Which alternative rock band released the critically-acclaimed album \"OK Computer\"?",
+      "a": [
+        "Radiohead",
+        "R.E.M.",
+        "Nirvana",
+        "Coldplay"
+      ]
+    },
+    {
+      "q": "Which rapper had an album that went double platinum with no features?",
+      "a": [
+        "J. Cole",
+        "Kendrick Lamar",
+        "Drake",
+        "Big Sean"
+      ]
+    },
+    {
+      "q": "Which of these songs from American Idiot: The Musical was a previously unreleased Green Day song?",
+      "a": [
+        "When It's Time",
+        "Are We The Waiting",
+        "Before The Lobotomy",
+        "Favorite Son"
+      ]
+    },
+    {
+      "q": "\"Grande Valse\" is a phrase from the song \"Gran Vals\". What is that song segment known as?",
+      "a": [
+        "Nokia Tune",
+        "Hello Moto [Motorola Ringtone]",
+        "Droid Ringtone",
+        "Microsoft Ringtone"
+      ]
+    },
+    {
+      "q": "'74–'75 is a 1993 single from the album Ring by what American band?",
+      "a": [
+        "The Connells",
+        "R.E.M.",
+        "The Ocean Blue",
+        "The Bangles"
+      ]
+    },
+    {
+      "q": "Which album by American rapper Kanye West contained songs such as \"Love Lockdown\", \"Paranoid\" and \"Heartless\"?",
+      "a": [
+        "808s & Heartbreak",
+        "Late Registration",
+        "The Life of Pablo",
+        "Graduation"
+      ]
+    },
+    {
+      "q": "Which of these Queen songs were sampled for the baseline in Vanilla \"Ice's Ice Ice Baby?\"",
+      "a": [
+        "Under Pressure",
+        "Don't Stop Me Now",
+        "Brighton Rock",
+        "Lazing On A Sunday Afternoon"
+      ]
+    },
+    {
+      "q": "Which city is the American singer \"Pitbull\" from?",
+      "a": [
+        "Miami",
+        "Kodiak",
+        "St. Louis",
+        "Boston"
+      ]
+    },
+    {
+      "q": "When did The Beatles release the LP \"Please Please Me\"?",
+      "a": [
+        "1963",
+        "1970",
+        "1960",
+        "1969"
+      ]
+    },
+    {
+      "q": "Which Death Grips album is the only one to feature a band member?",
+      "a": [
+        "No Love Deep Web",
+        "Bottomless Pit",
+        "The Money Store",
+        "The Powers That B"
+      ]
+    },
+    {
+      "q": "What is the name of the second studio album released by American rapper Post Malone in 2018?",
+      "a": [
+        "Beerbongs & Bentleys",
+        "Takin' Shots",
+        "Rockstar",
+        "Better Now"
+      ]
+    },
+    {
+      "q": "Which music publication is often abbreviated to NME?",
+      "a": [
+        "New Musical Express",
+        "New Metro Entertainment",
+        "Next Musical Enterprise",
+        "North Manchester Express"
+      ]
+    },
+    {
+      "q": "Who sings the rap song \"Secret Wars Part 1\"?",
+      "a": [
+        "The Last Emperor",
+        "MC Frontalot",
+        "Busdriver",
+        "Masta Killa"
+      ]
+    },
+    {
+      "q": "Where does the Mac part of the name Fleetwood Mac come from?",
+      "a": [
+        "John McVie",
+        "Christine McVie",
+        "Mac McAnally",
+        "David Tennant"
+      ]
+    },
+    {
+      "q": "Pamina and Papageno are characters in what Mozart opera?",
+      "a": [
+        "The Magic Flute",
+        "The Marriage of Figaro",
+        "The Impresario",
+        "The Goose of Cairo"
+      ]
+    },
+    {
+      "q": "Which British band won the first edition of the Brit Awards in 1977?",
+      "a": [
+        "The Beatles",
+        "Pink Floyd",
+        "The Rolling Stones",
+        "The Who"
+      ]
+    },
+    {
+      "q": "Long John Baldry, the voice of Dr. Robotnik in Adventures Of Sonic The Hedgehog, was in a band with which music artist in the 1960s?",
+      "a": [
+        "Elton John",
+        "Freddie Mercury",
+        "Paul McCartney",
+        "Johnny Cash"
+      ]
+    },
+    {
+      "q": "Who had a 1981 hit with the song \"Japanese Boy\"?",
+      "a": [
+        "Aneka",
+        "Toyah",
+        "Sandra",
+        "Madonna"
+      ]
+    },
+    {
+      "q": "A piccolo is a smaller version of what instrument?",
+      "a": [
+        "Flute",
+        "Trumpet",
+        "Harp",
+        "Violin"
+      ]
+    },
+    {
+      "q": "What Led Zeppelin album contains \"Stairway to Heaven\"?",
+      "a": [
+        "Led Zeppelin IV",
+        "Houses of the Holy",
+        "Physical Graffiti",
+        "Led Zeppelin III"
+      ]
+    },
+    {
+      "q": "In 2015, David Hasselhof released a single called...",
+      "a": [
+        "True Survivor",
+        "True Fighter",
+        "Real Kung-Fury",
+        "Real Warrior"
+      ]
+    },
+    {
+      "q": "What band featured Sting, Stewart Copeland and Andy Summers?",
+      "a": [
+        "The Police",
+        "Def Leppard",
+        "The Cure",
+        "Bon Jovi"
+      ]
+    },
+    {
+      "q": "In which year did \"Caravan Palace\" release their first album?",
+      "a": [
+        "2008",
+        "2000",
+        "2015",
+        "2004"
+      ]
+    },
+    {
+      "q": "'Don't You Want Me?' was a number one hit in 1981 for which electropop band?",
+      "a": [
+        "Human League",
+        "Depeche Mode",
+        "Pet Shop Boys",
+        "Eurythmics"
+      ]
+    },
+    {
+      "q": "What song on ScHoolboy Q's album Black Face LP featured Kanye West?",
+      "a": [
+        "THat Part",
+        "Neva CHange",
+        "Big Body",
+        "Blank Face"
+      ]
+    },
+    {
+      "q": "Who is the lead singer of Green Day?",
+      "a": [
+        "Billie Joe Armstrong",
+        "Mike Dirnt",
+        "Sean Hughes",
+        "Tré Cool"
+      ]
+    },
+    {
+      "q": "Who is the frontman of Muse?",
+      "a": [
+        "Matt Bellamy",
+        "Dominic Howard",
+        "Thom Yorke",
+        "Jonny Greenwood"
+      ]
+    },
+    {
+      "q": "The 1952 musical composition 4'33\", composed by prolific American composer John Cage, is mainly comprised of what sound?",
+      "a": [
+        "Silence",
+        "Farts",
+        "People talking",
+        "Cricket chirps"
+      ]
+    },
+    {
+      "q": "Which member of \"The Beatles\" narrated episodes of \"Thomas the Tank Engine\"?",
+      "a": [
+        "Ringo Starr",
+        "George Harrison",
+        "John Lennon",
+        "Paul McCartney"
+      ]
+    },
+    {
+      "q": "Which of the following stars was not mentioned in the lyrics of Madonna's \"Vogue\"?",
+      "a": [
+        "Mae West",
+        "Marlene Dietrich",
+        "Lana Turner",
+        "Grace Kelly"
+      ]
+    },
+    {
+      "q": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+      "a": [
+        "Alesso",
+        "Steve Angello",
+        "Sebastian Ingrosso",
+        "Axwell"
+      ]
+    },
+    {
+      "q": "The co-creator of Gorillaz, Damon Albarn, is also the lead singer of what band?",
+      "a": [
+        "Blur",
+        "Oasis",
+        "Radiohead",
+        "Queens of the Stone Age"
+      ]
+    },
+    {
+      "q": "Who is the lead singer of the band Coldplay?",
+      "a": [
+        "Chris Martin",
+        "Chris Isaak",
+        "Chris Wallace",
+        "Chris Connelly"
+      ]
+    },
+    {
+      "q": "When did Tame Impala release their second album?",
+      "a": [
+        "2012",
+        "2015",
+        "2010",
+        "1967"
+      ]
+    },
+    {
+      "q": "Which British band did Keith Moon play in until his death in 1978?",
+      "a": [
+        "The Who",
+        "The Kinks",
+        "The Yardbirds",
+        "The Small Faces"
+      ]
+    },
+    {
+      "q": "Who recorded the album called \"Down to the Moon\" in 1986?",
+      "a": [
+        "Andreas Vollenweider",
+        "Jean-Michel Jarre",
+        "Bing Crosby",
+        "Enya"
+      ]
+    },
+    {
+      "q": "Which Beatle wrote and sang the song \"Why Don't We Do It in the Road\" after being inspired by seeing two monkeys copulating in the street?",
+      "a": [
+        "Paul",
+        "John",
+        "George",
+        "Ringo"
+      ]
+    },
+    {
+      "q": "What was the last Aphex Twin album released before his decade-long hiatus?",
+      "a": [
+        "Drukqs",
+        "Windowlicker",
+        "Syro",
+        "Collected Ambient Works 85-92"
+      ]
+    },
+    {
+      "q": "What was the title of Sakamoto Kyu's song \"Ue o Muite Arukou\" (I Look Up As I Walk) changed to in the United States?",
+      "a": [
+        "Sukiyaki",
+        "Takoyaki",
+        "Sushi",
+        "Oden"
+      ]
+    },
+    {
+      "q": "What was David Bowie's real surname?",
+      "a": [
+        "Jones",
+        "Johnson",
+        "Edwards",
+        "Carter"
+      ]
+    },
+    {
+      "q": "Which country does the power metal band \"Sabaton\" originate from?",
+      "a": [
+        "Sweden",
+        "Germany",
+        "United States",
+        "Finland"
+      ]
+    },
+    {
+      "q": "Which artist or group did John Lennon consider \"son(s) of the Beatles\"?",
+      "a": [
+        "Jeff Lynne's Electric Light Orchestra",
+        "The Rolling Stones",
+        "Pink Floyd",
+        "The Who"
+      ]
+    },
+    {
+      "q": "What genre of music did the band Type O Negative play?",
+      "a": [
+        "Gothic Metal",
+        "Thrash Metal",
+        "Hard Rock",
+        "Pop Rock"
+      ]
+    },
+    {
+      "q": "Which song made by MAN WITH A MISSION was used as the opening for the anime \"Log Horizon\"?",
+      "a": [
+        "\"Database\"",
+        "\"Dead End in Tokyo\"",
+        "\"Raise Your Flag\"",
+        "\"Out of Control\""
+      ]
+    },
+    {
+      "q": "Who is the lead singer of Pearl Jam?",
+      "a": [
+        "Eddie Vedder",
+        "Ozzy Osbourne",
+        "Stone Gossard",
+        "Kurt Cobain"
+      ]
+    },
+    {
+      "q": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+      "a": [
+        "Dr.Dre",
+        "Ol' Dirty Bastard",
+        "GZA",
+        "Method Man"
+      ]
+    },
+    {
+      "q": "\"Sleepyhead\" is the debut single from which Electronic band?",
+      "a": [
+        "Passion Pit",
+        "The Chemical Brothers",
+        "LadyTron",
+        "Kraftwerk"
+      ]
+    },
+    {
+      "q": "In music theory, how many notes are in a seventh chord?",
+      "a": [
+        "4",
+        "3",
+        "7",
+        "2"
+      ]
+    },
+    {
+      "q": "\"Hallelujah\" is a song written by which Canadian recording artist?",
+      "a": [
+        "Leonard Cohen",
+        "Kory Lefkowits",
+        "Ryan Letourneau",
+        "Justin Bieber"
+      ]
+    },
+    {
+      "q": "What is Brian May's guitar called?",
+      "a": [
+        "Red Special",
+        "Blue Special",
+        "Green Special",
+        "Yellow Special"
+      ]
+    },
+    {
+      "q": "What is the best selling album of all time from 1976 to 2018?",
+      "a": [
+        "Thriller",
+        "Back in Black",
+        "Abbey Road",
+        "The Dark Side of the Moon"
+      ]
+    },
+    {
+      "q": "Which of these is not a member of the virtual band Gorillaz?",
+      "a": [
+        "Phi Cypher",
+        "Murdoc Niccals",
+        "Noodle",
+        "Russel Hobbs"
+      ]
+    },
+    {
+      "q": "In the  Rossini opera, what was the name of 'The Barber of Seville'?",
+      "a": [
+        "Figaro",
+        "Angelo",
+        "Fernando",
+        "Dave"
+      ]
+    },
+    {
+      "q": "Who sang backup vocals on Rockwell's hit 1984 single 'Somebody's Watching Me'?",
+      "a": [
+        "Michael Jackson",
+        "Paul McCartney",
+        "Elton John",
+        "Prince"
+      ]
+    },
+    {
+      "q": "What year was Weezer's album \"Pinkerton\" released?",
+      "a": [
+        "1996",
+        "1990",
+        "2001",
+        "1994"
+      ]
+    },
+    {
+      "q": "Which of these women is not a member of the Korean girl group TWICE?",
+      "a": [
+        "Kang Seulgi",
+        "Myoui Mina",
+        "Kim Dahyun",
+        "Hirai Momo"
+      ]
+    },
+    {
+      "q": "Which one of these Rammstein songs has two official music videos?",
+      "a": [
+        "Du Riechst So Gut",
+        "Du Hast",
+        "Benzin",
+        "Mein Teil"
+      ]
+    },
+    {
+      "q": "When was the Prince album \"Purple Rain\" released?",
+      "a": [
+        "1984",
+        "1979",
+        "1983",
+        "1981"
+      ]
+    },
+    {
+      "q": "In which city did American rap producer DJ Khaled originate from?",
+      "a": [
+        "Miami",
+        "New York",
+        "Detroit",
+        "Atlanta"
+      ]
+    },
+    {
+      "q": "Irish musician Hozier released a music track in 2013 titled, \"Take Me to ______\"",
+      "a": [
+        "Church",
+        "Mosque",
+        "Synagogue",
+        "Temple"
+      ]
+    },
+    {
+      "q": "Who was not in the band \"The Smiths\"?",
+      "a": [
+        "Martin Chambers",
+        "Morrissey",
+        "Andy Rourke",
+        "Mike Joyce"
+      ]
+    },
+    {
+      "q": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar's 2017 album, \"DAMN.\"?",
+      "a": [
+        "U2",
+        "Radiohead",
+        "Coldplay",
+        "Bon Jovi"
+      ]
+    },
+    {
+      "q": "Liam Howlett founded which electronic music group in 1990?",
+      "a": [
+        "The Prodigy",
+        "The Chemical Brothers",
+        "The Crystal Method",
+        "Infected Mushroom"
+      ]
+    },
+    {
+      "q": "What is the real name of rapper, The Notorious B.I.G?",
+      "a": [
+        "Christopher Wallace",
+        "Calvin Cordozar Broadus Jr.",
+        "O'Shea Jackson",
+        "Eric Lynn Wright"
+      ]
+    },
+    {
+      "q": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+      "a": [
+        "The Velvet Underground and Nico",
+        "Abbey Road",
+        "Led Zeppelin IV",
+        "Pet Sounds"
+      ]
+    },
+    {
+      "q": "Which one of the following musical instruments is NOT a part of the Woodwind section?",
+      "a": [
+        "Trumpet",
+        "Clarinet",
+        "Oboe",
+        "Alto Saxophone"
+      ]
+    },
+    {
+      "q": "Which year was the album \"Year of the Snitch\" by Death Grips released?",
+      "a": [
+        "2018",
+        "2013",
+        "2017",
+        "2011"
+      ]
+    },
+    {
+      "q": "The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+      "a": [
+        "3rd",
+        "8th",
+        "1st",
+        "5th"
+      ]
+    },
+    {
+      "q": "Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",
+      "a": [
+        "Play",
+        "Everything Is Wrong",
+        "Moby",
+        "18"
+      ]
+    },
+    {
+      "q": "Which member of the Foo Fighters was previously the drummer for Nirvana?",
+      "a": [
+        "Dave Grohl",
+        "Taylor Hawkins",
+        "Nate Mendel",
+        "Chris Shiflett"
+      ]
+    },
+    {
+      "q": "What year was Red Hot Chill Pepper's album \"Californication\" released?",
+      "a": [
+        "1999",
+        "1997",
+        "2000",
+        "1992"
+      ]
+    },
+    {
+      "q": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+      "a": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Uranus"
+      ]
+    },
+    {
+      "q": "What album did Gorillaz release in 2017?",
+      "a": [
+        "Humanz",
+        "Plastic Beach",
+        "The Fall",
+        "Demon Days"
+      ]
+    },
+    {
+      "q": "What was George Michael's chart-topping 1987 debut studio album?",
+      "a": [
+        "Faith",
+        "Songs from the Last Century",
+        "Patience",
+        "Older"
+      ]
+    },
+    {
+      "q": "What album did The Lumineers release in 2016?",
+      "a": [
+        "Cleopatra",
+        "Winter",
+        "The Lumineers",
+        "Tracks From The Attic"
+      ]
+    },
+    {
+      "q": "Ringo Starr of The Beatles mainly played what instrument?",
+      "a": [
+        "Drums",
+        "Bass",
+        "Guitar",
+        "Piano"
+      ]
+    },
+    {
+      "q": "Who was the previous drummer of blink-182 before Travis Barker?",
+      "a": [
+        "Scott Raynor",
+        "Atom Willard",
+        "Ilan Rubin",
+        "Derek Grant"
+      ]
+    },
+    {
+      "q": "Of which 90s boy band was Justin Timberlake a member?",
+      "a": [
+        "*NSYNC",
+        "Backstreet Boys",
+        "Westlife",
+        "Boyzone"
+      ]
+    },
+    {
+      "q": "In an orchestra, what is the lowest member of the brass family?",
+      "a": [
+        "Tuba",
+        "Trombone",
+        "Contrabass",
+        "Bassoon"
+      ]
+    },
+    {
+      "q": "What musician made the song \"F**kin` Perfect\" in 2010?",
+      "a": [
+        "P!nk",
+        "Mitis",
+        "Adam lambert",
+        "Koven"
+      ]
+    },
+    {
+      "q": "What was Taylor Swift's 5th album called?",
+      "a": [
+        "1989",
+        "Fearless",
+        "Red",
+        "Speak Now"
+      ]
+    },
+    {
+      "q": "What's the most common time signature for rock songs?",
+      "a": [
+        "4/4",
+        "1/2",
+        "8/12",
+        "2/4"
+      ]
+    },
+    {
+      "q": "What album is the song 'New Slang' by The Shins found on?",
+      "a": [
+        "Oh, Inverted World",
+        "Wincing The Night Away",
+        "Chutes Too Narrow",
+        "Port Of Morrow"
+      ]
+    },
+    {
+      "q": "The Who's eponymous line, \"Teenage Wasteland\", appears in which of their songs?",
+      "a": [
+        "Baba O' Riley",
+        "The Seeker",
+        "Won't Get Fooled Again",
+        "Pinball Wizard"
+      ]
+    },
+    {
+      "q": "Ellie Goulding's earliest album was named?",
+      "a": [
+        "Lights",
+        "Halcyon",
+        "Bright Lights",
+        "Halcyon Days"
+      ]
+    },
+    {
+      "q": "With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?",
+      "a": [
+        "Vivaldi",
+        "Puccini",
+        "Verdi",
+        "Monteverdi"
+      ]
+    },
+    {
+      "q": "Which of the following songs was not originally released by Sir Elton John?",
+      "a": [
+        "You'll Be In My Heart",
+        "Crocodile Rock",
+        "Candle in the Wind",
+        "I Don't Wanna Go On With You Like That"
+      ]
+    },
+    {
+      "q": "Which of these songs was NOT released in the 90s?",
+      "a": [
+        "\"I Want It All\" by Queen",
+        "\"Vogue\" by Madonna",
+        "\"Can't Stop This Thing We Started\" by Bryan Adams",
+        "\"King of Wishful Thinking\" by Go West"
+      ]
+    },
+    {
+      "q": "Panic! At the Disco's sixth album \"Pray For The Wicked\" was released on which date?",
+      "a": [
+        "June 22, 2018",
+        "May 9, 2018",
+        "March 13, 2018",
+        "February 21, 2018"
+      ]
+    },
+    {
+      "q": "Which song in Drake's \"Views\" features Future?",
+      "a": [
+        "Grammys",
+        "Too Good",
+        "Faithful",
+        "Pop Style"
+      ]
+    },
+    {
+      "q": "EDM record label Monstercat is based in which country?",
+      "a": [
+        "Canada",
+        "United States",
+        "Australia",
+        "United Kingdom"
+      ]
+    },
+    {
+      "q": "The 'In the Flesh' tour was used in support of what Pink Floyd album?",
+      "a": [
+        "Animals",
+        "The Wall",
+        "Wish You Were Here",
+        "The Final Cut"
+      ]
+    },
+    {
+      "q": "Who was the lead singer and frontman of rock band R.E.M?",
+      "a": [
+        "Michael Stipe",
+        "Chris Martin",
+        "Thom Yorke",
+        "George Michael"
+      ]
+    },
+    {
+      "q": "Which of the following is not a studio album by the band Pink Floyd?",
+      "a": [
+        "Moving Pictures",
+        "The Dark Side of the Moon",
+        "Wish You Were Here",
+        "Animals"
+      ]
+    },
+    {
+      "q": "Which rap group released the album \"Straight Outta Compton\"?",
+      "a": [
+        "N.W.A",
+        "Wu-Tang Clan",
+        "Run-D.M.C.",
+        "Beastie Boys"
+      ]
+    },
+    {
+      "q": "Which Aerosmith album featured \"Walk This Way\"?",
+      "a": [
+        "Toys in the Attic",
+        "Rocks",
+        "Get Your Wings",
+        "Draw the Line"
+      ]
+    },
+    {
+      "q": "In what year was Taylor Swift born?",
+      "a": [
+        "1989",
+        "1988",
+        "1987",
+        "1990"
+      ]
+    },
+    {
+      "q": "What was Rage Against the Machine's debut album?",
+      "a": [
+        "Rage Against the Machine",
+        "Evil Empire",
+        "Bombtrack",
+        "The Battle Of Los Angeles"
+      ]
+    },
+    {
+      "q": "Who is the lead singer of Silverchair?",
+      "a": [
+        "Daniel Johns",
+        "Ben Gillies",
+        "Chris Joannou",
+        "George Costanza"
+      ]
+    },
+    {
+      "q": "Which of these artists do NOT originate from France?",
+      "a": [
+        "The Chemical Brothers",
+        "Air",
+        "Justice",
+        "Daft Punk"
+      ]
+    }
+  ]
+}

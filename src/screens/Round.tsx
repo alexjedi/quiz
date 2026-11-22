@@ -7,7 +7,7 @@ import { Scoreboard } from "../components/Scoreboard";
 import { StreakMeter } from "../components/StreakMeter";
 import { Timer } from "../components/Timer";
 import { cx } from "../components/cx";
-import { ClockIcon, HideIcon, SplitIcon } from "../components/icons";
+import { BoltIcon, ClockIcon, HideIcon, SplitIcon } from "../components/icons";
 import type { AbilityId, RoomState } from "../game/protocol";
 import { ABILITY_LABELS, REVEAL_MS, milestoneFor } from "../game/scoring";
 import { playPrompt } from "../state/audio";
@@ -35,9 +35,12 @@ export function Round({ state }: { state: RoomState }) {
     return () => clearTimeout(timeout);
   }, [self.deadline, revealing, index]);
 
+  const blitz = question?.blitz ?? false;
+
   useEffect(() => {
     playPrompt();
-  }, [index]);
+    if (blitz && index === 0) showToast("It's a tie! Blitz round");
+  }, [index, blitz]);
 
   useEffect(() => {
     if (revealing && self.earned.length > 0) {
@@ -74,6 +77,12 @@ export function Round({ state }: { state: RoomState }) {
           <span key={index} className="animate-pop text-4xl font-black [text-shadow:0_3px_0_var(--color-edge)]">
             {index + 1}/{question.total}
           </span>
+          {blitz && (
+            <span className="flex animate-pop items-center gap-1 rounded-full border-[3px] border-edge bg-gold px-3 py-1 text-sm font-black tracking-wide text-edge uppercase">
+              <BoltIcon size={16} />
+              Blitz
+            </span>
+          )}
           <span className="hidden rounded-full border-[3px] border-edge bg-well px-3 py-1 text-sm font-black tracking-wide text-ink-2 uppercase sm:inline">
             {question.pack}
           </span>

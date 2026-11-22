@@ -1,0 +1,907 @@
+{
+  "id": "otdb-sports",
+  "title": "Sports",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "The song \"Three Lions\" by the Lightning Seeds was made for which major football event in 1996?",
+      "a": [
+        "European Championships",
+        "World Cup",
+        "Champions League",
+        "Confederations Cup"
+      ]
+    },
+    {
+      "q": "At which bridge does the annual Oxford and Cambridge boat race start?",
+      "a": [
+        "Putney",
+        "Hammersmith",
+        "Vauxhall",
+        "Battersea"
+      ]
+    },
+    {
+      "q": "Who has played the most tournaments in the German national soccer team?",
+      "a": [
+        "Lothar Matthäus",
+        "Miroslav Klose",
+        "Philipp Lahm",
+        "Oliver Kahn"
+      ]
+    },
+    {
+      "q": "What is the oldest team in Major League Baseball?",
+      "a": [
+        "Atlanta Braves",
+        "Chicago Cubs",
+        "Cincinnati Reds",
+        "St. Louis Cardinals"
+      ]
+    },
+    {
+      "q": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
+      "a": [
+        "Tunisia",
+        "United States of America",
+        "Italy",
+        "Netherlands"
+      ]
+    },
+    {
+      "q": "The AHL affiliate team of the Boston Bruins is named what?",
+      "a": [
+        "Providence Bruins",
+        "New Haven Bruins",
+        "Cambridge Bruins",
+        "Hartford Bruins"
+      ]
+    },
+    {
+      "q": "Which team has won the most Stanley Cups in the NHL?",
+      "a": [
+        "Montreal Canadians",
+        "Chicago Blackhawks",
+        "Toronto Maple Leafs",
+        "Detroit Red Wings"
+      ]
+    },
+    {
+      "q": "Which two teams played in Super Bowl XLII?",
+      "a": [
+        "The New York Giants & The New England Patriots",
+        "The Green Bay Packers & The Pittsburgh Steelers",
+        "The Philadelphia Eagles & The New England Patriots",
+        "The Seattle Seahawks & The Denver Broncos"
+      ]
+    },
+    {
+      "q": "The 1988 Formula 1 season had McLaren win all but one race, what race did they not win?",
+      "a": [
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Monaco Grand Prix",
+        "Brazilian Grand Prix"
+      ]
+    },
+    {
+      "q": "Who is regarded as the best Romanian footballer of all time?",
+      "a": [
+        "Gheorghe Hagi",
+        "Cristian Chivu",
+        "Nicolae Dobrin",
+        "Gheorghe Popescu"
+      ]
+    },
+    {
+      "q": "Which Formula One driver was nicknamed 'The Professor'?",
+      "a": [
+        "Alain Prost",
+        "Ayrton Senna",
+        "Niki Lauda",
+        "Emerson Fittipaldi"
+      ]
+    },
+    {
+      "q": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+      "a": [
+        "US Open",
+        "French Open",
+        "Wimbledon",
+        "Australian Open"
+      ]
+    },
+    {
+      "q": "Which NBA player has the most games played over the course of their career?",
+      "a": [
+        "Robert Parish",
+        "Kareem Abdul-Jabbar",
+        "Kevin Garnett",
+        "Kobe Bryant"
+      ]
+    },
+    {
+      "q": "In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?",
+      "a": [
+        "Mercedes-AMG Petronas",
+        "Scuderia Ferrari",
+        "McLaren Honda",
+        "Red Bull Racing Renault"
+      ]
+    },
+    {
+      "q": "Who won the 1994 San Marino Grand Prix, the race in which Ayrton Senna was killed?",
+      "a": [
+        "Michael Schumacher",
+        "Nicola Larini",
+        "Gerhard Berger",
+        "Mika Häkkinen"
+      ]
+    },
+    {
+      "q": "Who won the UEFA Champions League in 2017?",
+      "a": [
+        "Real Madrid C.F.",
+        "Atletico Madrid",
+        "AS Monaco FC",
+        "Juventus F.C."
+      ]
+    },
+    {
+      "q": "What is the name of the \"tool\" used to hit the white ball in snooker or billiards?",
+      "a": [
+        "Cue",
+        "Racquet",
+        "Bat",
+        "Mallet"
+      ]
+    },
+    {
+      "q": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
+      "a": [
+        "Mike Tyson",
+        "Roy Jones Jr.",
+        "Evander Holyfield",
+        "Lennox Lewis"
+      ]
+    },
+    {
+      "q": "What is the oldest team in the NFL?",
+      "a": [
+        "Arizona Cardinals",
+        "Chicago Bears",
+        "Green Bay Packers",
+        "New York Giants"
+      ]
+    },
+    {
+      "q": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+      "a": [
+        "1-7",
+        "1-5",
+        "1-6",
+        "2-6"
+      ]
+    },
+    {
+      "q": "How many soccer players should be on the field at the same time?",
+      "a": [
+        "22",
+        "20",
+        "24",
+        "26"
+      ]
+    },
+    {
+      "q": "Which country produced football players such as Cafu, Roberto Carlos and Pelé?",
+      "a": [
+        "Brazil",
+        "Argentina",
+        "Portugal",
+        "Spain"
+      ]
+    },
+    {
+      "q": "Which country is hosting the 2022 FIFA World Cup?",
+      "a": [
+        "Qatar",
+        "Uganda",
+        "Vietnam",
+        "Bolivia"
+      ]
+    },
+    {
+      "q": "Which of these NHL teams have never moved since their inception?",
+      "a": [
+        "St. Louis Blues",
+        "New Jersey Devils",
+        "Carolina Hurricanes",
+        "Dallas Stars"
+      ]
+    },
+    {
+      "q": "What is the name of Manchester United's home stadium?",
+      "a": [
+        "Old Trafford",
+        "Anfield",
+        "City of Manchester Stadium",
+        "St James Park"
+      ]
+    },
+    {
+      "q": "What team won the 2016 MLS Cup?",
+      "a": [
+        "Seattle Sounders",
+        "Colorado Rapids",
+        "Toronto FC",
+        "Montreal Impact"
+      ]
+    },
+    {
+      "q": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "a": [
+        "Vladivostok",
+        "Rostov-on-Don",
+        "Yekaterinburg",
+        "Kaliningrad"
+      ]
+    },
+    {
+      "q": "Who has played the most tournaments on the Brazilian national soccer team?",
+      "a": [
+        "Cafu",
+        "Ronaldo",
+        "Kaká",
+        "Roberto Carlos"
+      ]
+    },
+    {
+      "q": "Which driver has been the Formula 1 world champion for a record 7 times?",
+      "a": [
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Fernando Alonso",
+        "Jim Clark"
+      ]
+    },
+    {
+      "q": "Which of these track-and-field events is NOT included in the Olympic men's decathlon?",
+      "a": [
+        "Hammer throw",
+        "Pole vault",
+        "Long jump",
+        "Shot put"
+      ]
+    },
+    {
+      "q": "How many points did LeBron James score in his first NBA game?",
+      "a": [
+        "25",
+        "19",
+        "69",
+        "41"
+      ]
+    },
+    {
+      "q": "This Canadian television sportscaster is known for his \"Hockey Night in Canada\" role, a commentary show during hockey games.",
+      "a": [
+        "Don Cherry",
+        "Don McKellar",
+        "Don Taylor",
+        "Donald Sutherland"
+      ]
+    },
+    {
+      "q": "Which of the following sports is not part of the triathlon?",
+      "a": [
+        "Horse-Riding",
+        "Cycling",
+        "Swimming",
+        "Running"
+      ]
+    },
+    {
+      "q": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "a": [
+        "Ma Long (China)",
+        "Zhang Jike (China)",
+        "Jun Mizutani (Japan)",
+        "Vladimir Samsonov (Belarus)"
+      ]
+    },
+    {
+      "q": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "a": [
+        "Toronto Marlies",
+        "Toronto Rock",
+        "Toronto Argonauts",
+        "Toronto Wolfpack"
+      ]
+    },
+    {
+      "q": "Who won the 1998 Daytona 500?",
+      "a": [
+        "Dale Earnhardt",
+        "John Anderson",
+        "Jeff Gordon",
+        "Michael Walltrip"
+      ]
+    },
+    {
+      "q": "What was Sir Donald Bradman's batting average in test matches?",
+      "a": [
+        "99.94",
+        "100",
+        "69.51",
+        "44.78"
+      ]
+    },
+    {
+      "q": "Which player holds the NHL record of 2,857 points?",
+      "a": [
+        "Wayne Gretzky",
+        "Mario Lemieux",
+        "Sidney Crosby",
+        "Gordie Howe"
+      ]
+    },
+    {
+      "q": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+      "a": [
+        "Pelle",
+        "Insigne",
+        "Barzagli",
+        "Giaccherini"
+      ]
+    },
+    {
+      "q": "The UEFA Champions League is an annual club football competition featuring clubs from which continent?",
+      "a": [
+        "Europe",
+        "South America",
+        "Africa",
+        "Asia"
+      ]
+    },
+    {
+      "q": "Which country won the 2018 FIFA World Cup hosted in Russia?",
+      "a": [
+        "France",
+        "Croatia",
+        "Belgium",
+        "England"
+      ]
+    },
+    {
+      "q": "What national team won the first UEFA Nations League?",
+      "a": [
+        "Portugal",
+        "Netherlands",
+        "England",
+        "Switzerland"
+      ]
+    },
+    {
+      "q": "\"Stadium of Light\" is the home stadium for which soccer team?",
+      "a": [
+        "Sunderland FC",
+        "Barcelona FC",
+        "Paris Saints-Germain",
+        "Manchester United"
+      ]
+    },
+    {
+      "q": "Who won the UEFA Champions League in 2016?",
+      "a": [
+        "Real Madrid C.F.",
+        "FC Bayern Munich",
+        "Atletico Madrid",
+        "Manchester City F.C."
+      ]
+    },
+    {
+      "q": "What is the highest belt you can get in Taekwondo?",
+      "a": [
+        "Black",
+        "White",
+        "Red",
+        "Green"
+      ]
+    },
+    {
+      "q": "Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?",
+      "a": [
+        "Ole Gunnar Solskjær",
+        "Dwight Yorke",
+        "Andy Cole",
+        "David Beckham"
+      ]
+    },
+    {
+      "q": "A stimpmeter measures the speed of a ball over what surface?",
+      "a": [
+        "Golf Putting Green",
+        "Football Pitch",
+        "Cricket Outfield",
+        "Pinball Table"
+      ]
+    },
+    {
+      "q": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "a": [
+        "DING Ning (China)",
+        "LI Xiaoxia (China)",
+        "Ai FUKUHARA (Japan)",
+        "Song KIM (North Korea)"
+      ]
+    },
+    {
+      "q": "The F1 season of 1994 is remembered for what tragic event?",
+      "a": [
+        "Death of Ayrton Senna (San Marino)",
+        "The Showdown (Australia)",
+        "Verstappen on Fire (Germany)",
+        "Schumacher's Ban (Britain)"
+      ]
+    },
+    {
+      "q": "Etihad Stadium is the home stadium for which team?",
+      "a": [
+        "Manchester City",
+        "Manchester United",
+        "Arsenal",
+        "Blackpool"
+      ]
+    },
+    {
+      "q": "Which country hosted the 2022 FIFA World Cup?",
+      "a": [
+        "Qatar",
+        "USA",
+        "Japan",
+        "Switzerland"
+      ]
+    },
+    {
+      "q": "Which of these jersey numbers has Shaquille O'Neal never worn?",
+      "a": [
+        "35",
+        "36",
+        "33",
+        "32"
+      ]
+    },
+    {
+      "q": "The Los Angeles Dodgers were originally from what U.S. city?",
+      "a": [
+        "Brooklyn",
+        "Las Vegas",
+        "Boston",
+        "Seattle"
+      ]
+    },
+    {
+      "q": "Where was the Games of the XXII Olympiad held?",
+      "a": [
+        "Moscow",
+        "Barcelona",
+        "Tokyo",
+        "Los Angeles"
+      ]
+    },
+    {
+      "q": "How many players are there in an association football/soccer team?",
+      "a": [
+        "11",
+        "10",
+        "9",
+        "8"
+      ]
+    },
+    {
+      "q": "What city did the Lakers represent before relocating to Los Angeles?",
+      "a": [
+        "Minneapolis",
+        "Philadelphia",
+        "Chicago",
+        "San Francisco"
+      ]
+    },
+    {
+      "q": "Who was the topscorer for England national football team?",
+      "a": [
+        "Wayne Rooney",
+        "David Beckham",
+        "Steven Gerrard",
+        "Michael Owen"
+      ]
+    },
+    {
+      "q": "What was the year of estabilishment of the Bari Italian Football Club?",
+      "a": [
+        "1908",
+        "1945",
+        "2014",
+        "1895"
+      ]
+    },
+    {
+      "q": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+      "a": [
+        "Owen Hart",
+        "Chris Benoit",
+        "Lex Luger",
+        "Al Snow"
+      ]
+    },
+    {
+      "q": "Which basketball team has attended the most NBA grand finals?",
+      "a": [
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Philadelphia 76ers",
+        "Golden State Warriors"
+      ]
+    },
+    {
+      "q": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+      "a": [
+        "Portugal",
+        "West Germany",
+        "Soviet Union",
+        "Brazil"
+      ]
+    },
+    {
+      "q": "Which of these English football clubs is based in Liverpool?",
+      "a": [
+        "Everton",
+        "West Ham United",
+        "Crystal Palace",
+        "Arsenal"
+      ]
+    },
+    {
+      "q": "Josh Mansour is part of what NRL team?",
+      "a": [
+        "Penrith Panthers",
+        "Melbourne Storm",
+        "Sydney Roosters",
+        "North Queensland Cowboys"
+      ]
+    },
+    {
+      "q": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+      "a": [
+        "August 21",
+        "August 23",
+        "August 19",
+        "August 17"
+      ]
+    },
+    {
+      "q": "Which soccer team won the Copa América Centenario 2016?",
+      "a": [
+        "Chile",
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ]
+    },
+    {
+      "q": "Who won the 2016 Formula 1 World Driver's Championship?",
+      "a": [
+        "Nico Rosberg",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Kimi Raikkonen"
+      ]
+    },
+    {
+      "q": "Which player \"kung-fu kicked\" a Crystal Palace fan in January 1995?",
+      "a": [
+        "Eric Cantona",
+        "David Seamen",
+        "Ashley Cole",
+        "Mark Hughes"
+      ]
+    },
+    {
+      "q": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+      "a": [
+        "1991",
+        "1990",
+        "2000",
+        "1987"
+      ]
+    },
+    {
+      "q": "What national team won the 2016 edition of UEFA European Championship?",
+      "a": [
+        "Portugal",
+        "France",
+        "Germany",
+        "England"
+      ]
+    },
+    {
+      "q": "What year did the New Orleans Saints win the Super Bowl?",
+      "a": [
+        "2010",
+        "2008",
+        "2009",
+        "2011"
+      ]
+    },
+    {
+      "q": "Which is Kenesisa Bekele's personal best at marathon?",
+      "a": [
+        "2:01:41",
+        "2:01:12",
+        "2:01:45",
+        "2:01:51"
+      ]
+    },
+    {
+      "q": "In what year did Steaua București win the European Cup, actual UEFA Champions League, against FC Barcelona?",
+      "a": [
+        "1986",
+        "1990",
+        "1982",
+        "1989"
+      ]
+    },
+    {
+      "q": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+      "a": [
+        "American Football",
+        "Wrestling",
+        "Archery",
+        "Horse-Racing"
+      ]
+    },
+    {
+      "q": "Which team was the 2015-2016 NBA Champions?",
+      "a": [
+        "Cleveland Cavaliers",
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Oklahoma City Thunders"
+      ]
+    },
+    {
+      "q": "Which wrestler won the 2019 Men’s Royal Rumble?",
+      "a": [
+        "Seth Rollins",
+        "Braun Strowman",
+        "AJ Styles",
+        "Andrade"
+      ]
+    },
+    {
+      "q": "Who won the 2015 Formula 1 World Championship?",
+      "a": [
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Sebastian Vettel",
+        "Jenson Button"
+      ]
+    },
+    {
+      "q": "Which of these European cities was the first to host the modern Summer Olympic Games three times?",
+      "a": [
+        "London",
+        "Paris",
+        "Athens",
+        "Rome"
+      ]
+    },
+    {
+      "q": "In what sport is a \"shuttlecock\" used?",
+      "a": [
+        "Badminton",
+        "Table Tennis",
+        "Rugby",
+        "Cricket"
+      ]
+    },
+    {
+      "q": "Who did Drew Brees pass in all time NFL passing yards in 2018?",
+      "a": [
+        "Peyton Manning",
+        "Tom Brady",
+        "Dan Marino",
+        "Joe Montana"
+      ]
+    },
+    {
+      "q": "In golf, what name is given to a hole score of two under par?",
+      "a": [
+        "Eagle",
+        "Birdie",
+        "Bogey",
+        "Albatross"
+      ]
+    },
+    {
+      "q": "Who is Manchester United's leading appearance maker?",
+      "a": [
+        "Ryan Giggs",
+        "David Beckham",
+        "Wayne Rooney",
+        "Eric Cantona"
+      ]
+    },
+    {
+      "q": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "a": [
+        "Mazda",
+        "Toyota",
+        "Subaru",
+        "Nissan"
+      ]
+    },
+    {
+      "q": "What is the nickname of Northampton town's rugby union club?",
+      "a": [
+        "Saints",
+        "Harlequins",
+        "Saracens",
+        "Wasps"
+      ]
+    },
+    {
+      "q": "Which English football team is nicknamed 'The Tigers'?",
+      "a": [
+        "Hull City",
+        "Cardiff City",
+        "Bristol City",
+        "Manchester City"
+      ]
+    },
+    {
+      "q": "Edson Arantes do Nascimento is the full name of which legendary football player?",
+      "a": [
+        "Pelé",
+        "Romário",
+        "Zico",
+        "Ronaldinho"
+      ]
+    },
+    {
+      "q": "What is Tiger Woods' all-time best career golf-score?",
+      "a": [
+        "61",
+        "65",
+        "63",
+        "67"
+      ]
+    },
+    {
+      "q": "Which team won 2014 FIFA World Cup in Brazil?",
+      "a": [
+        "Germany",
+        "Argentina",
+        "Brazil",
+        "Netherlands"
+      ]
+    },
+    {
+      "q": "Which team was the 2014-2015 NBA Champions?",
+      "a": [
+        "Golden State Warriors",
+        "Cleveland Cavaliers",
+        "Houston Rockets",
+        "Atlanta Hawks"
+      ]
+    },
+    {
+      "q": "Who won the 2018 Monaco Grand Prix?",
+      "a": [
+        "Daniel Ricciardo",
+        "Sebastian Vettel",
+        "Kimi Raikkonen",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "q": "Which of these teams isn't a member of the NHL's \"Original Six\" era?",
+      "a": [
+        "Philadelphia Flyers",
+        "New York Rangers",
+        "Toronto Maple Leafs",
+        "Boston Bruins"
+      ]
+    },
+    {
+      "q": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+      "a": [
+        "Jose Fernandez",
+        "Jacob deGrom",
+        "Shelby Miller",
+        "Matt Harvey"
+      ]
+    },
+    {
+      "q": "Who was the first footballer to score 200 goals in the English Premier League?",
+      "a": [
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Robbie Fowler",
+        "Thierry Henry"
+      ]
+    },
+    {
+      "q": "Which of these teams has Jaromir Jagr not played for?",
+      "a": [
+        "New York Islanders",
+        "Calgary Flames",
+        "New Jersey Devils",
+        "Dallas Stars"
+      ]
+    },
+    {
+      "q": "Who is often called \"the Maestro\" in the men's tennis circuit?",
+      "a": [
+        "Roger Federer",
+        "Bill Tilden",
+        "Boris Becker",
+        "Pete Sampras"
+      ]
+    },
+    {
+      "q": "In bowling, what is the term used for getting three consecutive strikes?",
+      "a": [
+        "Turkey",
+        "Flamingo",
+        "Birdie",
+        "Eagle"
+      ]
+    },
+    {
+      "q": "In baseball, how many fouls are an out?",
+      "a": [
+        "0",
+        "5",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "q": "When was the FC Schalke 04 founded?",
+      "a": [
+        "1904",
+        "1909",
+        "2008",
+        "1999"
+      ]
+    },
+    {
+      "q": "Who won the 2011 Stanley Cup?",
+      "a": [
+        "Boston Bruins",
+        "Montreal Canadiens",
+        "New York Rangers",
+        "Toronto Maple Leafs"
+      ]
+    },
+    {
+      "q": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+      "a": [
+        "13",
+        "11",
+        "20",
+        "22"
+      ]
+    },
+    {
+      "q": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+      "a": [
+        "Jules Bianchi",
+        "Ayrton Senna",
+        "Ronald Ratzenberger",
+        "Gilles Villeneuve"
+      ]
+    }
+  ]
+}

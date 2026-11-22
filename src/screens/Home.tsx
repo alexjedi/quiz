@@ -28,6 +28,9 @@ const RULES = [
   { icon: <ClockIcon />, text: `Streak of ${milestoneFor("time")}: double your time` },
 ];
 
+const credit =
+  "inline-block underline decoration-2 underline-offset-2 transition-[scale,color] duration-150 ease-spring hover:scale-105 hover:text-ink";
+
 type Tab = "rules" | "prefs";
 
 export function Home({
@@ -136,12 +139,20 @@ export function Home({
           </Panel>
         </div>
       </div>
-      <a
-        href="https://alexvoid.com/"
-        className="self-center text-sm font-extrabold text-ink-2 transition-[scale,color] duration-150 ease-spring hover:scale-105 hover:text-ink"
-      >
-        Made by Alex Void
-      </a>
+      <p className="text-center text-sm font-extrabold text-ink-2">
+        <a href="https://alexvoid.com/" className={credit}>
+          Made by Alex Void
+        </a>
+        {" · Questions from the "}
+        <a href="https://opentdb.com/" target="_blank" rel="noreferrer" className={credit}>
+          Open Trivia Database
+        </a>
+        {" ("}
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer" className={credit}>
+          CC BY-SA 4.0
+        </a>
+        {")"}
+      </p>
     </div>
   );
 }

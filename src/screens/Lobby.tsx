@@ -10,7 +10,6 @@ import { Tabs } from "../components/Tabs";
 import { BackIcon, LinkIcon, PlayIcon } from "../components/icons";
 import type { RoomState, Settings } from "../game/protocol";
 import { COUNT_OPTIONS, MAX_PLAYERS, ROUND_OPTIONS } from "../game/scoring";
-import { packs } from "../questions";
 import { send } from "../state/room";
 import { showToast } from "../state/toast";
 
@@ -32,11 +31,11 @@ async function invite(code: string): Promise<void> {
 
 export function Lobby({ state, onLeave }: { state: RoomState; onLeave: () => void }) {
   const [tab, setTab] = useState<Tab>("game");
-  const { settings, players, self } = state;
+  const { settings, players, self, packs } = state;
   const host = players.some((player) => player.id === self.id && player.host);
   const available = packs
     .filter((pack) => settings.packIds.includes(pack.id))
-    .reduce((sum, pack) => sum + pack.questions.length, 0);
+    .reduce((sum, pack) => sum + pack.count, 0);
   const change = (patch: Partial<Settings>) => send({ type: "settings", settings: { ...settings, ...patch } });
   const togglePack = (id: string) => {
     const packIds = settings.packIds.includes(id)
