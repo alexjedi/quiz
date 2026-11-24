@@ -902,6 +902,1356 @@
         "February 27, 1933",
         "October 6, 1939"
       ]
+    },
+    {
+      "q": "Where was Napoleon Bonaparte born?",
+      "a": [
+        "Corsica",
+        "Normandy",
+        "Brittany",
+        "Paris"
+      ]
+    },
+    {
+      "q": "Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?",
+      "a": [
+        "Aragon",
+        "Galicia",
+        "León",
+        "Navarre"
+      ]
+    },
+    {
+      "q": "When was the SS or Schutzstaffel established?",
+      "a": [
+        "April 4th, 1925",
+        "September 1st, 1941",
+        "March 8th, 1935",
+        "February 21st, 1926"
+      ]
+    },
+    {
+      "q": "The term Luddite originally applied to disgruntled workers in which industry?",
+      "a": [
+        "Textile",
+        "Farming",
+        "Mining",
+        "Ceramics"
+      ]
+    },
+    {
+      "q": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+      "a": [
+        "Justinian I",
+        "Constantine IV",
+        "Arcadius",
+        "Theodosius the Great"
+      ]
+    },
+    {
+      "q": "The first Legoland park was opened in 1968 in which of these cities?",
+      "a": [
+        "Billund, Denmark",
+        "Carlsbad, California",
+        "Winter Haven, Florida",
+        "Nagoya, Japan"
+      ]
+    },
+    {
+      "q": "What year was Canada founded in?",
+      "a": [
+        "1867",
+        "1798",
+        "1859",
+        "1668"
+      ]
+    },
+    {
+      "q": "When did Spanish Peninsular War start?",
+      "a": [
+        "1808",
+        "1806",
+        "1810",
+        "1809"
+      ]
+    },
+    {
+      "q": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+      "a": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "James Monroe"
+      ]
+    },
+    {
+      "q": "Which of the following physicists did NOT work on the Manhattan project?",
+      "a": [
+        "Murray Gell-Mann",
+        "Richard Feynman",
+        "J. Robert Oppenheimer",
+        "John Von-Neumann"
+      ]
+    },
+    {
+      "q": "When did Canada leave the confederation to become their own nation?",
+      "a": [
+        "July 1st, 1867",
+        "July 1st, 1763",
+        "July 1st, 1832",
+        "July 1st, 1902"
+      ]
+    },
+    {
+      "q": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+      "a": [
+        "Mamluk",
+        "Ayyubid",
+        "Ummayyad",
+        "Seljuq"
+      ]
+    },
+    {
+      "q": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+      "a": [
+        "Surveyor to the City of London",
+        "Professor of Mathematics",
+        "Warden of the Royal Mint",
+        "Member of Parliament"
+      ]
+    },
+    {
+      "q": "Which one of these rulers did not belong to the Habsburg dynasty?",
+      "a": [
+        "Philip V",
+        "Charles V",
+        "Philip II",
+        "Francis Joseph"
+      ]
+    },
+    {
+      "q": "When was Finland's 100th year of being independent?",
+      "a": [
+        "2017",
+        "2016",
+        "2018",
+        "2015"
+      ]
+    },
+    {
+      "q": "What was the code name for the Allied invasion of Southern France on August 15th, 1944?",
+      "a": [
+        "Operation Dragoon",
+        "Operation Overlord",
+        "Operation Market Garden",
+        "Operation Torch"
+      ]
+    },
+    {
+      "q": "Which Irish village in County Mayo built a tourism industry on the back of an alleged appearance by the Virgin Mary in 1879?",
+      "a": [
+        "Knock",
+        "Ballycastle",
+        "Swinford",
+        "Turlough"
+      ]
+    },
+    {
+      "q": "What was the name of the German offensive operation in October 1941 to take Moscow before winter?",
+      "a": [
+        "Operation Typhoon",
+        "Operation Sunflower",
+        "Operation Barbarossa",
+        "Case Blue"
+      ]
+    },
+    {
+      "q": "Which Australian Prime Minister disappeared in 1967 and was never found?",
+      "a": [
+        "Harold Holt",
+        "Paul Keating",
+        "Edmund Barton",
+        "Scott Morrison"
+      ]
+    },
+    {
+      "q": "When did the French Revolution begin?",
+      "a": [
+        "1789",
+        "1823",
+        "1756",
+        "1799"
+      ]
+    },
+    {
+      "q": "How many sonatas did Ludwig van Beethoven write?",
+      "a": [
+        "32",
+        "50",
+        "31",
+        "21"
+      ]
+    },
+    {
+      "q": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+      "a": [
+        "Brazzaville",
+        "Algiers",
+        "Paris",
+        "Tunis"
+      ]
+    },
+    {
+      "q": "During World War I, which nation's monarchs were blood related?",
+      "a": [
+        "England, Germany, Russia",
+        "France, Russia, Germany",
+        "Serbia, Russia, Croatia",
+        "Germany, Spain, Austria"
+      ]
+    },
+    {
+      "q": "The main objective of the German operation \"Case Blue\" during World War II was originally to capture what?",
+      "a": [
+        "Caucasus",
+        "Stalingrad",
+        "Crimea",
+        "Voronezh"
+      ]
+    },
+    {
+      "q": "Pianist Frédéric Chopin was a composer of which musical era?",
+      "a": [
+        "Romantic",
+        "Classic",
+        "Baroque",
+        "Renaissance"
+      ]
+    },
+    {
+      "q": "The Second Boer War in 1899 was fought where?",
+      "a": [
+        "South Africa",
+        "Argentina",
+        "Nepal",
+        "Bulgaria"
+      ]
+    },
+    {
+      "q": "What did the abbreviation \"RMS\" stand for in the RMS Titanic in 1912?",
+      "a": [
+        "Royal Mail Ship",
+        "Royal Majesty Service",
+        "Regular Maritime Schedule",
+        "Regulated Maelstrom Sensor"
+      ]
+    },
+    {
+      "q": "In the Seven Wonders of the World, which wonder is the only that has survived to this day?",
+      "a": [
+        "Great Pyramid of Giza",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Statue of Zeus at Olympia"
+      ]
+    },
+    {
+      "q": "What was Napoleon Bonaparte's name before he changed it?",
+      "a": [
+        "Napoleone di Buonaparte",
+        "Naapolion van Bonijpaart",
+        "Napoleão do Boaparte",
+        "Napoleona de Buenoparte"
+      ]
+    },
+    {
+      "q": "During the Spanish Civil War (1936), Francisco Franco fought for which political faction?",
+      "a": [
+        "Nationalist Spain",
+        "Republican Spain",
+        "Popular Front",
+        "Papal State"
+      ]
+    },
+    {
+      "q": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "a": [
+        "Franklin Pierce",
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "James Polk"
+      ]
+    },
+    {
+      "q": "Who was the first man to travel into outer space twice?",
+      "a": [
+        "Gus Grissom",
+        "Vladimir Komarov",
+        "Charles Conrad",
+        "Yuri Gagarin"
+      ]
+    },
+    {
+      "q": "The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?",
+      "a": [
+        "Navarre",
+        "Galicia",
+        "Granada",
+        "Catalonia"
+      ]
+    },
+    {
+      "q": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
+      "a": [
+        "Making jams and jellies",
+        "Teaching parrots to talk",
+        "Cheating at card games",
+        "Digging graves"
+      ]
+    },
+    {
+      "q": "When was the Gregorian Calendar first adopted?",
+      "a": [
+        "1582",
+        "1623",
+        "1501",
+        "1555"
+      ]
+    },
+    {
+      "q": "When was the \"Siege of Leningrad\" lifted during World War II?",
+      "a": [
+        "January 1944",
+        "September 1943",
+        "November 1943",
+        "March 1944"
+      ]
+    },
+    {
+      "q": "The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?",
+      "a": [
+        "Alexander VI",
+        "Innocent V",
+        "Urban II",
+        "Pius III"
+      ]
+    },
+    {
+      "q": "When was the city of Rome, Italy founded?",
+      "a": [
+        "753 BCE",
+        "902 BCE",
+        "524 BCE",
+        "697 BCE"
+      ]
+    },
+    {
+      "q": "The Bohemian Revolt (1618-1620) started after Protestants in Prague did what to their Catholic Lords Regents?",
+      "a": [
+        "Threw them out of a window",
+        "Insulted their mothers",
+        "Locked them in stockades",
+        "Hung them."
+      ]
+    },
+    {
+      "q": "What did the first vending machines in the early 1880's dispense?",
+      "a": [
+        "Post cards",
+        "Alcohol",
+        "Cigarettes",
+        "Sodas"
+      ]
+    },
+    {
+      "q": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+      "a": [
+        "March 25th",
+        "June 1st",
+        "September 25th",
+        "December 1st"
+      ]
+    },
+    {
+      "q": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+      "a": [
+        "DD-445",
+        "DD-992",
+        "DD-444",
+        "DD-446"
+      ]
+    },
+    {
+      "q": "What year was the United States Declaration of Independence signed?",
+      "a": [
+        "1776",
+        "1775",
+        "1774",
+        "1777"
+      ]
+    },
+    {
+      "q": "What was found in 1946 by two young shepards near a cave?",
+      "a": [
+        "Dead Sea Scrolls",
+        "The Blackbeard Chest",
+        "Sheep",
+        "The First Oaxaca Cave Sleeper"
+      ]
+    },
+    {
+      "q": "Which day did World War I begin?",
+      "a": [
+        "July 28",
+        "January 28",
+        "June 28",
+        "April 28"
+      ]
+    },
+    {
+      "q": "How long did the Warsaw Uprising during World War II last?",
+      "a": [
+        "63 Days",
+        "20 Days",
+        "55 Days",
+        "224 Days"
+      ]
+    },
+    {
+      "q": "The ontological argument for the proof of God's existence is first attributed to whom?",
+      "a": [
+        "Anselm of Canterbury",
+        "René Descartes",
+        "Immanuel Kant",
+        "Aristotle"
+      ]
+    },
+    {
+      "q": "The Arab Spring was a series of protests and rebellions that began in which of these Arab nations?",
+      "a": [
+        "Tunisia",
+        "Morocco",
+        "Syria",
+        "Egypt"
+      ]
+    },
+    {
+      "q": "Which countries participated in the Lobster War?",
+      "a": [
+        "France and Brazil",
+        "Canada and Norway",
+        "Australia and New Zealand",
+        "United States and England"
+      ]
+    },
+    {
+      "q": "Who was the British Prime Minister at the outbreak of the Second World War in 1939?",
+      "a": [
+        "Neville Chamberlain",
+        "Stanley Baldwin",
+        "Winston Churchill",
+        "Ramsay MacDonald"
+      ]
+    },
+    {
+      "q": "With which Greek philosopher would you associate the phrase, \"I know that I know nothing\"?",
+      "a": [
+        "Socrates",
+        "Aristotle",
+        "Plato",
+        "Pythagoras"
+      ]
+    },
+    {
+      "q": "In what year did the Battle of Verdun take place?",
+      "a": [
+        "1916",
+        "1917",
+        "1915",
+        "1918"
+      ]
+    },
+    {
+      "q": "What was the last colony the UK ceded marking the end of the British Empire?",
+      "a": [
+        "Hong Kong",
+        "India",
+        "Australia",
+        "Ireland"
+      ]
+    },
+    {
+      "q": "What Southeast Asian country was formerly known as 'Lan Xang'?",
+      "a": [
+        "Laos",
+        "Cambodia",
+        "Vietnam",
+        "Thailand"
+      ]
+    },
+    {
+      "q": "What was the aim of the \"Umbrella Revolution\" in Hong Kong in 2014?",
+      "a": [
+        "Genuine universal suffrage",
+        "Gaining Independence",
+        "Go back under British Rule",
+        "Lower taxes"
+      ]
+    },
+    {
+      "q": "Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?",
+      "a": [
+        "Battle of Midway",
+        "Attack on Truk Island",
+        "Attack on Pearl Harbor",
+        "Battle of the Coral Sea"
+      ]
+    },
+    {
+      "q": "Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?",
+      "a": [
+        "Werner Heisenberg",
+        "John von Neumann",
+        "Albert Einstein",
+        "Max Planck"
+      ]
+    },
+    {
+      "q": "What age was King Henry V when he died?",
+      "a": [
+        "35",
+        "62",
+        "87",
+        "73"
+      ]
+    },
+    {
+      "q": "In which year did the Tokyo Subway Sarin Attack occur?",
+      "a": [
+        "1995",
+        "2001",
+        "2011",
+        "1991"
+      ]
+    },
+    {
+      "q": "Which of these theoretical phycisists first predicted the existence of antimatter?",
+      "a": [
+        "Paul Dirac",
+        "Niels Bohr",
+        "Albert Einstein",
+        "Werner Heisenberg"
+      ]
+    },
+    {
+      "q": "Who was the first man to travel into outer space?",
+      "a": [
+        "Yuri Gagarin",
+        "Virgil Ivan \"Gus\" Grissom",
+        "Neil Armstrong",
+        "Buzz Aldrin"
+      ]
+    },
+    {
+      "q": "On which day did ARPANET suffer a 4 hour long network crash?",
+      "a": [
+        "October 27, 1980",
+        "November 21, 1969",
+        "October 29, 1969",
+        "December 9, 1991"
+      ]
+    },
+    {
+      "q": "Who was the last emperor of Mexico?",
+      "a": [
+        "Ferdinand Maximilian",
+        "Andrés Manuel López Obrador",
+        "Napoleon III",
+        "Agustín de Iturbide"
+      ]
+    },
+    {
+      "q": "What was the name of the spy ring that helped the United States win the Revolutionary War?",
+      "a": [
+        "Culper Ring",
+        "New York Spy Ring",
+        "Washington's Spies",
+        "Unnamed"
+      ]
+    },
+    {
+      "q": "Which country were potatoes originally grown?",
+      "a": [
+        "Peru",
+        "United States",
+        "Ireland",
+        "New Zealand"
+      ]
+    },
+    {
+      "q": "What historical event was Tchaikovsky's 1812 Overture referencing?",
+      "a": [
+        "The Napoleonic Wars",
+        "The American War of 1812",
+        "The Russian Revolution",
+        "The Charge of the Light Brigade (Crimean War)"
+      ]
+    },
+    {
+      "q": "All of the following are names of the Seven Warring States EXCEPT:",
+      "a": [
+        "Zhai (翟)",
+        "Zhao (趙)",
+        "Qin (秦)",
+        "Qi (齊)"
+      ]
+    },
+    {
+      "q": "Under which name was Rodrigo Borgia made Pope?",
+      "a": [
+        "Alexander VI",
+        "Rodrigo I",
+        "John Paul II",
+        "Pius VII"
+      ]
+    },
+    {
+      "q": "When did Norway get its constitution?",
+      "a": [
+        "1814",
+        "1932",
+        "1905",
+        "1854"
+      ]
+    },
+    {
+      "q": "Which Nazi General was known as the \"Desert Fox\"?",
+      "a": [
+        "Erwin Rommel",
+        "Gerd von Rundstadt",
+        "Wilhelm Keitel",
+        "Heinz Guderian"
+      ]
+    },
+    {
+      "q": "Which Greek god was the god of the Sun?",
+      "a": [
+        "Helios",
+        "Zeus",
+        "Hades",
+        "Poseidon"
+      ]
+    },
+    {
+      "q": "In what year did Neil Armstrong and Buzz Aldrin land on the moon?",
+      "a": [
+        "1969",
+        "1965",
+        "1966",
+        "1973"
+      ]
+    },
+    {
+      "q": "Which country attacked the USS Liberty on June 8, 1967?",
+      "a": [
+        "Israel",
+        "Syria",
+        "Saudi Arabia",
+        "Iran"
+      ]
+    },
+    {
+      "q": "What year did the Vietnam War end?",
+      "a": [
+        "1975",
+        "1978",
+        "1967",
+        "1969"
+      ]
+    },
+    {
+      "q": "During the Mongolian invasions of Japan, what were the Mongol boats mostly stopped by?",
+      "a": [
+        "Typhoons",
+        "Tornados",
+        "Economic depression",
+        "Samurai"
+      ]
+    },
+    {
+      "q": "Who was the leader of Sweden in the Great Northern War?",
+      "a": [
+        "Charles XII",
+        "Per Albin Hansson",
+        "Peter the Great",
+        "Gustavus Adolphus"
+      ]
+    },
+    {
+      "q": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+      "a": [
+        "Californian",
+        "Carpathia",
+        "Cristol",
+        "Commerce"
+      ]
+    },
+    {
+      "q": "Joseph Smith was the founder of what religion?",
+      "a": [
+        "Mormonism",
+        "Buddhism",
+        "Christianity",
+        "Hinduism"
+      ]
+    },
+    {
+      "q": "The Thirty Years War ended with which treaty?",
+      "a": [
+        "Peace of Westphalia",
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Peace of Prague"
+      ]
+    },
+    {
+      "q": "When did Jamaica receive its independence from England?",
+      "a": [
+        "1962",
+        "1492",
+        "1963",
+        "1987"
+      ]
+    },
+    {
+      "q": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+      "a": [
+        "Brazil",
+        "India",
+        "Mozambique",
+        "Madagascar"
+      ]
+    },
+    {
+      "q": "On what day did Germany invade Poland?",
+      "a": [
+        "September 1, 1939",
+        "December 7, 1941",
+        "June 22, 1941",
+        "July 7, 1937"
+      ]
+    },
+    {
+      "q": "Who was a military strategist in the Eastern Zhou period?",
+      "a": [
+        "Sun Tzu",
+        "Lu Bu",
+        "Genghis Khan",
+        "Vlad The Impaler"
+      ]
+    },
+    {
+      "q": "Who was the first mammal successfully launched into Earth's orbit?",
+      "a": [
+        "Laika, the dog",
+        "Ham, the chimpanzee",
+        "Baker, the monkey",
+        "Belka, the dog"
+      ]
+    },
+    {
+      "q": "One of the deadliest pandemics, the \"Spanish Flu\", killed off what percentage of the human world population at the time?",
+      "a": [
+        "3 to 6 percent",
+        "6 to 10 percent",
+        "1 to 3 percent",
+        "less than 1 percent"
+      ]
+    },
+    {
+      "q": "What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+      "a": [
+        "AK-47",
+        "RPK",
+        "M16",
+        "MG 42"
+      ]
+    },
+    {
+      "q": "Where was Abraham Lincoln when he was assassinated by John Wilkes Booth in 1865?",
+      "a": [
+        "At the theatre",
+        "On a boat",
+        "On his horse",
+        "In bed"
+      ]
+    },
+    {
+      "q": "What day did the Battle of Gettysburg begin?",
+      "a": [
+        "July 1, 1863",
+        "September 17, 1862",
+        "July 21, 1861",
+        "Apr 30, 1863"
+      ]
+    },
+    {
+      "q": "When was the United States National Security Agency established?",
+      "a": [
+        "November 4, 1952",
+        "July 26, 1908",
+        "July 1, 1973",
+        "November 25, 2002"
+      ]
+    },
+    {
+      "q": "Which dictator killed the most people?",
+      "a": [
+        "Mao Zedong",
+        "Joseph Stalin",
+        "Adolf Hitler",
+        "Kim Il Sung"
+      ]
+    },
+    {
+      "q": "When did L. L. Zamenhof first publish \"Unua Libro\", the first publication describing his international language Esperanto?",
+      "a": [
+        "1887",
+        "1897",
+        "1905",
+        "1915"
+      ]
+    },
+    {
+      "q": "Against which country did the Dutch Republic fight the Eighty Years' War?",
+      "a": [
+        "Spain",
+        "France",
+        "England",
+        "Portugal"
+      ]
+    },
+    {
+      "q": "Which of the following Presidents of the United States was assassinated?",
+      "a": [
+        "William McKinley",
+        "Lyndon Johnson",
+        "Chester Arthur",
+        "Franklin Roosevelt"
+      ]
+    },
+    {
+      "q": "When did O, Canada officially become the national anthem?",
+      "a": [
+        "1980",
+        "1950",
+        "1920",
+        "1880"
+      ]
+    },
+    {
+      "q": "What number does the Roman numeral \"D\" stand for?",
+      "a": [
+        "500",
+        "100",
+        "1000",
+        "50"
+      ]
+    },
+    {
+      "q": "Which U.S. President was in office when the Gulf War began?",
+      "a": [
+        "George H. W. Bush",
+        "Richard Nixon",
+        "George W. Bush",
+        "Ronald Regan"
+      ]
+    },
+    {
+      "q": "What year did the Boxing Day earthquake & tsunami occur in the Indian Ocean?",
+      "a": [
+        "2004",
+        "2006",
+        "2008",
+        "2002"
+      ]
+    },
+    {
+      "q": "What year did Australia become a federation?",
+      "a": [
+        "1901",
+        "1910",
+        "1899",
+        "1911"
+      ]
+    },
+    {
+      "q": "As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what?",
+      "a": [
+        "The Great Migration",
+        "The Great Awakening",
+        "The Harlem Renaissance",
+        "The Resettlement"
+      ]
+    },
+    {
+      "q": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as \"Skoal Bandits\"?",
+      "a": [
+        "1983",
+        "1934",
+        "1984",
+        "1822"
+      ]
+    },
+    {
+      "q": "Which of the following snipers has the highest amount of confirmed kills?",
+      "a": [
+        "Simo Häyhä",
+        "Chris Kyle",
+        "Vasily Zaytsev",
+        "Craig Harrison"
+      ]
+    },
+    {
+      "q": "Where was Portuguese explorer Ferdinand Magellan killed in 1521?",
+      "a": [
+        "The Phillipines",
+        "Canary Islands",
+        "Guam",
+        "Argentina"
+      ]
+    },
+    {
+      "q": "Where and when was the first cardboard box made for industrial use?",
+      "a": [
+        "England, 1817",
+        "United States, 1817",
+        "England, 1917",
+        "United States, 1917"
+      ]
+    },
+    {
+      "q": "What is the name of the famous Apache leader who died in 1909 at the age of 70?",
+      "a": [
+        "Geronimo",
+        "Sitting Bull",
+        "Red Cloud",
+        "Crazy Horse"
+      ]
+    },
+    {
+      "q": "During what war did the \"Cuban Missile Crisis\" occur?",
+      "a": [
+        "Cold War",
+        "World War I",
+        "World War II",
+        "Revolutionary War"
+      ]
+    },
+    {
+      "q": "What is the name given to the series of confrontations between the UK and Iceland over North Atlantic fishing rights?",
+      "a": [
+        "The Cod Wars",
+        "The Lobster Wars",
+        "The Halibut Wars",
+        "The Mackerel Wars"
+      ]
+    },
+    {
+      "q": "In which years did the Battle of Gallipoli take place?",
+      "a": [
+        "1915 - 1916",
+        "1914 - 1918",
+        "1914 - 1915",
+        "1915 - 1918"
+      ]
+    },
+    {
+      "q": "What year was the Italian firearms manufacturer Beretta founded?",
+      "a": [
+        "1526",
+        "1776",
+        "1923",
+        "1998"
+      ]
+    },
+    {
+      "q": "Which U.S. President was famously 'attacked' by a swimming rabbit?",
+      "a": [
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "Lydon B. Johnson",
+        "Gerald Ford"
+      ]
+    },
+    {
+      "q": "The crown of the Empire State Building was originally built for what purpose?",
+      "a": [
+        "Airship Dock",
+        "Lightning Rod",
+        "Antennae",
+        "Flag Pole"
+      ]
+    },
+    {
+      "q": "Which infamous European traitor was known as \"the last person to enter Parliament with honest intentions\"?",
+      "a": [
+        "Guy Fawkes",
+        "Robert Catesby",
+        "Francis Tresham",
+        "Everard Digby"
+      ]
+    },
+    {
+      "q": "Who was Hannibal?",
+      "a": [
+        "Carthaginian general",
+        "British serial killer",
+        "French explorer",
+        "Greek philosopher"
+      ]
+    },
+    {
+      "q": "In what year did William the Conqueror take control of England?",
+      "a": [
+        "1066",
+        "1123",
+        "1205",
+        "901"
+      ]
+    },
+    {
+      "q": "Which WWII tank ace is credited with having destroyed the most tanks?",
+      "a": [
+        "Kurt Knispel",
+        "Michael Wittmann",
+        "Walter Kniep",
+        "Otto Carius"
+      ]
+    },
+    {
+      "q": "How did the Vikings call their short-lived colony in today's Canada?",
+      "a": [
+        "Vínland",
+        "Føroyar",
+        "Hålogaland",
+        "Skåne"
+      ]
+    },
+    {
+      "q": "In what year did Kentucky become the 15th state to join the union?",
+      "a": [
+        "1792",
+        "1782",
+        "1798",
+        "1788"
+      ]
+    },
+    {
+      "q": "Which of his six wives was Henry VIII married to the longest?",
+      "a": [
+        "Catherine of Aragon",
+        "Anne Boleyn",
+        "Jane Seymour",
+        "Catherine Parr"
+      ]
+    },
+    {
+      "q": "In what year was the famous 45 foot tall Hollywood sign first erected?",
+      "a": [
+        "1923",
+        "1903",
+        "1913",
+        "1933"
+      ]
+    },
+    {
+      "q": "Which of the following countries was the first to send an object into space?",
+      "a": [
+        "Germany",
+        "USA",
+        "Russia",
+        "China"
+      ]
+    },
+    {
+      "q": "When did construction of the Suez Canal finish?",
+      "a": [
+        "1869",
+        "1859",
+        "1860",
+        "1850"
+      ]
+    },
+    {
+      "q": "What event marked the start of World War II?",
+      "a": [
+        "Invasion of Poland (1939)",
+        "Invasion of Russia (1942)",
+        "Battle of Britain (1940)",
+        "Invasion of Normandy (1944)"
+      ]
+    },
+    {
+      "q": "In what year was the video game company Electronic Arts founded?",
+      "a": [
+        "1982",
+        "1999",
+        "1981",
+        "2005"
+      ]
+    },
+    {
+      "q": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+      "a": [
+        "Māori",
+        "Papuans",
+        "Aborigines",
+        "Polynesians"
+      ]
+    },
+    {
+      "q": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+      "a": [
+        "Vespasian",
+        "Vitellius",
+        "Otho",
+        "Galba"
+      ]
+    },
+    {
+      "q": "In which year was Constantinople conquered by the Turks?",
+      "a": [
+        "1453",
+        "1435",
+        "1454",
+        "1440"
+      ]
+    },
+    {
+      "q": "In relation to the British Occupation in Ireland, what does the IRA stand for.",
+      "a": [
+        "Irish Republican Army",
+        "Irish Rebel Alliance",
+        "Irish Reformation Army",
+        "Irish-Royal Alliance"
+      ]
+    },
+    {
+      "q": "What year did the Battle of Agincourt take place?",
+      "a": [
+        "1415",
+        "1463",
+        "1401",
+        "1422"
+      ]
+    },
+    {
+      "q": "Who was the first wife of King Henry VIII?",
+      "a": [
+        "Catherine of Aragon",
+        "Jane Seymour",
+        "Anne Boleyn",
+        "Anne of Cleves"
+      ]
+    },
+    {
+      "q": "What was the capital of South Vietnam before the Vietnam War?",
+      "a": [
+        "Saigon",
+        "Ho Chi Minh City",
+        "Hanoi",
+        "Hue"
+      ]
+    },
+    {
+      "q": "When did the United States formally declare war on Japan, entering World War II?",
+      "a": [
+        "December 8, 1941",
+        "June 6, 1944",
+        "June 22, 1941",
+        "September 1, 1939"
+      ]
+    },
+    {
+      "q": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+      "a": [
+        "Shamshi-Adad III",
+        "Shalmaneser V",
+        "Esharhaddon",
+        "Ashur-nasir-pal II"
+      ]
+    },
+    {
+      "q": "What were the first states to break away from Yugoslavia?",
+      "a": [
+        "Slovenia, Croatia",
+        "Macedonia, Montenegro",
+        "Slovenia, Macedonia",
+        "Montenegro, Slovenia"
+      ]
+    },
+    {
+      "q": "The 15th century conflicts between the Houses of York and Lancaster are known as the Wars of the what?",
+      "a": [
+        "Wars of the Roses",
+        "Wars of the Lillies",
+        "Wars of the Daffodils",
+        "Wars of the Tulips"
+      ]
+    },
+    {
+      "q": "In what year did the North American Video Game Crash occur?",
+      "a": [
+        "1983",
+        "1982",
+        "1993",
+        "1970"
+      ]
+    },
+    {
+      "q": "When was the Grand Patriotic War in the USSR concluded?",
+      "a": [
+        "May 9th, 1945",
+        "September 2nd, 1945",
+        "August 9th, 1945",
+        "December 11th, 1945"
+      ]
+    },
+    {
+      "q": "Adolf Hitler was born on which date?",
+      "a": [
+        "April 20, 1889",
+        "June 12, 1889",
+        "February 6, 1889",
+        "April 16, 1889"
+      ]
+    },
+    {
+      "q": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+      "a": [
+        "Siege of Petersburg",
+        "Siege of Vicksburg",
+        "Antietam Campaign",
+        "Gettysburg Campagin"
+      ]
+    },
+    {
+      "q": "What is the oldest US state?",
+      "a": [
+        "Delaware",
+        "Rhode Island",
+        "Maine",
+        "Virginia"
+      ]
+    },
+    {
+      "q": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+      "a": [
+        "Trajan",
+        "Julius Caesar",
+        "Claudius",
+        "Constantine the Great"
+      ]
+    },
+    {
+      "q": "On which day did the attempted coup d'etat of 1991 in the Soviet Union begin?",
+      "a": [
+        "August 19",
+        "August 21",
+        "December 26",
+        "December 24"
+      ]
+    },
+    {
+      "q": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+      "a": [
+        "USS Pueblo",
+        "USS North Carolina",
+        "USS Constitution",
+        "USS Indianapolis"
+      ]
+    },
+    {
+      "q": "What happened on June 6, 1944?",
+      "a": [
+        "D-Day",
+        "Atomic bombings of Hiroshima and Nagasaki",
+        "Attack on Pearl Harbor",
+        "The Liberation of Paris"
+      ]
+    },
+    {
+      "q": "What is the bloodiest event in United States history, in terms of casualties?",
+      "a": [
+        "Battle of Antietam",
+        "Pearl Harbor",
+        "September 11th",
+        "D-Day"
+      ]
+    },
+    {
+      "q": "The Little Entente was an alliance formed against which nation?",
+      "a": [
+        "Hungary",
+        "Germany",
+        "France",
+        "Prussia"
+      ]
+    },
+    {
+      "q": "Hong Kong was a part of which country's territory before Britain regained it in 1945?",
+      "a": [
+        "Japan",
+        "China",
+        "Phillipines",
+        "French Indonesia"
+      ]
+    },
+    {
+      "q": "The Herero genocide was perpetrated in Africa by which of the following colonial nations?",
+      "a": [
+        "Germany",
+        "Britain",
+        "Belgium",
+        "France"
+      ]
+    },
+    {
+      "q": "In which one of these cities did the Great Stink of 1858 occur?",
+      "a": [
+        "London",
+        "Berlin",
+        "New York",
+        "Moscow"
+      ]
+    },
+    {
+      "q": "Which of these 1900s tanks were designed and built BEFORE the others?",
+      "a": [
+        "Renault FT",
+        "M4 Sherman",
+        "Panzer IV",
+        "Cromwell"
+      ]
+    },
+    {
+      "q": "What was the unofficial name for Germany between 1919 and 1933?",
+      "a": [
+        "Weimar Republic",
+        "German Democratic Republic",
+        "Federal Republic of Germany",
+        "Oesterreich"
+      ]
+    },
+    {
+      "q": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+      "a": [
+        "The Mayans",
+        "The Incas",
+        "The Aztecs",
+        "The Navajos"
+      ]
     }
   ]
 }

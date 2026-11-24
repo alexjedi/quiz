@@ -30,8 +30,8 @@ export function Chip({
     >
       <span
         className={cx(
-          "flex size-6 shrink-0 items-center justify-center rounded-md border-[2.5px] border-edge transition-[background-color,scale] duration-200 ease-spring",
-          active ? "scale-100 bg-accent text-accent-ink" : "scale-90 bg-well text-transparent",
+          "flex size-6 shrink-0 items-center justify-center rounded-md border-[2.5px] border-edge",
+          active ? "bg-accent text-accent-ink" : "bg-well text-transparent",
         )}
       >
         <CheckIcon size={16} />

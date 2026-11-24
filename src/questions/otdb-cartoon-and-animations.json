@@ -1,0 +1,547 @@
+{
+  "id": "otdb-cartoon-and-animations",
+  "title": "Cartoon & Animations",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "In the 1969 Cartoon show \"Dastardly and Muttley in Their Flying Machines\", which were NOT one of the lyrics in the opening theme?",
+      "a": [
+        "Stab him",
+        "Nab him",
+        "Jab him",
+        "Tab him"
+      ]
+    },
+    {
+      "q": "Who played Stan's dog in the South Park episode \"Big Gay Al's Big Gay Boat Ride\"?",
+      "a": [
+        "George Clooney",
+        "Jay Leno",
+        "Matt Stone",
+        "Robert Smith"
+      ]
+    },
+    {
+      "q": "Which cartoon family lives in 31 Spooner Street, Quahog, Rhode Island USA?",
+      "a": [
+        "The Griffins",
+        "The Simpsons",
+        "The Jetsons",
+        "The Hills"
+      ]
+    },
+    {
+      "q": "Who voice acted the character Hiccup in the movie \"How to Train Your Dragon\"?",
+      "a": [
+        "Jay Baruchel",
+        "Jack Brauchel",
+        "John Powell",
+        "Gerard Butler"
+      ]
+    },
+    {
+      "q": "Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?",
+      "a": [
+        "Top Cat",
+        "Yogi Bear",
+        "Snagglepuss",
+        "Scooby-Doo"
+      ]
+    },
+    {
+      "q": "What was the name of Jonny's pet dog in The Adventures of Jonny Quest?",
+      "a": [
+        "Bandit",
+        "Lucky",
+        "Rocky",
+        "Max"
+      ]
+    },
+    {
+      "q": "In the \"Star Wars\" universe, what species is Grand Admiral Thrawn?",
+      "a": [
+        "Chiss",
+        "Gungans",
+        "Pantorans",
+        "Twi'lek"
+      ]
+    },
+    {
+      "q": "In the web-comic Homestuck, what is the name of the game the 4 kids play?",
+      "a": [
+        "Sburb",
+        "Homesick",
+        "Husslie",
+        "Hiveswap"
+      ]
+    },
+    {
+      "q": "What was Maggie Simpson's first canonical word, not including the Tracey Ullman shorts?",
+      "a": [
+        "Daddy.",
+        "Sequel?",
+        "Ja!",
+        "Rusty!"
+      ]
+    },
+    {
+      "q": "Townsend Coleman provided the voice for which turtle in the original 1987 series of \"Teenage Mutant Ninja Turtles\"?",
+      "a": [
+        "Michelangelo",
+        "Leonardo",
+        "Donatello",
+        "Raphael"
+      ]
+    },
+    {
+      "q": "In the 1968 Cartoon Show \"Wacky Races\" what was the name of cavemen duo who rode in The Boulder Mobile?",
+      "a": [
+        "The Slag Brothers",
+        "The Slate Brothers",
+        "The Rock Brothers",
+        "The Stone Brothers"
+      ]
+    },
+    {
+      "q": "In the TV show \"Rick and Morty\", Rick uses the catchphrase \"Wubba Lubba Dub Dub\", which means what in Birdperson?",
+      "a": [
+        "I am in great pain, please help me.",
+        "I pray that my life ends soon.",
+        "Lets get this party started!",
+        "I am suffering, please help me."
+      ]
+    },
+    {
+      "q": "What town was \"Springfield\" from \"The Simpsons\" originally named after?",
+      "a": [
+        "Springfield, Oregon",
+        "Springfield, Missouri",
+        "Springfield, Illinois",
+        "Springfield, Massachusetts"
+      ]
+    },
+    {
+      "q": "In \"Gravity Falls\", what does Quentin Trembley do when he is driven out from the White House?",
+      "a": [
+        "Eat a salamander and jump out the window.",
+        "Leave in peace.",
+        "Jump out the window.",
+        "Release 1,000 captive salamanders into the white house."
+      ]
+    },
+    {
+      "q": "What is Scooby Doo's full name?",
+      "a": [
+        "Scoobert Doo",
+        "Scooter Doo",
+        "Scooby Dooby Doo",
+        "Scoobity Doo"
+      ]
+    },
+    {
+      "q": "In \"Gravity Falls\", how much does Waddles weigh when Mable wins him in \"The Time Traveler's Pig\"?",
+      "a": [
+        "15 pounds",
+        "20 pounds",
+        "10 pounds",
+        "30 pounds"
+      ]
+    },
+    {
+      "q": "Which of these cartoon girlfriends of popular characters first appeared before their boyfriends?",
+      "a": [
+        "Olive Oyl",
+        "Minnie Mouse",
+        "Lola Bunny",
+        "Daisy Duck"
+      ]
+    },
+    {
+      "q": "In \"Gravity Falls\", the character Bill Cipher remarks that \"the universe is what?\"",
+      "a": [
+        "A hologram",
+        "An illusion",
+        "A simulation",
+        "Corrupting"
+      ]
+    },
+    {
+      "q": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+      "a": [
+        "All Dogs Go To Heaven",
+        "Titan A.E.",
+        "Anastasia",
+        "The Land Before Time"
+      ]
+    },
+    {
+      "q": "What was the release date of the first episode of \"The Powerpuff Girls\"?",
+      "a": [
+        "November 18, 1998",
+        "June 25, 1999",
+        "July 28, 2000",
+        "April 14, 2001"
+      ]
+    },
+    {
+      "q": "In \"Rick and Morty\", from which dimension do Rick and Morty originate from?",
+      "a": [
+        "C-137",
+        "J1977",
+        "C-136",
+        "C500-a"
+      ]
+    },
+    {
+      "q": "Which \"Toy Story\" character was voiced by Don Rickles?",
+      "a": [
+        "Mr. Potato Head",
+        "Slinky Dog",
+        "Hamm",
+        "Rex"
+      ]
+    },
+    {
+      "q": "What is the standard frame rate for animation?",
+      "a": [
+        "24 FPS",
+        "12 FPS",
+        "30 FPS",
+        "60 FPS"
+      ]
+    },
+    {
+      "q": "What animated internet character is known to answer emails with his boxing gloves?",
+      "a": [
+        "Strong Bad",
+        "Strong Sad",
+        "Strong Mad",
+        "Strong Glad"
+      ]
+    },
+    {
+      "q": "In what year did the anime adaptation of \"March Comes In Like A Lion\" air?",
+      "a": [
+        "2016",
+        "2017",
+        "2018",
+        "2015"
+      ]
+    },
+    {
+      "q": "Adam West was the mayor of which cartoon town?",
+      "a": [
+        "Quahog",
+        "Springfield",
+        "South Park",
+        "Langley Falls"
+      ]
+    },
+    {
+      "q": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+      "a": [
+        "Mermaid Transformation",
+        "Artificial Gills",
+        "Bubble Head",
+        "Bubble Shield"
+      ]
+    },
+    {
+      "q": "In the show \"Fat Albert and the Cosby Kids\", what is the name of the characters' fictional gang?",
+      "a": [
+        "The Junkyard Gang",
+        "The Trash Troupe",
+        "The Scrapyard Seven",
+        "The Rotten Posse"
+      ]
+    },
+    {
+      "q": "Who created \"RWBY\"?",
+      "a": [
+        "Monty Oum",
+        "Miles Luna",
+        "Kerry Shawcross",
+        "Shane Newville"
+      ]
+    },
+    {
+      "q": "What is Scooby-Doo's real name?",
+      "a": [
+        "Scoobert",
+        "Scooter",
+        "Scrappy",
+        "Shooby"
+      ]
+    },
+    {
+      "q": "What year was the Disney film \"A Goofy Movie\" released?",
+      "a": [
+        "1995",
+        "1999",
+        "2001",
+        "1997"
+      ]
+    },
+    {
+      "q": "What is Dipper's real name from \"Gravity Falls\"?",
+      "a": [
+        "Mason Pines",
+        "Mable Pines",
+        "Jason Pines",
+        "Mark Pines"
+      ]
+    },
+    {
+      "q": "Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?",
+      "a": [
+        "Grape Ape",
+        "Boss Gator",
+        "Wally Gator",
+        "Yogi Bear"
+      ]
+    },
+    {
+      "q": "In \"The Amazing World of Gumball\", who is the principal of Elmore Junior High?",
+      "a": [
+        "Principal Brown",
+        "Principal Small",
+        "Principal Brawn",
+        "Principal Simeon"
+      ]
+    },
+    {
+      "q": "In \"SpongeBob SquarePants\", what is the name of Sandy Cheek's place of residence?",
+      "a": [
+        "Sandy's Treedome",
+        "\"The Dome\"",
+        "Sandy's Bubble",
+        "Auquatic Reseach Centre"
+      ]
+    },
+    {
+      "q": "What was the number on Gerald's shirt in \"Hey Arnold!\"?",
+      "a": [
+        "33",
+        "88",
+        "38",
+        "83"
+      ]
+    },
+    {
+      "q": "What is the cartoon character, Andy Capp, known as in Germany?",
+      "a": [
+        "Willi Wakker",
+        "Dick Tingeler",
+        "Helmut Schmacker",
+        "Rod Tapper"
+      ]
+    },
+    {
+      "q": "Which Sanrio character was introduced in 1996?",
+      "a": [
+        "Pompompurin",
+        "My Melody",
+        "Badtz-Maru",
+        "Kerropi"
+      ]
+    },
+    {
+      "q": "In \"The Simpsons\", where did Homer and Marge first meet?",
+      "a": [
+        "At Summer Camp",
+        "At High School",
+        "At Church",
+        "At 742 Evergreen Terrace"
+      ]
+    },
+    {
+      "q": "Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?",
+      "a": [
+        "Orion Pax",
+        "Long Haul",
+        "P-138",
+        "Teletran-1"
+      ]
+    },
+    {
+      "q": "Bugs Bunny, Tony the Tiger, and other bipedal animal characters are known as what type of character?",
+      "a": [
+        "Anthropomorphic",
+        "Anthropolegic",
+        "Anthrologic",
+        "Anthrogenetic"
+      ]
+    },
+    {
+      "q": "What is the name of the Alligator that The Simpsons \"killed\" in the episode \"Kill The Alligator and Run\"?",
+      "a": [
+        "Captain Jack",
+        "Captain Jake",
+        "Captain Hector",
+        "Captain Flynn"
+      ]
+    },
+    {
+      "q": "The character White Diamond from Steven Universe, is voiced by who?",
+      "a": [
+        "Christine Ebersole",
+        "Ellen McLain",
+        "Aly Michalka",
+        "Rihanna"
+      ]
+    },
+    {
+      "q": "What is the name of Sid's dog in \"Toy Story\"?",
+      "a": [
+        "Scud",
+        "Buster",
+        "Whiskers",
+        "Mr. Jones"
+      ]
+    },
+    {
+      "q": "Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?",
+      "a": [
+        "Rose Marene",
+        "Pinkie Pie",
+        "Maud Pie",
+        "Rainbow Dash"
+      ]
+    },
+    {
+      "q": "In the Dreamworks animated movie \"Madagascar,\" who voices Maurice the lemur?",
+      "a": [
+        "Cedric the Entertainer",
+        "Jack Black",
+        "Sacha Baron Cohen",
+        "Chris Rock"
+      ]
+    },
+    {
+      "q": "When did the last episode of \"Futurama\" air before returning in 2023?",
+      "a": [
+        "September 4, 2013",
+        "December 25, 2010",
+        "March 28, 1999",
+        "November 4, 2021"
+      ]
+    },
+    {
+      "q": "What Cartoon Network show aired its first episode on November 4th, 2013?",
+      "a": [
+        "Steven Universe",
+        "Regular Show",
+        "Adventure Time",
+        "The Amazing World of Gumball"
+      ]
+    },
+    {
+      "q": "Who voiced Finn in Adventure Time?",
+      "a": [
+        "Jeremy Shada",
+        "Nolan North",
+        "John DiMaggio",
+        "Tom Kenny"
+      ]
+    },
+    {
+      "q": "In \"My Little Pony: Friendship is Magic\", which of these ponies represents the quality of honesty?",
+      "a": [
+        "Applejack",
+        "Twilight Sparkle",
+        "Pinkie Pie",
+        "Rarity"
+      ]
+    },
+    {
+      "q": "Which city did Anger berate for ruining pizza in \"Inside Out\"?",
+      "a": [
+        "San Francisco",
+        "Minnesota",
+        "Washington",
+        "California"
+      ]
+    },
+    {
+      "q": "How many episodes were in season five of Samurai Jack?",
+      "a": [
+        "10",
+        "12",
+        "11",
+        "13"
+      ]
+    },
+    {
+      "q": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+      "a": [
+        "Myrtenaster",
+        "Gambol Shroud",
+        "Crescent Rose",
+        "Ember Celica"
+      ]
+    },
+    {
+      "q": "Nickelodeon is owned by what parent company?",
+      "a": [
+        "Viacom",
+        "CBS",
+        "FOX",
+        "ABC"
+      ]
+    },
+    {
+      "q": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+      "a": [
+        "Max Tennyson (Ben 10)",
+        "Carl Wheezer (Jimmy Neutron)",
+        "Yakko Warner (Animaniacs)",
+        "The Mask (The Mask, TV Series)"
+      ]
+    },
+    {
+      "q": "Which singer provided the voice of Metroid's Mother Brain in the animated series \"Captain N: The Game Master\"?",
+      "a": [
+        "Levi Stubbs",
+        "Freddie Mercury",
+        "Janet Jackson",
+        "Joan Jett"
+      ]
+    },
+    {
+      "q": "The stop motion comedy show \"Robot Chicken\" was created by which of the following?",
+      "a": [
+        "Seth Green",
+        "Seth MacFarlane",
+        "Seth Rogen",
+        "Seth Rollins"
+      ]
+    },
+    {
+      "q": "Which episode from The Amazing World Of Gumball won the Childrens Choice Award at the British Animation Awards in 2016?",
+      "a": [
+        "The Shell",
+        "The Limit",
+        "The Kids",
+        "The Gripes"
+      ]
+    },
+    {
+      "q": "Who is the \"dumb blonde\" character in Nickelodeon's \"The Loud House\"?",
+      "a": [
+        "Leni",
+        "Luan",
+        "Luna",
+        "Lincoln"
+      ]
+    },
+    {
+      "q": "What is the name of Ruby Rose's weapon from RWBY?",
+      "a": [
+        "Crescent Rose",
+        "Thorned Rosebud",
+        "Magnhild",
+        "Crooked Scythe"
+      ]
+    }
+  ]
+}

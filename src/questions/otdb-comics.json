@@ -1,0 +1,511 @@
+{
+  "id": "otdb-comics",
+  "title": "Comics",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "In the Hellboy universe, what was Abe Sapien's birth name?",
+      "a": [
+        "Langdon Everett Caul",
+        "Lord Baltimore",
+        "Sir Edward Grey",
+        "Landis Pope"
+      ]
+    },
+    {
+      "q": "In what year did the first \"The Walking Dead\" comic come out?",
+      "a": [
+        "2003",
+        "2001",
+        "2006",
+        "1999"
+      ]
+    },
+    {
+      "q": "In the \"Archie\" comics, who was Jughead's first girlfriend?",
+      "a": [
+        "Joani",
+        "Ethel",
+        "Debbi",
+        "Margret"
+      ]
+    },
+    {
+      "q": "What are the names of the two \"Canon fan trolls\" in \"Homestuck\"?",
+      "a": [
+        "Mierfa Durgas and Nektan Whelan",
+        "The Wrycrown and Voksea Olkido",
+        "Aikter Frekik and Xagrai Ollomu",
+        "Grekei Ceknux and Riya Camacho"
+      ]
+    },
+    {
+      "q": "In the webcomic \"Ava's Demon\", what sin is \"Nevy Nervine\" based off of?",
+      "a": [
+        "Envy",
+        "Sloth",
+        "Wrath",
+        "Lust"
+      ]
+    },
+    {
+      "q": "In the Marvel Universe, the planet of Svartalfheim is home to what race?",
+      "a": [
+        "Dark Elves",
+        "Frost Giants",
+        "Kronans",
+        "Skrulls"
+      ]
+    },
+    {
+      "q": "Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic?",
+      "a": [
+        "Indigo (Compassion)",
+        "Green (Willpower)",
+        "White (Life)",
+        "Yellow (Fear)"
+      ]
+    },
+    {
+      "q": "When was the Garfield comic first published?",
+      "a": [
+        "1978",
+        "1982",
+        "1973",
+        "1988"
+      ]
+    },
+    {
+      "q": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+      "a": [
+        "Blonde",
+        "Auburn",
+        "Brown",
+        "Black"
+      ]
+    },
+    {
+      "q": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+      "a": [
+        "Scarecrow",
+        "Bane",
+        "Calendar Man",
+        "Clayface"
+      ]
+    },
+    {
+      "q": "When Batman trolls the online chat rooms, what alias does he use?",
+      "a": [
+        "JonDoe297",
+        "iAmBatman",
+        "BWayne13",
+        "BW1129"
+      ]
+    },
+    {
+      "q": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+      "a": [
+        "Prospit",
+        "No Name",
+        "Golden City",
+        "Yellow Moon"
+      ]
+    },
+    {
+      "q": "Better known by his nickname Logan, what is Wolverine's birth name?",
+      "a": [
+        "James Howlett",
+        "Logan Wolf",
+        "Thomas Wilde",
+        "John Savage"
+      ]
+    },
+    {
+      "q": "What are the Three Virtues of Bionicle?",
+      "a": [
+        "Unity, Duty, Destiny",
+        "Build, Play, Change",
+        "Work, Play, Live",
+        "Forge, Build, Fight"
+      ]
+    },
+    {
+      "q": "What year was the first San Diego Comic-Con?",
+      "a": [
+        "1970",
+        "2000",
+        "1990",
+        "1985"
+      ]
+    },
+    {
+      "q": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+      "a": [
+        "Lobster Johnson",
+        "Roger the Homunculus",
+        "The Spider",
+        "The Wendigo"
+      ]
+    },
+    {
+      "q": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+      "a": [
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger"
+      ]
+    },
+    {
+      "q": "In what Homestuck Update was [S] Game Over released?",
+      "a": [
+        "October 25th, 2014",
+        "April 13th, 2009",
+        "April 8th, 2012",
+        "August 28th, 2003"
+      ]
+    },
+    {
+      "q": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+      "a": [
+        "Thomas Hobbes",
+        "David Hobbes",
+        "John Hobbes",
+        "Nathaniel Hobbes"
+      ]
+    },
+    {
+      "q": "Which Doom Patrol member was a later addition, first appearing in 1989?",
+      "a": [
+        "Crazy Jane",
+        "Elast-Girl",
+        "Robotman",
+        "Negative Man"
+      ]
+    },
+    {
+      "q": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+      "a": [
+        "Daniel Dreiberg",
+        "Nelson Gardner",
+        "Hollis Mason",
+        "Adrian Veidt"
+      ]
+    },
+    {
+      "q": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+      "a": [
+        "Auguste Picard",
+        "Jacques Piccard",
+        "Will Morris",
+        "J. Cecil Maby"
+      ]
+    },
+    {
+      "q": "In Pre-Super Genesis universe of \"Sonic the Hedgehog\" comic, what was the name of  Sally Acorn's brother?",
+      "a": [
+        "Elias Acorn",
+        "Maximillian Acorn",
+        "Alexis Acorn",
+        "Frederick Acorn"
+      ]
+    },
+    {
+      "q": "What is the designation given to the Marvel Cinematic Universe?",
+      "a": [
+        "Earth-199999",
+        "Earth-616",
+        "Earth-10005",
+        "Earth-2008"
+      ]
+    },
+    {
+      "q": "In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",
+      "a": [
+        "Takua",
+        "Jaller",
+        "Vakama",
+        "Tahu"
+      ]
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of the babysitter's boyfriend?",
+      "a": [
+        "Charlie",
+        "Dave",
+        "Charles",
+        "Nathaniel"
+      ]
+    },
+    {
+      "q": "Which \"Green Arrow\" sidekick commonly wears a baseball cap?",
+      "a": [
+        "Roy Harper",
+        "Black Canary",
+        "Emiko Queen",
+        "Dick Grayson"
+      ]
+    },
+    {
+      "q": "What is Hellboy's true name?",
+      "a": [
+        "Anung Un Rama",
+        "Right Hand of Doom",
+        "Ogdru Jahad",
+        "Azzael"
+      ]
+    },
+    {
+      "q": "Which of these game-based comics were published in 2011 by DC Comics?",
+      "a": [
+        "Infamous",
+        "Left 4 Dead: The Sacrifice",
+        "Prototype",
+        "Kane & Lynch"
+      ]
+    },
+    {
+      "q": "Which issue of the \"Sonic the Hedgehog\" comic did Scourge the Hedgehog make his first appearance?",
+      "a": [
+        "Sonic the Hedgehog #11",
+        "Sonic Universe #32",
+        "Sonic the Hedgehog #161",
+        "Sonic the Hedgehog #47"
+      ]
+    },
+    {
+      "q": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+      "a": [
+        "Antimony",
+        "Bismuth",
+        "Mercury",
+        "Cobalt"
+      ]
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of the principal at Calvin's school?",
+      "a": [
+        "Mr. Spittle",
+        "Mr. Boreman",
+        "Mr. Spitling",
+        "Mr. Moe"
+      ]
+    },
+    {
+      "q": "Who created Ultron of Earth-616?",
+      "a": [
+        "Henry Pym",
+        "Amadeus Cho",
+        "Tony Stark",
+        "Reed Richards"
+      ]
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of Susie's stuffed rabbit?",
+      "a": [
+        "Mr. Bun",
+        "Mr. Bunbun",
+        "Mr. Rabbit",
+        "Mr. Hoppy"
+      ]
+    },
+    {
+      "q": "What is the real name of the \"Master Of Magnetism\" Magneto?",
+      "a": [
+        "Max Eisenhardt",
+        "Charles Xavier",
+        "Pietro Maximoff",
+        "Johann Schmidt"
+      ]
+    },
+    {
+      "q": "The success of DC Comics' Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",
+      "a": [
+        "Vertigo",
+        "Impact",
+        "New Universe",
+        "Red Circle"
+      ]
+    },
+    {
+      "q": "In the Hellboy universe, who founded the BPRD?",
+      "a": [
+        "Trevor Bruttenholm",
+        "Kate Corrigan",
+        "Johann Kraus",
+        "Benjamin Daimio"
+      ]
+    },
+    {
+      "q": "Who was the first American Vampire (Scott Snyder's American Vampire)?",
+      "a": [
+        "Skinner Sweet",
+        "Hattie Hargrove",
+        "Pearl Jones",
+        "James \"Jim\" Book"
+      ]
+    },
+    {
+      "q": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine's bones and claws?",
+      "a": [
+        "Adamantium",
+        "Titanium",
+        "Vibranium",
+        "Carbonadium"
+      ]
+    },
+    {
+      "q": "What otherworldly land does Thor come from?",
+      "a": [
+        "Asgard",
+        "Midgard",
+        "Jotunheim",
+        "Sovengarde"
+      ]
+    },
+    {
+      "q": "What's the name of Batman's parents?",
+      "a": [
+        "Thomas & Martha",
+        "Joey & Jackie",
+        "Jason & Sarah",
+        "Todd & Mira"
+      ]
+    },
+    {
+      "q": "What's the weakness of american vampires (Scott Snyder's American Vampire)?",
+      "a": [
+        "Gold",
+        "Sunlight",
+        "Wood",
+        "Silver"
+      ]
+    },
+    {
+      "q": "In Black Hammer, what dimension does Colonel Weird travel through?",
+      "a": [
+        "Para-Zone",
+        "Hyperspace",
+        "Mirror Universe",
+        "Phantom Zone"
+      ]
+    },
+    {
+      "q": "Who wrote the Batman comic series \"The Killing Joke\"?",
+      "a": [
+        "Alan Moore",
+        "Bill Finger",
+        "Frank Miller",
+        "Jerry Siegel"
+      ]
+    },
+    {
+      "q": "What is the real full name of Captain America?",
+      "a": [
+        "Steven Grant Rogers",
+        "Steven John Rogers",
+        "Steven Peggy Rogers",
+        "Steven William Rogers"
+      ]
+    },
+    {
+      "q": "In Marvel comics, which of the following is not one of the infinity stones?",
+      "a": [
+        "Energy",
+        "Time",
+        "Power",
+        "Soul"
+      ]
+    },
+    {
+      "q": "In the comics, which Sonic character took command of the Dark Legion after Luger's assassination?",
+      "a": [
+        "Lien-Da",
+        "Kragok",
+        "Dimitri",
+        "Remington"
+      ]
+    },
+    {
+      "q": "What was the name of the first Robin in the Batman comics?",
+      "a": [
+        "Dick Grayson",
+        "Bruce Wayne",
+        "Jason Todd",
+        "Tim Drake"
+      ]
+    },
+    {
+      "q": "Who authored The Adventures of Tintin?",
+      "a": [
+        "Hergé",
+        "E.P. Jacobs",
+        "Rin Tin Tin",
+        "Chic Young"
+      ]
+    },
+    {
+      "q": "What is Homestuck character Gamzee's last name?",
+      "a": [
+        "Makara",
+        "Makera",
+        "Makare",
+        "Makrea"
+      ]
+    },
+    {
+      "q": "Which Batman sidekick is the son of Talia al Ghul?",
+      "a": [
+        "Damian Wayne",
+        "Dick Grayson",
+        "Tim Drake",
+        "Jason Todd"
+      ]
+    },
+    {
+      "q": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+      "a": [
+        "Wally West",
+        "Johnny Quick",
+        "Jay Garrick",
+        "Eobard Thawne"
+      ]
+    },
+    {
+      "q": "In \"Sonic the Hedgehog\" comic, who was the creator of Roboticizer?",
+      "a": [
+        "Professor Charles the Hedgehog",
+        "Julian Robotnik",
+        "Ivo Robotnik",
+        "Snively Robotnik"
+      ]
+    },
+    {
+      "q": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+      "a": [
+        "Zodiac",
+        "Scorpio",
+        "Tiger Mafia",
+        "The Union"
+      ]
+    },
+    {
+      "q": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "a": [
+        "Green Arrow",
+        "Superman",
+        "Batman",
+        "Steve Trevor"
+      ]
+    },
+    {
+      "q": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "a": [
+        "Calvin and Hobbes",
+        "Winnie the Pooh",
+        "Albert and Pogo",
+        "Peanuts"
+      ]
+    }
+  ]
+}

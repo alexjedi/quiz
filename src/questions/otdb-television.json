@@ -902,6 +902,456 @@
         "Every Villain Is Limes",
         "Each Villain Is Lemonade"
       ]
+    },
+    {
+      "q": "What was the callsign of Commander William Adama in Battlestar Galactica (2004)?",
+      "a": [
+        "Husker",
+        "Starbuck",
+        "Apollo",
+        "Crashdown"
+      ]
+    },
+    {
+      "q": "What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?",
+      "a": [
+        "Pablo",
+        "Esteban",
+        "Carlos",
+        "Duckster"
+      ]
+    },
+    {
+      "q": "What is the Klingon's afterlife called?",
+      "a": [
+        "Sto-vo-kor",
+        "Valhalla",
+        "Karon'gahk",
+        "New Jersey"
+      ]
+    },
+    {
+      "q": "What's Dr. Doofenshmirtz first name?",
+      "a": [
+        "Heinz",
+        "Hans",
+        "Hank",
+        "Heidi"
+      ]
+    },
+    {
+      "q": "Which country does the YouTuber \"SinowBeats\" originate from?",
+      "a": [
+        "Scotland",
+        "England",
+        "Sweden",
+        "Germany"
+      ]
+    },
+    {
+      "q": "Which race enjoys a glass of warm baghol in \"Star Trek\"?",
+      "a": [
+        "Klingon",
+        "Vulcan",
+        "Human",
+        "Botha"
+      ]
+    },
+    {
+      "q": "Which former Coronation Street actress was once a hostess on the British Game Show \"Double Your Money\"?",
+      "a": [
+        "Amanda Barrie",
+        "Sue Nicholls",
+        "Violet Carson",
+        "Jean Alexander"
+      ]
+    },
+    {
+      "q": "Which of the following actors portrayed the Ninth Doctor in the British television show \"Doctor Who\"?",
+      "a": [
+        "Christopher Eccleston",
+        "David Tennant",
+        "Matt Smith",
+        "Tom Baker"
+      ]
+    },
+    {
+      "q": "Which PBS station was the first station to air \"Monty Python's Flying Circus\" (1969-1974) in the United States?",
+      "a": [
+        "KERA (Dallas-Fort Worth)",
+        "KLCS (Los Angeles)",
+        "WETA (Washington D.C.)",
+        "WNET (New York City)"
+      ]
+    },
+    {
+      "q": "In season one of the US Kitchen Nightmares, Gordan Ramsay tried to save 10 different restaurants. How many ended up closing afterwards?",
+      "a": [
+        "9",
+        "6",
+        "3",
+        "0"
+      ]
+    },
+    {
+      "q": "In \"Star Trek\", who was the founder of the Klingon Empire and its philosophy?",
+      "a": [
+        "Kahless the Unforgettable",
+        "Lady Lukara of the Great Hall",
+        "Molor the Unforgiving",
+        "Dahar Master Kor"
+      ]
+    },
+    {
+      "q": "What is the name of the pirate that sings the intro to \"Spongebob Squarepants\"?",
+      "a": [
+        "Painty",
+        "Patchy",
+        "Lloyd",
+        "Larry"
+      ]
+    },
+    {
+      "q": "Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?",
+      "a": [
+        "Rik Mayall",
+        "Adrian Edmondson",
+        "Nigel Planer",
+        "Christopher Ryan"
+      ]
+    },
+    {
+      "q": "What was the UK \"Who Wants to be a Millionaire?\" cheating scandal known as?",
+      "a": [
+        "Major Fraud",
+        "Ingram Cheater",
+        "Coughing Major",
+        "Millionaire Crime"
+      ]
+    },
+    {
+      "q": "What was the name of Ross' pet monkey on \"Friends\"?",
+      "a": [
+        "Marcel",
+        "Jojo",
+        "George",
+        "Champ"
+      ]
+    },
+    {
+      "q": "In the TV series \"Person of Interest\", who plays the character \"Harold Finch\"?",
+      "a": [
+        "Michael Emerson",
+        "Jim Caviezel",
+        "Taraji P. Henson",
+        "Kevin Chapman"
+      ]
+    },
+    {
+      "q": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+      "a": [
+        "Should I Stay or Should I Go?",
+        "Love Will Tear Us Apart",
+        "This Charming Man",
+        "Africa"
+      ]
+    },
+    {
+      "q": "Who sang the theme song for the TV show 'Rawhide'?",
+      "a": [
+        "Frankie Laine",
+        "Guy Mitchell",
+        "Tennessee Ernie Ford",
+        "Slim Whitman"
+      ]
+    },
+    {
+      "q": "Who co-founded the YouTube Let's Play channel \"Game Grumps\" alongside Newgrounds animator Egoraptor?",
+      "a": [
+        "JonTron",
+        "Pewdiepie",
+        "Tobuscus",
+        "Markiplier"
+      ]
+    },
+    {
+      "q": "What is the title of The Allman Brothers Band instrumental used as the theme to the BBC motoring show, 'Top Gear'?",
+      "a": [
+        "Jessica",
+        "Angela",
+        "Erica",
+        "Sandra"
+      ]
+    },
+    {
+      "q": "Which character does voice actress Tara Strong NOT voice?",
+      "a": [
+        "Bubbles (2016)",
+        "Twilight Sparkle",
+        "Timmy Turner",
+        "Harley Quinn"
+      ]
+    },
+    {
+      "q": "On the NBC show Community what was Star Burns' real name?",
+      "a": [
+        "Alex",
+        "Todd",
+        "Neal",
+        "Grimus"
+      ]
+    },
+    {
+      "q": "In the television show \"Lazy Town\", who is the actor of Robbie Rotten?",
+      "a": [
+        "Stefán Stefánsson",
+        "Adam Sandler",
+        "Magnús Scheving",
+        "Stephen Carl"
+      ]
+    },
+    {
+      "q": "What breed of dog is \"Scooby Doo\"?",
+      "a": [
+        "Great Dane",
+        "Pit bull",
+        "Boxer",
+        "Doberman Pinscher"
+      ]
+    },
+    {
+      "q": "What is the setting of the show \"Parks and Recreation\"?",
+      "a": [
+        "Pawnee, Indiana",
+        "Eagleton, Indiana",
+        "Pasadena, California",
+        "London, England"
+      ]
+    },
+    {
+      "q": "What year did the television company BBC officially launch the channel BBC One?",
+      "a": [
+        "1936",
+        "1948",
+        "1932",
+        "1955"
+      ]
+    },
+    {
+      "q": "Who was the original voice actor of Shaggy Rogers in Scooby-Doo?",
+      "a": [
+        "Casey Kasem",
+        "Dante Basco",
+        "Billy West",
+        "Frank Welker"
+      ]
+    },
+    {
+      "q": "Which of the following Autobot names in Michael Bay's movies was NOT a name for a Transformer in the original 1980's cartoon?",
+      "a": [
+        "Mudflap",
+        "Skids",
+        "Sideswipe",
+        "Ratchet"
+      ]
+    },
+    {
+      "q": "Who plays the character of Dennis Reynolds on It's Always Sunny in Philadelphia?",
+      "a": [
+        "Glenn Howerton",
+        "Rob McElhenney",
+        "Charlie Day",
+        "Danny DeVito"
+      ]
+    },
+    {
+      "q": "What year was Netflix founded?",
+      "a": [
+        "1997",
+        "1999",
+        "2004",
+        "2001"
+      ]
+    },
+    {
+      "q": "Which of the following was not an actor/actress on the American television show \"Saturday Night Live\" in Season 42?",
+      "a": [
+        "Tina Fey",
+        "Mikey Day",
+        "Kate McKinnon",
+        "Sasheer Zamata"
+      ]
+    },
+    {
+      "q": "What is the name of the inspector in the series \"On the Buses\"?",
+      "a": [
+        "Blakey",
+        "Harper",
+        "Naily",
+        "Gally"
+      ]
+    },
+    {
+      "q": "In Naruto: Shippuden, which of the following elements is a \"Kekkei Tōta?\"",
+      "a": [
+        "Particle Style",
+        "Any Doujutsu",
+        "Shadow Style",
+        "Ice Style"
+      ]
+    },
+    {
+      "q": "In \"Star Trek\", what is the Klingon death ritual?",
+      "a": [
+        "Look into sky and yell loudly in mourning.",
+        "Kiss the jagged forehead before burial.",
+        "Shoot into space in a torpedo casing.",
+        "Split the deceased's earnings between bloodkin."
+      ]
+    },
+    {
+      "q": "What is the name of the main antagonists in Battlestar Galactica?",
+      "a": [
+        "The Cylons",
+        "The Collective",
+        "The Federation",
+        "The Rebels"
+      ]
+    },
+    {
+      "q": "Alan Reed is known for providing the voice of which character?",
+      "a": [
+        "Fred Flintstone",
+        "Bugs Bunny",
+        "Fangface",
+        "G.I. Joe"
+      ]
+    },
+    {
+      "q": "In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?",
+      "a": [
+        "David Tennant",
+        "William Hartnell",
+        "Peter Capaldi",
+        "Peter Davison"
+      ]
+    },
+    {
+      "q": "In the Doctor Who universe, how many times can a time lord normally regenerate?",
+      "a": [
+        "12",
+        "11",
+        "13",
+        "15"
+      ]
+    },
+    {
+      "q": "In \"The Big Bang Theory\", what is Howard Wolowitz's nickname in World of Warcraft?",
+      "a": [
+        "Wolowizard",
+        "Sheldor",
+        "Rajesh",
+        "Priya"
+      ]
+    },
+    {
+      "q": "Pat Cashman, the announcer for Super Smash Brothers: Brawl, also featured prominently in what famous TV show?",
+      "a": [
+        "Bill Nye the Science Guy",
+        "The Muppet Show",
+        "Scooby-Doo",
+        "Seinfeld"
+      ]
+    },
+    {
+      "q": "Dee from \"It's Always Sunny in Philadelphia\" has dated all of the following guys EXCEPT",
+      "a": [
+        "Matthew \"Rickety Cricket\" Mara",
+        "Colin the Thief",
+        "Ben the Soldier",
+        "Kevin Gallagher aka Lil' Kevin"
+      ]
+    },
+    {
+      "q": "At which university do \"The Big Bang Theory\" characters Mr. Wolowitz and Drs. Cooper, Hofstadter and Koothrappali work?",
+      "a": [
+        "Caltech",
+        "UCLA",
+        "MIT",
+        "UC Berkeley"
+      ]
+    },
+    {
+      "q": "This composer worked on the 2003 TV series Battlestar Galatica.",
+      "a": [
+        "Bear McCreary",
+        "Ramin Djawadi",
+        "Jeremy Soule",
+        "Harry Gregson-Williams"
+      ]
+    },
+    {
+      "q": "Baron Silas Greenback is the arch nemesis of which cartoon hero?",
+      "a": [
+        "Danger Mouse",
+        "Bananaman",
+        "SuperTed",
+        "Captain Star"
+      ]
+    },
+    {
+      "q": "Which boxing personality was one of the presenters in the 1999 revival of It's a Knockout?",
+      "a": [
+        "Frank Bruno",
+        "Henry Cooper",
+        "Muhammad Ali",
+        "Joe Fraiser"
+      ]
+    },
+    {
+      "q": "In \"Star Trek\", what is the Ferengi's First Rule of Acquisition?",
+      "a": [
+        "Once you have their money, you never give it back.",
+        "Never place friendship above profit",
+        "Greed is Eternal",
+        "Never allow family to stand in the way of opportunity"
+      ]
+    },
+    {
+      "q": "When did Spongebob Squarepants first air?",
+      "a": [
+        "May 1, 1999",
+        "July 20, 2000",
+        "February 6, 2003",
+        "June 27, 1997"
+      ]
+    },
+    {
+      "q": "The fictional movie 'Rochelle, Rochelle' features in which sitcom?",
+      "a": [
+        "Seinfeld",
+        "Frasier",
+        "Cheers",
+        "Friends"
+      ]
+    },
+    {
+      "q": "Which actor was not a major character in TV Show Freaks and Geeks?",
+      "a": [
+        "Jonah Hill",
+        "Jason Segel",
+        "Seth Rogen",
+        "James Franco"
+      ]
+    },
+    {
+      "q": "How long was Ken Jennings' win streak on Jeopardy?",
+      "a": [
+        "74",
+        "88",
+        "49",
+        "62"
+      ]
     }
   ]
 }

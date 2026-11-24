@@ -64,7 +64,6 @@ export function Lobby({ state, onLeave }: { state: RoomState; onLeave: () => voi
                 key={players[slot]?.id ?? slot}
                 player={players[slot] ?? null}
                 self={players[slot]?.id === self.id}
-                index={slot}
               />
             ))}
           </ul>

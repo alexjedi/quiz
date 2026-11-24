@@ -23,10 +23,10 @@ export function Results({ state, onLeave }: { state: RoomState; onLeave: () => v
       <Logo small />
       <Panel>
         <div className="mb-5 flex flex-col items-center gap-2">
-          <span className="animate-float text-gold">
+          <span className="text-gold">
             <CrownIcon size={44} />
           </span>
-          <span className="flex animate-bounce-in -space-x-4">
+          <span className="flex -space-x-4">
             {winners.map((winner) => (
               <Avatar key={winner.id} seed={winner.avatar} size={96} />
             ))}

@@ -37,7 +37,7 @@ export function Slider({
         >
           <span
             className={cx(
-              "block w-full rounded-md border-[2.5px] border-edge transition-[height,background-color,scale] duration-200 ease-spring group-hover:scale-110 group-active:scale-90",
+              "block w-full rounded-md border-[2.5px] border-edge group-hover:border-ink",
               step <= value ? "h-7 bg-accent" : "h-4 bg-panel",
             )}
           />

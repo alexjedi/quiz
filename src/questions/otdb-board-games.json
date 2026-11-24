@@ -1,0 +1,439 @@
+{
+  "id": "otdb-board-games",
+  "title": "Board Games",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "What Magic: The Gathering card's flavor text is just 'Ribbit.'?",
+      "a": [
+        "Turn to Frog",
+        "Spore Frog",
+        "Bloated Toad",
+        "Frogmite"
+      ]
+    },
+    {
+      "q": "Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play?",
+      "a": [
+        "Metalcraft",
+        "Affinity",
+        "Imprint",
+        "Living Weapon"
+      ]
+    },
+    {
+      "q": "What do you declare in Rīchi Mahjong when you've drawn your winning tile?",
+      "a": [
+        "Tsumo",
+        "Ron",
+        "Rīchi",
+        "Kan"
+      ]
+    },
+    {
+      "q": "Which of these cards from \"Magic: The Gathering\" has a flavor text that begins with \"Oi oi oi\"?",
+      "a": [
+        "Uthden Troll",
+        "Lotleth Troll",
+        "Albino Troll",
+        "Harvester Troll"
+      ]
+    },
+    {
+      "q": "Some of the \"Fallen Empires\" cards from \"Magic: The Gathering\" were misprinted on the backs of which other card game?",
+      "a": [
+        "Wyvern",
+        "Pokemon",
+        "Dominion",
+        "Yu-Gi-Oh"
+      ]
+    },
+    {
+      "q": "What was the development code name for the \"Weatherlight\" expansion for \"Magic: The Gathering\", released in 1997?",
+      "a": [
+        "Mocha Latte",
+        "Decaf",
+        "Frappuccino",
+        "Macchiato"
+      ]
+    },
+    {
+      "q": "Which character class in Dungeons and Dragons 5th edition gains it's powers from making a pact with a being of higher power?",
+      "a": [
+        "Warlock",
+        "Wizard",
+        "Sorceror",
+        "Cleric"
+      ]
+    },
+    {
+      "q": "The board game \"Monopoly\" is a variation of what board game?",
+      "a": [
+        "The Landlord's Game",
+        "Territorial Dispute",
+        "Property Feud",
+        "The Monopolist's Game"
+      ]
+    },
+    {
+      "q": "How many rooms are there, not including the hallways and the set of stairs, in the board game \"Clue\"?",
+      "a": [
+        "9",
+        "1",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "q": "The board game \"Ra\" was designed by which designer?",
+      "a": [
+        "Reiner Knizia",
+        "Bruno Cathala",
+        "Uwe Rosenburg",
+        "Allison Kline"
+      ]
+    },
+    {
+      "q": "What is the sum of all the tiles in a standard box of Scrabble?",
+      "a": [
+        "187",
+        "207",
+        "197",
+        "177"
+      ]
+    },
+    {
+      "q": "Which Pokemon is #39 in the National Pokedex?",
+      "a": [
+        "Jigglypuff",
+        "Pikachu",
+        "Psyduck",
+        "Fearow"
+      ]
+    },
+    {
+      "q": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+      "a": [
+        "$180",
+        "$200",
+        "$160",
+        "$220"
+      ]
+    },
+    {
+      "q": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield's late wife Marilyn, who loved horses?",
+      "a": [
+        "Timbermare",
+        "Loyal Pegasus",
+        "Vryn Wingmare",
+        "Sungrace Pegasus"
+      ]
+    },
+    {
+      "q": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+      "a": [
+        "Tom Vasel",
+        "Jason LeVine",
+        "Borth Sampson",
+        "Uncle Pennybags"
+      ]
+    },
+    {
+      "q": "Which of these cities is NOT featured in the Pandemic board game?",
+      "a": [
+        "Berlin",
+        "Ho Chi Minh City",
+        "Lagos",
+        "Karachi"
+      ]
+    },
+    {
+      "q": "In Magic: The Gathering, what card's flavor text is \"Catch!\"?",
+      "a": [
+        "Lava Axe",
+        "Stone-Throwing Devils",
+        "Ember Shot",
+        "Throwing Knife"
+      ]
+    },
+    {
+      "q": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+      "a": [
+        "Mana Clash",
+        "Magic",
+        "Magic Clash",
+        "Mana Duels"
+      ]
+    },
+    {
+      "q": "What is the most challenging monster in the Dungeons & Dragons 5th Edition Monster Manual?",
+      "a": [
+        "Tarrasque",
+        "Beholder",
+        "Displacer Beast",
+        "Lich"
+      ]
+    },
+    {
+      "q": "Which board game was first released on February 6th, 1935?",
+      "a": [
+        "Monopoly",
+        "Risk",
+        "Clue",
+        "Candy Land"
+      ]
+    },
+    {
+      "q": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+      "a": [
+        "Intercepting",
+        "Blocking",
+        "Resisting",
+        "Shielding"
+      ]
+    },
+    {
+      "q": "What was the development code name for the \"Urza's Destiny\" expansion for \"Magic: The Gathering\", released in 1999?",
+      "a": [
+        "Chimichanga",
+        "Burrito",
+        "Taquito",
+        "Enchilada"
+      ]
+    },
+    {
+      "q": "In standard Monopoly, what's the rent if you land on Park Place with no houses?",
+      "a": [
+        "$35",
+        "$30",
+        "$50",
+        "$45"
+      ]
+    },
+    {
+      "q": "What is the world's oldest board game?",
+      "a": [
+        "Senet",
+        "Chess",
+        "Checkers",
+        "Go"
+      ]
+    },
+    {
+      "q": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+      "a": [
+        "Lightning Dragon",
+        "Revenant",
+        "Beast of Burden",
+        "Dirtcowl Wurm"
+      ]
+    },
+    {
+      "q": "Which card is on the cover of the Beta rulebook of \"Magic: The Gathering\"?",
+      "a": [
+        "Bog Wraith",
+        "Island",
+        "Rock Hydra",
+        "Elvish Archers"
+      ]
+    },
+    {
+      "q": "In Chess, the Queen has the combined movement of which two pieces?",
+      "a": [
+        "Bishop and Rook",
+        "Rook and King",
+        "Knight and Bishop",
+        "King and Knight"
+      ]
+    },
+    {
+      "q": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+      "a": [
+        "Bull Feces",
+        "A Card Expansion",
+        "A Racist Toy",
+        "Cat Urine"
+      ]
+    },
+    {
+      "q": "How many points is the Z tile worth in Scrabble?",
+      "a": [
+        "10",
+        "8",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "q": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+      "a": [
+        "300 Million",
+        "100 Million",
+        "450 Million",
+        "1 Billion"
+      ]
+    },
+    {
+      "q": "Who is the main character in the VHS tape included in the board game Nightmare?",
+      "a": [
+        "The Gatekeeper",
+        "The Kryptkeeper",
+        "The Monster",
+        "The Nightmare"
+      ]
+    },
+    {
+      "q": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+      "a": [
+        "U",
+        "B",
+        "L",
+        "E"
+      ]
+    },
+    {
+      "q": "In \"Magic: The Gathering\", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
+      "a": [
+        "Purple",
+        "Brown",
+        "Pink",
+        "Orange"
+      ]
+    },
+    {
+      "q": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+      "a": [
+        "Electric Company",
+        "Water Works",
+        "Chance",
+        "Community Chest"
+      ]
+    },
+    {
+      "q": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack?",
+      "a": [
+        "7",
+        "3",
+        "10",
+        "1"
+      ]
+    },
+    {
+      "q": "In poker, \"EV\" means what?",
+      "a": [
+        "Expected Value",
+        "Equity Value",
+        "Equivalent Variation",
+        "Equity Variation"
+      ]
+    },
+    {
+      "q": "What type is \"Magic Drain\" in Yugioh! Trading Card Game?",
+      "a": [
+        "Counter Trap",
+        "Normal Trap",
+        "Quick-Play Spell",
+        "Field Spell"
+      ]
+    },
+    {
+      "q": "Which of the following is not a color of mana in Magic: The Gathering?",
+      "a": [
+        "Yellow",
+        "White",
+        "Green",
+        "Blue"
+      ]
+    },
+    {
+      "q": "What happens when you roll 3 doubles in a row in Monopoly?",
+      "a": [
+        "Go to jail",
+        "Get paid $200",
+        "Pay $200",
+        "Move to Free Parking"
+      ]
+    },
+    {
+      "q": "Who was world chess champion between 1894 and 1921",
+      "a": [
+        "Emanuel Lasker",
+        "José Raúl Capablanca",
+        "Wilhelm Steinitz",
+        "Bobby Fischer"
+      ]
+    },
+    {
+      "q": "Which of the following tabletop games is the oldest?",
+      "a": [
+        "Go",
+        "Chess",
+        "Mahjong",
+        "Shogi"
+      ]
+    },
+    {
+      "q": "Which of the following characters is not in the board game Clue?",
+      "a": [
+        "Mister Indigo",
+        "Colonel Mustard",
+        "Reverend Green",
+        "Miss Scarlet"
+      ]
+    },
+    {
+      "q": "In \"Magic: The Gathering\", what instant card has the highest converted mana cost?",
+      "a": [
+        "Blinkmoth Infusion",
+        "Vitalizing Wind",
+        "Chant of Vitu-Ghazi",
+        "Assert Authority"
+      ]
+    },
+    {
+      "q": "The board game, Nightmare was released in what year?",
+      "a": [
+        "1991",
+        "1992",
+        "1989",
+        "1995"
+      ]
+    },
+    {
+      "q": "Who was the first official world chess champion?",
+      "a": [
+        "Wilhelm Steinitz",
+        "José Raúl Capablanca",
+        "Emanuel Lasker",
+        "Bobby Fischer"
+      ]
+    },
+    {
+      "q": "In what year was the card game Magic: the Gathering first introduced?",
+      "a": [
+        "1993",
+        "1987",
+        "1998",
+        "2003"
+      ]
+    },
+    {
+      "q": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+      "a": [
+        "Overlay at least 2 Monsters of the Same Level",
+        "Activate a Spell and Send Monsters to the Graveyard",
+        "Add the Monsters' Levels Together to Match the Xyz Monster",
+        "Banish A Number of Monsters From Your Hand And Deck"
+      ]
+    },
+    {
+      "q": "Europa Universalis is a strategy video game based on which French board game?",
+      "a": [
+        "Europa Universalis",
+        "Europe and the Universe",
+        "Europa!",
+        "Power in Europe"
+      ]
+    }
+  ]
+}

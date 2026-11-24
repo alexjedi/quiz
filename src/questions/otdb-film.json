@@ -902,6 +902,951 @@
         "Burkina Faso",
         "Central African Republic"
       ]
+    },
+    {
+      "q": "Which actors made up the trio in \"The Good, the Bad, and the Ugly\"?",
+      "a": [
+        "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+        "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+        "Yul Brynner, Steve McQueen, and Charles Bronson",
+        "Aldo Giuffrè, Mario Brega, and Luigi Pistilli"
+      ]
+    },
+    {
+      "q": "What was the first movie to ever use a Wilhelm Scream?",
+      "a": [
+        "Distant Drums",
+        "Treasure of the Sierra Madre",
+        "The Charge at Feather River",
+        "Indiana Jones"
+      ]
+    },
+    {
+      "q": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie \"Avatar\"?",
+      "a": [
+        "Sigourney Weaver",
+        "Jessica Chastain",
+        "Melissa Beckett",
+        "Alyssa Monroe"
+      ]
+    },
+    {
+      "q": "In what year was the first Indian movie submitted for an Oscar?",
+      "a": [
+        "1957",
+        "1962",
+        "1938",
+        "1954"
+      ]
+    },
+    {
+      "q": "What is the species of the \"Predator\" in the 1987 movie \"Predator\"?",
+      "a": [
+        "Yautja",
+        "Xenomorph",
+        "Praetorian",
+        "Phocrex"
+      ]
+    },
+    {
+      "q": "What three movies, in order from release date, make up the \"Dollars Trilogy\"?",
+      "a": [
+        "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+        "\"The Good, the Bad, and the Ugly\", \"For A Few Dollars More\", \"A Fistful of Dollars\"",
+        "\"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\", \"A Fistful of Dollars\"",
+        "\"For a Few Dollars More\", \"A Fistful of Dollars\", \"The Good, the Bad, and the Ugly\""
+      ]
+    },
+    {
+      "q": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
+      "a": [
+        "Verdi",
+        "Mozart",
+        "Berlioz",
+        "Brahms"
+      ]
+    },
+    {
+      "q": "What is the name of the supercomputer located in the control room in \"Jurassic Park\" (1993)?",
+      "a": [
+        "Thinking Machines CM-5",
+        "Cray X-MP",
+        "Cray XK7",
+        "IBM Blue Gene/Q"
+      ]
+    },
+    {
+      "q": "In the Friday The 13th series, what year did Jason drown in?",
+      "a": [
+        "1957",
+        "1955",
+        "1953",
+        "1959"
+      ]
+    },
+    {
+      "q": "Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?",
+      "a": [
+        "Elvis Presley",
+        "Johnny Cash",
+        "Hank Williams, Sr.",
+        "Buddy Holly"
+      ]
+    },
+    {
+      "q": "In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
+      "a": [
+        "4",
+        "2",
+        "6",
+        "1"
+      ]
+    },
+    {
+      "q": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+      "a": [
+        "Gunnar Hansen",
+        "Edwin Neal",
+        "John Dugan",
+        "Joe Bill Hogan"
+      ]
+    },
+    {
+      "q": "In \"Star Trek Nemesis\", why was Praetor Shinzon created?",
+      "a": [
+        "To replace Picard as a Romulan Agent",
+        "To destroy the Enterprise",
+        "To become Picard's friend",
+        "To steal the Enterprise"
+      ]
+    },
+    {
+      "q": "Who Voices the Devil on Devil's Flight in Final Destination 3?",
+      "a": [
+        "Tony Todd",
+        "Wendy Christensen",
+        "Ian McKinley",
+        "Kevin Fischer"
+      ]
+    },
+    {
+      "q": "Before \"Jurassic Park III\" was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",
+      "a": [
+        "Baryonyx",
+        "Tyrannosaurus Rex",
+        "Velociraptor",
+        "Suchomimus"
+      ]
+    },
+    {
+      "q": "What was the wifi password given to Stephen Strange in Doctor Strange?",
+      "a": [
+        "Shambala",
+        "Peace",
+        "Ancient",
+        "Chakra"
+      ]
+    },
+    {
+      "q": "In what year does Jurassic World open in the \"Jurassic Park\" universe?",
+      "a": [
+        "2005",
+        "2007",
+        "2015",
+        "2020"
+      ]
+    },
+    {
+      "q": "What did Alfred Hitchcock use as blood in the film \"Psycho\"?",
+      "a": [
+        "Chocolate syrup",
+        "Ketchup",
+        "Red food coloring",
+        "Maple syrup"
+      ]
+    },
+    {
+      "q": "In the film \"Harry Potter and the Order of The Phoenix\", why was Harry Potter's scream, after Sirius Black died, muted?",
+      "a": [
+        "Too Agonizing",
+        "Too Loud",
+        "Too Harsh",
+        "Too Violent"
+      ]
+    },
+    {
+      "q": "What was the name of the planet in \"Aliens\"?",
+      "a": [
+        "LV-426",
+        "Weyland Yutani Corporation Base",
+        "FR-838",
+        "DI-621"
+      ]
+    },
+    {
+      "q": "In the movie \"Scream\" who is Ghost Face?",
+      "a": [
+        "Billy Loomis and Stu Macher",
+        "Dewey Riley",
+        "Sidney Prescott",
+        "Archie Prescott and Philip Marv"
+      ]
+    },
+    {
+      "q": "What is the name of the assassin in the first \"Hellboy\" movie?",
+      "a": [
+        "Karl Ruprecht Kroenen",
+        "Klaus Werner von Krupt",
+        "Grigori Efimovich Rasputin",
+        "Ilsa Haupstein"
+      ]
+    },
+    {
+      "q": "Which movie did NOT feature the late actor John Candy?",
+      "a": [
+        "Ghostbusters",
+        "Little Shop Of Horrors",
+        "Home Alone",
+        "Planes Trains and Automobiles"
+      ]
+    },
+    {
+      "q": "According to \"Star Wars\" lore, which planet does Obi-Wan Kenobi come from?",
+      "a": [
+        "Stewjon",
+        "Alderaan",
+        "Tatooine",
+        "Naboo"
+      ]
+    },
+    {
+      "q": "Which one of these films did David Lynch direct, but not write?",
+      "a": [
+        "The Straight Story",
+        "Inland Empire",
+        "Lost Highway",
+        "Twin Peaks Fire Walk With Me"
+      ]
+    },
+    {
+      "q": "In what Disney movie can you spot the character \"Pac-Man\" in if you look closely enough in some scenes?",
+      "a": [
+        "Tron",
+        "Big Hero 6",
+        "Fantasia",
+        "Monsters, Inc."
+      ]
+    },
+    {
+      "q": "In the film \"Interstellar\", how long did they spend on Miller's planet?",
+      "a": [
+        "23 years, 4 months, and 8 days",
+        "15 years, 2 months, and 15 days",
+        "10 months and 6 days",
+        "26 years, 4 months, and 10 days"
+      ]
+    },
+    {
+      "q": "What is the name of the character Nicolas Cage plays in the movie \"National Treasure?\"",
+      "a": [
+        "Benjamin Franklin Gates",
+        "Thomas Jefferson Walker",
+        "George Washington Swanson",
+        "John Quincy Beckett"
+      ]
+    },
+    {
+      "q": "In the 1979 British film \"Quadrophenia\" what is the name of the main protagonist?",
+      "a": [
+        "Jimmy Cooper",
+        "Pete Townshend",
+        "Franc Roddam",
+        "Archie Bunker"
+      ]
+    },
+    {
+      "q": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+      "a": [
+        "October 21, 2015",
+        "August 28, 2015",
+        "July 20, 2015",
+        "January 25, 2015"
+      ]
+    },
+    {
+      "q": "What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?",
+      "a": [
+        "Custard and Raspberry Sauce",
+        "Strawberry Ice Cream",
+        "Cherry Yogurt",
+        "Raspberry Sorbet"
+      ]
+    },
+    {
+      "q": "What is the name of the dog that played Toto in the 1939 film \"The Wizard of Oz\"?",
+      "a": [
+        "Terry",
+        "Tommy",
+        "Teddy",
+        "Toto"
+      ]
+    },
+    {
+      "q": "What year did the movie \"Napoleon Dynamite\" come out?",
+      "a": [
+        "2004",
+        "2002",
+        "2003",
+        "2005"
+      ]
+    },
+    {
+      "q": "Which musical artist had a prominent role in the 2017 film \"Kingsman: The Golden Circle\"?",
+      "a": [
+        "Elton John",
+        "Lady Gaga",
+        "Rihanna",
+        "Justin Bieber"
+      ]
+    },
+    {
+      "q": "What mutated animals act as monsters in the movie 'Night of the Lepus'?",
+      "a": [
+        "Rabbits",
+        "Dogs",
+        "Rats",
+        "Bats"
+      ]
+    },
+    {
+      "q": "In the 1994 movie \"Speed\", what is the minimum speed the bus must go to prevent to bomb from exploding?",
+      "a": [
+        "50 mph",
+        "60 mph",
+        "40 mph",
+        "70 mph"
+      ]
+    },
+    {
+      "q": "Who played Batman in the 1997 film \"Batman and Robin\"?",
+      "a": [
+        "George Clooney",
+        "Michael Keaton",
+        "Val Kilmer",
+        "Christian Bale"
+      ]
+    },
+    {
+      "q": "What is the name of the Artificial Intelligence system in the 1983 film, \"WarGames\"?",
+      "a": [
+        "War Operation Plan Response",
+        "Self Evolving Thought Helix",
+        "Master Control Program",
+        "West Campus Analog Computer"
+      ]
+    },
+    {
+      "q": "In Mulan (1998), who is the leader of the Huns?",
+      "a": [
+        "Shan Yu",
+        "Chien-Po",
+        "Li Shang",
+        "Fa Zhou"
+      ]
+    },
+    {
+      "q": "In \"Jurassic World\", which company purchases InGen and creates Jurassic World?",
+      "a": [
+        "Masrani Global Corporation",
+        "Biology Synthetics Technologies",
+        "International Genetics Incorporated",
+        "International Genetic Technologies"
+      ]
+    },
+    {
+      "q": "Who played the Cenobite called \"Pinhead\" in the original Hellraiser films?",
+      "a": [
+        "Doug Bradley",
+        "Doug Jones",
+        "Doug Savant",
+        "Doug Benson"
+      ]
+    },
+    {
+      "q": "What is the correct phrase for the Latin saying \"Romanes Eunt Domus\" in Monty Python's Life of Brian?",
+      "a": [
+        "Romani Ite Domum",
+        "Romans Go Home",
+        "Roxani Ite Domum",
+        "Tomate Ite Domum"
+      ]
+    },
+    {
+      "q": "About how much money did it cost for Tommy Wiseau to make his masterpiece \"The Room\" (2003)?",
+      "a": [
+        "$6 Million",
+        "$20,000",
+        "$1 Million",
+        "$10 Million"
+      ]
+    },
+    {
+      "q": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+      "a": [
+        "Atreyu",
+        "Atrayu",
+        "Atraiyu",
+        "Atraeyu"
+      ]
+    },
+    {
+      "q": "In \"The Hobbit,\" who was head of the White Council?",
+      "a": [
+        "Saruman",
+        "Lady Galadriel",
+        "Gandalf",
+        "Elrond"
+      ]
+    },
+    {
+      "q": "Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film \"Beyond the Sea\"?",
+      "a": [
+        "Bobby Darin",
+        "Louis Armstrong",
+        "Frank Sinatra",
+        "Dean Martin"
+      ]
+    },
+    {
+      "q": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+      "a": [
+        "Animalympics",
+        "The Fox and the Hound",
+        "The Black Cauldron",
+        "The Great Mouse Detecive"
+      ]
+    },
+    {
+      "q": "What is the name of James Dean's character in the 1955 movie \"Rebel Without a Cause\"?",
+      "a": [
+        "Jim Stark",
+        "Ned Stark",
+        "Jim Kane",
+        "Frank Stark"
+      ]
+    },
+    {
+      "q": "What is Lilo's last name from Lilo and Stitch?",
+      "a": [
+        "Pelekai",
+        "Anoaʻi",
+        "Kealoha",
+        "Kuʻulei"
+      ]
+    },
+    {
+      "q": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+      "a": [
+        "Leonard Nimoy",
+        "William Shatner",
+        "George Takei",
+        "James Doohan"
+      ]
+    },
+    {
+      "q": "What city did the monster attack in the film, \"Cloverfield\"?",
+      "a": [
+        "New York, New York",
+        "Las Vegas, Nevada",
+        "Chicago, Illinois",
+        "Orlando, Florida"
+      ]
+    },
+    {
+      "q": "In Finding Nemo, what was the name of Nemo's mom?",
+      "a": [
+        "Coral",
+        "Sandy",
+        "Pearl",
+        "Shelly"
+      ]
+    },
+    {
+      "q": "Which actor auditioned for the role of Luke Skywalker?",
+      "a": [
+        "Kurt Russell",
+        "Christopher Lambert",
+        "Laurence Fishburne",
+        "James Remar"
+      ]
+    },
+    {
+      "q": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
+      "a": [
+        "Titanic",
+        "Star Wars",
+        "Gone with the Wind",
+        "Jaws"
+      ]
+    },
+    {
+      "q": "Which director directed the movie \"Pan's Labyrinth\"?",
+      "a": [
+        "Guillermo Del Toro",
+        "Alfonso Cuarón",
+        "Alejandro González Iñárritu",
+        "Alejandro Jodorowsky"
+      ]
+    },
+    {
+      "q": "What is the birth name of Michael Keaton?",
+      "a": [
+        "Michael Douglas",
+        "Michael Fox",
+        "Michael Richards",
+        "Michael Kane"
+      ]
+    },
+    {
+      "q": "In the movie “The Iron Giant,” this character is the protagonist.",
+      "a": [
+        "Hogarth Hughes",
+        "Kent Mansley",
+        "Dean McCoppin",
+        "Annie Hughes"
+      ]
+    },
+    {
+      "q": "Who did the score to the original Blade Runner?",
+      "a": [
+        "Vangelis",
+        "Kitaro",
+        "Yanni",
+        "Enya"
+      ]
+    },
+    {
+      "q": "Which of the following movies was not based on a book?",
+      "a": [
+        "Citizen Kane",
+        "The Godfather",
+        "Forrest Gump",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "q": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+      "a": [
+        "Jean-Claude Van Damme",
+        "Chuck Norris",
+        "Steven Seagal",
+        "Scott Adkins"
+      ]
+    },
+    {
+      "q": "In the 2002 film \"Kung Pow! Enter the Fist\", why was Wimp Lo purposely trained wrong?",
+      "a": [
+        "As a joke",
+        "For cheating",
+        "Revenge",
+        "To test him"
+      ]
+    },
+    {
+      "q": "Peter Jackson's film series \"The Lord of the Rings\" was shot entirely in which country?",
+      "a": [
+        "New Zealand",
+        "Scotland",
+        "Canada",
+        "Iceland"
+      ]
+    },
+    {
+      "q": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+      "a": [
+        "Chicago",
+        "Dreamgirls",
+        "Cabaret",
+        "All That Jazz"
+      ]
+    },
+    {
+      "q": "In the 1999 movie Fight Club, which of these is not a rule of the \"fight club\"?",
+      "a": [
+        "Always wear a shirt",
+        "You do not talk about FIGHT CLUB",
+        "Only two guys to a fight",
+        "Fights will go on as long as they have to"
+      ]
+    },
+    {
+      "q": "What was another suggested name for, the 1985 film, Back to the Future?",
+      "a": [
+        "Spaceman From Pluto",
+        "Hill Valley Time Travelers",
+        "The Time Travelers",
+        "The Lucky Man"
+      ]
+    },
+    {
+      "q": "Who directed the 1973 film \"American Graffiti\"?",
+      "a": [
+        "George Lucas",
+        "Ron Howard",
+        "Francis Ford Coppola",
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "q": "Who is the director of the 1991 film \"Silence of the Lambs\"?",
+      "a": [
+        "Jonathan Demme",
+        "Stanley Kubrick",
+        "Frank Darabont",
+        "Michael Bay"
+      ]
+    },
+    {
+      "q": "Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?",
+      "a": [
+        "a lawnmower",
+        "a revolver",
+        "a guitar",
+        "a suit"
+      ]
+    },
+    {
+      "q": "Who performed the opening theme song for the James Bond 007 movie \"Goldfinger\"?",
+      "a": [
+        "Shirley Basey",
+        "Tom Jones",
+        "John Barry",
+        "Sheena Easton"
+      ]
+    },
+    {
+      "q": "Who voices the main character Blu in the 2011 animated film \"Rio\"?",
+      "a": [
+        "Jesse Eisenberg",
+        "Michael Cera",
+        "Jonah Hill",
+        "Zach Galifianakis"
+      ]
+    },
+    {
+      "q": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+      "a": [
+        "Louis Theroux",
+        "Errol Morris",
+        "Joe Berlinger",
+        "Adam Curtis"
+      ]
+    },
+    {
+      "q": "Who is revealed to be the villain at the end of the first live action Scooby Doo movie?",
+      "a": [
+        "Scrappy Doo",
+        "Old Man Mason",
+        "The Local News Team",
+        "Fred"
+      ]
+    },
+    {
+      "q": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+      "a": [
+        "Westworld",
+        "Runaway",
+        "Android",
+        "The Terminators"
+      ]
+    },
+    {
+      "q": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+      "a": [
+        "Human Torch",
+        "Cyclops",
+        "Iceman",
+        "Daredevil"
+      ]
+    },
+    {
+      "q": "In which 1955 film does Frank Sinatra play Nathan Detroit?",
+      "a": [
+        "Guys and Dolls",
+        "Anchors Aweigh",
+        "From Here to Eternity",
+        "High Society"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a quote from the 1942 film Casablanca?",
+      "a": [
+        "\"Frankly, my dear, I don't give a damn.\"",
+        "\"Here's lookin' at you, kid.\"",
+        "“Of all the gin joints, in all the towns, in all the world, she walks into mine…”",
+        "\"Round up the usual suspects.\""
+      ]
+    },
+    {
+      "q": "Who plays the Nemesis in the Resident Evil movies?",
+      "a": [
+        "Matthew Taylor",
+        "Jason Dip",
+        "Eric Mabius",
+        "Jimmy Matts"
+      ]
+    },
+    {
+      "q": "What was Marilyn Monroe`s character's first name in the film \"Some Like It Hot\"?",
+      "a": [
+        "Sugar",
+        "Honey",
+        "Caramel",
+        "Candy"
+      ]
+    },
+    {
+      "q": "In the 2002 film \"Kung Pow! Enter the Fist\", Master Pain changes his name to what?",
+      "a": [
+        "Betty",
+        "Sally",
+        "Amy",
+        "Kitty"
+      ]
+    },
+    {
+      "q": "Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",
+      "a": [
+        "The Muppets Take Manhattan",
+        "The Great Muppet Caper",
+        "The Muppet Christmas Carol",
+        "The Muppet Movie"
+      ]
+    },
+    {
+      "q": "Which one of these films are shot entirely in one-take?",
+      "a": [
+        "Russian Ark",
+        "Good Will Hunting",
+        "Birdman",
+        "Schindler's List"
+      ]
+    },
+    {
+      "q": "Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?",
+      "a": [
+        "Harrison Ford",
+        "Michael J. Fox",
+        "Andy Kaufman",
+        "Arnold Schwarzenegger"
+      ]
+    },
+    {
+      "q": "Which star actor was in \"Top Gun\", \"Jerry Maguire\" and \"Born on the Fourth of July\"?",
+      "a": [
+        "Tom Cruise",
+        "Kelly McGillis",
+        "John Travolta",
+        "George Clooney"
+      ]
+    },
+    {
+      "q": "What does TIE stand for in reference to the TIE Fighter in \"Star Wars\"?",
+      "a": [
+        "Twin Ion Engine",
+        "Twin Iron Engine",
+        "Twin Intercepter Engine",
+        "Twin Inception Engine"
+      ]
+    },
+    {
+      "q": "Which stand-up comedian voiced the talking parrot \"Iago\" in Disney's 1992 adaptation of Aladdin?",
+      "a": [
+        "Gilbert Gottfried",
+        "Robin Williams",
+        "Pauly Shore",
+        "Jonathan Freeman"
+      ]
+    },
+    {
+      "q": "Which actor plays the character \"Tommy Jarvis\" in \"Friday the 13th: The Final Chapter\" (1984)?",
+      "a": [
+        "Corey Feldman",
+        "Macaulay Culkin",
+        "Mel Gibson",
+        "Mark Hamill"
+      ]
+    },
+    {
+      "q": "In the Friday The 13th series, what is Jason's mother's first name?",
+      "a": [
+        "Pamela",
+        "Mary",
+        "Christine",
+        "Angeline"
+      ]
+    },
+    {
+      "q": "Which actor plays the role of the main antagonist in the 2011 movie \"Tower Heist?\"",
+      "a": [
+        "Alan Alda",
+        "Eddie Murphy",
+        "Alec Baldwin",
+        "Kevin Nealon"
+      ]
+    },
+    {
+      "q": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+      "a": [
+        "Jackie Earle Haley",
+        "Tyler Mane",
+        "Derek Mears",
+        "Gunnar Hansen"
+      ]
+    },
+    {
+      "q": "Who voiced the character Draco in the 1996 movie 'DragonHeart'?",
+      "a": [
+        "Sean Connery",
+        "Dennis Quaid",
+        "Pete Postlethwaite",
+        "Brian Thompson"
+      ]
+    },
+    {
+      "q": "Which movie sequel had improved box office results compared to its original film?",
+      "a": [
+        "Toy Story 2",
+        "Sin City: A Dame to Kill For",
+        "Speed 2: Cruise Control",
+        "Son of the Mask"
+      ]
+    },
+    {
+      "q": "What is the make and model of the tour vehicles in \"Jurassic Park\" (1993)?",
+      "a": [
+        "1992 Ford Explorer XLT",
+        "1992 Toyota Land Cruiser",
+        "1992 Jeep Wrangler YJ Sahar",
+        "Mercedes M-Class"
+      ]
+    },
+    {
+      "q": "In the film \"John Wick\" why does John Wick get out of retirement?",
+      "a": [
+        "His puppy is killed and his car was stolen",
+        "He was punched in the face",
+        "He got mugged",
+        "He needed money"
+      ]
+    },
+    {
+      "q": "Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?",
+      "a": [
+        "Fantastic Four (2015)",
+        "Spider-Man: Homecoming (2017)",
+        "The Incredible Hulk (2008)",
+        "Captain Marvel (2019)"
+      ]
+    },
+    {
+      "q": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+      "a": [
+        "The Vikings",
+        "The Long Ships",
+        "Prince Valiant",
+        "Spartacus"
+      ]
+    },
+    {
+      "q": "After India, which country produces the second most movies per year?",
+      "a": [
+        "Nigeria",
+        "United States",
+        "China",
+        "France"
+      ]
+    },
+    {
+      "q": "Who plays \"Bruce Wayne\" in the 2008 movie \"The Dark Knight\"?",
+      "a": [
+        "Christian Bale",
+        "Michael Caine",
+        "Ron Dean",
+        "Heath Ledger"
+      ]
+    },
+    {
+      "q": "In the 1971 film \"Willy Wonka & the Chocolate Factory\", who played Willy Wonka?",
+      "a": [
+        "Gene Wilder",
+        "Shia LeBouf",
+        "Peter Ostrum",
+        "Johnny Depp"
+      ]
+    },
+    {
+      "q": "In the \"Jurassic Park\" universe, what is the name of the island that contains InGen's Site B?",
+      "a": [
+        "Isla Sorna",
+        "Isla Nublar",
+        "Isla Pena",
+        "Isla Muerta"
+      ]
+    },
+    {
+      "q": "In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",
+      "a": [
+        "Ford Falcon",
+        "Holden Monaro",
+        "Chrysler Valiant Charger",
+        "Pontiac Firebird"
+      ]
+    },
+    {
+      "q": "What year did the James Cameron film \"Titanic\" come out in theaters?",
+      "a": [
+        "1997",
+        "1996",
+        "1998",
+        "1999"
+      ]
+    },
+    {
+      "q": "What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",
+      "a": [
+        "Wensleydale",
+        "Cheddar",
+        "Moon Cheese",
+        "Edam"
+      ]
+    },
+    {
+      "q": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie \"Hardcore Henry\"?",
+      "a": [
+        "Akan",
+        "Estelle",
+        "Jimmy",
+        "Henry"
+      ]
+    },
+    {
+      "q": "Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+      "a": [
+        "Wayne's World",
+        "Bill & Ted's Excellent Adventure",
+        "Dumb and Dumber",
+        "Austin Powers: International Man of Mystery"
+      ]
+    },
+    {
+      "q": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+      "a": [
+        "Steve Buscemi",
+        "Kevin Spacey",
+        "Benicio Del Toro",
+        "Gabriel Byrne"
+      ]
     }
   ]
 }

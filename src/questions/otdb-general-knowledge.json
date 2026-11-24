@@ -1,0 +1,1357 @@
+{
+  "id": "otdb-general-knowledge",
+  "title": "General Knowledge",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+      "a": [
+        "The Shatter's",
+        "Snake Pit",
+        "The Tomb of the Acient's",
+        "The Puppet Master's Theater"
+      ]
+    },
+    {
+      "q": "When was \"YouTube\" founded?",
+      "a": [
+        "February 14, 2005",
+        "May 22, 2004",
+        "September 12, 2005",
+        "July 19, 2009"
+      ]
+    },
+    {
+      "q": "What was Bank of America originally established as?",
+      "a": [
+        "Bank of Italy",
+        "Bank of Long Island",
+        "Bank of Pennsylvania",
+        "Bank of Charlotte"
+      ]
+    },
+    {
+      "q": "Going by the International Code of Signals, which single flag is interpreted as \"I require assistance (not distress)\"?",
+      "a": [
+        "Victor",
+        "Kilo",
+        "Papa",
+        "Delta"
+      ]
+    },
+    {
+      "q": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+      "a": [
+        "1 Month",
+        "3 Weeks",
+        "1 Week",
+        "2 Months"
+      ]
+    },
+    {
+      "q": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+      "a": [
+        "35 Pounds",
+        "30 Pounds",
+        "40 Pounds",
+        "32.50 Pounds"
+      ]
+    },
+    {
+      "q": "What is the romanized Arabic word for \"moon\"?",
+      "a": [
+        "Qamar",
+        "Najma",
+        "Kawkab",
+        "Shams"
+      ]
+    },
+    {
+      "q": "If someone said \"you are olid\", what would they mean?",
+      "a": [
+        "You smell extremely unpleasant.",
+        "You are out of shape/weak.",
+        "Your appearance is repulsive.",
+        "You are incomprehensible/an idiot."
+      ]
+    },
+    {
+      "q": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song \"Shelter\"?",
+      "a": [
+        "Madeon",
+        "Mat Zo",
+        "deadmau5",
+        "Zedd"
+      ]
+    },
+    {
+      "q": "The word \"abulia\" means which of the following?",
+      "a": [
+        "The inability to make decisions",
+        "The inability to stand up",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one's clothes off"
+      ]
+    },
+    {
+      "q": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
+      "a": [
+        "Copper",
+        "Iron",
+        "Nickel",
+        "Silver"
+      ]
+    },
+    {
+      "q": "The Quadrangularis Reversum is best described as which of the following?",
+      "a": [
+        "A percussion instrument",
+        "A building in Oxford University",
+        "A chess move",
+        "A geometric theorem"
+      ]
+    },
+    {
+      "q": "In \"Resident Evil 3\", how many inventory slots does Jill have at the start of the game?",
+      "a": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "q": "Nephelococcygia is the practice of doing what?",
+      "a": [
+        "Finding shapes in clouds",
+        "Sleeping with your eyes open",
+        "Breaking glass with your voice",
+        "Swimming in freezing water"
+      ]
+    },
+    {
+      "q": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+      "a": [
+        "OCBC",
+        "HSBC",
+        "Standard Chartered",
+        "Bank of China"
+      ]
+    },
+    {
+      "q": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+      "a": [
+        "Harry",
+        "Gus",
+        "Phineas",
+        "Ezra"
+      ]
+    },
+    {
+      "q": "Xanthophobia is the fear of what color?",
+      "a": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    },
+    {
+      "q": "What is the airspeed velocity of an unladen swallow?",
+      "a": [
+        "24 MPH",
+        "15 MPH",
+        "20 MPH",
+        "200 MPH"
+      ]
+    },
+    {
+      "q": "In the fictional SCP universe what “Object Class” is given to SCP’s that cannot be contained.",
+      "a": [
+        "Apollyon",
+        "Thaumiel",
+        "Keter-Thaumiel",
+        "Esoteric/Narrative Classes"
+      ]
+    },
+    {
+      "q": "What is the name of the currency used in Ethiopia?",
+      "a": [
+        "Birr",
+        "Dirham",
+        "U.S. Dollar",
+        "Rand"
+      ]
+    },
+    {
+      "q": "Where is Apple Inc. headquartered?",
+      "a": [
+        "Cupertino, California",
+        "Redwood City, California",
+        "Redmond, Washington",
+        "Santa Monica, CA"
+      ]
+    },
+    {
+      "q": "What is the romanized Chinese word for \"airplane\"?",
+      "a": [
+        "Feiji",
+        "Qiche",
+        "Zongxian",
+        "Huojian"
+      ]
+    },
+    {
+      "q": "Which of these cities does NOT have a United States Minting location?",
+      "a": [
+        "St. Louis, MO",
+        "San Fransisco, CA",
+        "Philidelphia, PA",
+        "West Point, NY"
+      ]
+    },
+    {
+      "q": "This Ghanaian entrepreneur is a pioneer of microlending.",
+      "a": [
+        "Esther Afua Ocloo",
+        "Farida Bedwei",
+        "Ama Ata Aido",
+        "Sionne Neely"
+      ]
+    },
+    {
+      "q": "What is the longest bridge in the world?",
+      "a": [
+        "Danyang–Kunshan Grand Bridge, China",
+        "Lake Pontchartrain Causeway, United States",
+        "King Fahd Causeway Bridge I, Saudi Arabia",
+        "Sultan Abdul Halim Muadzam Shah Bridge, Malaysia"
+      ]
+    },
+    {
+      "q": "The Swedish word \"Grunka\" means what in English?",
+      "a": [
+        "Thing",
+        "People",
+        "Place",
+        "Pineapple"
+      ]
+    },
+    {
+      "q": "The Panama Canal was officially opened by which US president?",
+      "a": [
+        "Woodrow Wilson",
+        "Calvin Coolidge",
+        "Herbert Hoover",
+        "Theodore Roosevelt"
+      ]
+    },
+    {
+      "q": "If you planted the seeds of Quercus robur, what would grow?",
+      "a": [
+        "Trees",
+        "Grains",
+        "Vegetables",
+        "Flowers"
+      ]
+    },
+    {
+      "q": "What year was the RoboSapien toy robot released?",
+      "a": [
+        "2004",
+        "2000",
+        "2001",
+        "2006"
+      ]
+    },
+    {
+      "q": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+      "a": [
+        "Ed Sheeran - I See Fire",
+        "Marvin Gaye - Sexual Healing",
+        "Coldplay - Midnight",
+        "a-ha - Take On Me"
+      ]
+    },
+    {
+      "q": "In \"Battle Cats\", what is Moneko / MISS Moneko's critical percentage rate?",
+      "a": [
+        "15%",
+        "20%",
+        "10%",
+        "25%"
+      ]
+    },
+    {
+      "q": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+      "a": [
+        "Andrew Scott Reisse",
+        "Nate Mitchell",
+        "Jack McCauley",
+        "Palmer Luckey"
+      ]
+    },
+    {
+      "q": "What does the Latin phrase \"Veni, vidi, vici\" translate into English?",
+      "a": [
+        "I came, I saw, I conquered",
+        "See no evil, hear no evil, speak no evil",
+        "Life, liberty, and happiness",
+        "Past, present, and future"
+      ]
+    },
+    {
+      "q": "Which of these anatomical terms refers to the tail end of the creature?",
+      "a": [
+        "Caudal",
+        "Ventral",
+        "Proximal",
+        "Coronal"
+      ]
+    },
+    {
+      "q": "To which language family does Kazakh belong?",
+      "a": [
+        "Turkic",
+        "Mongolic",
+        "Indo-European",
+        "Uralic"
+      ]
+    },
+    {
+      "q": "What was the third country to have a McDonald's restaurant?",
+      "a": [
+        "Costa Rica",
+        "Japan",
+        "France",
+        "Australia"
+      ]
+    },
+    {
+      "q": "The words \"bungalow\" and \"shampoo\" originate from the languages of which country?",
+      "a": [
+        "India",
+        "Papua New Guinea",
+        "Ethiopia",
+        "China"
+      ]
+    },
+    {
+      "q": "Before the 19th Century, the \"Living Room\" was originally called the...",
+      "a": [
+        "Parlor",
+        "Open Room",
+        "Sitting Room",
+        "Loft"
+      ]
+    },
+    {
+      "q": "Which of the following is an existing family in \"The Sims\"?",
+      "a": [
+        "The Goth Family",
+        "The Family",
+        "The Simoleon Family",
+        "The Proud Family"
+      ]
+    },
+    {
+      "q": "Chartreuse is a color between yellow and what?",
+      "a": [
+        "Green",
+        "Red",
+        "Black",
+        "Purple"
+      ]
+    },
+    {
+      "q": "Originally another word for poppy, coquelicot is a shade of what?",
+      "a": [
+        "Red",
+        "Green",
+        "Blue",
+        "Pink"
+      ]
+    },
+    {
+      "q": "Which one of these Swedish companies was founded in 1943?",
+      "a": [
+        "IKEA",
+        "H & M",
+        "Lindex",
+        "Clas Ohlson"
+      ]
+    },
+    {
+      "q": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+      "a": [
+        "Length",
+        "Quality",
+        "Relation",
+        "Manner"
+      ]
+    },
+    {
+      "q": "Which of these Indian languages is not part of the Indo-European language family?",
+      "a": [
+        "Tamil",
+        "Hindi",
+        "Punjabi",
+        "Urdu"
+      ]
+    },
+    {
+      "q": "Which of the following is not another name for the eggplant?",
+      "a": [
+        "Potimarron",
+        "Brinjal",
+        "Guinea Squash",
+        "Melongene"
+      ]
+    },
+    {
+      "q": "The word \"astasia\" means which of the following?",
+      "a": [
+        "The inability to stand up",
+        "The inability to make decisions",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one's clothes off"
+      ]
+    },
+    {
+      "q": "What is the most commonly used noun in the English language?",
+      "a": [
+        "Time",
+        "Home",
+        "Water",
+        "Man"
+      ]
+    },
+    {
+      "q": "How many notes are there on a standard grand piano?",
+      "a": [
+        "88",
+        "98",
+        "108",
+        "78"
+      ]
+    },
+    {
+      "q": "What year was Queen Elizabeth II born?",
+      "a": [
+        "1926",
+        "1923",
+        "1929",
+        "1930"
+      ]
+    },
+    {
+      "q": "\"Nephelococcygia\" is the practice of doing what?",
+      "a": [
+        "Finding shapes in clouds",
+        "Sleeping with your eyes open",
+        "Breaking glass with your voice",
+        "Swimming in freezing water"
+      ]
+    },
+    {
+      "q": "Which of the following languages does NOT use gender as a part of its grammar?",
+      "a": [
+        "Turkish",
+        "German",
+        "Danish",
+        "Polish"
+      ]
+    },
+    {
+      "q": "Roughly how many ingested apple seeds would it take to receive a fatal dose of cyanide?",
+      "a": [
+        "200",
+        "20",
+        "2,000",
+        "20,000"
+      ]
+    },
+    {
+      "q": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+      "a": [
+        "Center Parcs",
+        "Yelloh Village",
+        "Keycamp",
+        "Villa Plus"
+      ]
+    },
+    {
+      "q": "Who founded the Khan Academy?",
+      "a": [
+        "Sal Khan",
+        "Ben Khan",
+        "Kitt Khan",
+        "Adel Khan"
+      ]
+    },
+    {
+      "q": "In flight systems, what does the initialism \"TCAS\" stand for?",
+      "a": [
+        "Traffic Collision Avoidance System",
+        "Traffic Communication Alert System",
+        "Traffic Configuration Alignment System",
+        "Traffic Call-sign Abbreviation System"
+      ]
+    },
+    {
+      "q": "Which film star has his statue in Leicester Square?",
+      "a": [
+        "Charlie Chaplin",
+        "Paul Newman",
+        "Rowan Atkinson",
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "q": "Named after the mallow flower, mauve is a shade of what?",
+      "a": [
+        "Purple",
+        "Red",
+        "Brown",
+        "Pink"
+      ]
+    },
+    {
+      "q": "Sciophobia is the fear of what?",
+      "a": [
+        "Shadows",
+        "Eating",
+        "Bright lights",
+        "Transportation"
+      ]
+    },
+    {
+      "q": "Which product did Nokia, the telecommunications company, originally sell?",
+      "a": [
+        "Paper",
+        "Phones",
+        "Computers",
+        "Processors"
+      ]
+    },
+    {
+      "q": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "a": [
+        "150",
+        "200",
+        "100",
+        "155"
+      ]
+    },
+    {
+      "q": "Which church's interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+      "a": [
+        "St. Peter's Basilica",
+        "Catania Cathedral",
+        "St. Mark’s Basilica",
+        "The Duomo of Florence"
+      ]
+    },
+    {
+      "q": "Where in La Coruña (Spain) is the headquarters of \"Inditex\", the biggest fashion group in the world?",
+      "a": [
+        "Arteijo",
+        "Sanjenjo",
+        "Mugía",
+        "Órdenes"
+      ]
+    },
+    {
+      "q": "What type of dog is 'Handsome Dan', the mascot of Yale University?",
+      "a": [
+        "Bulldog",
+        "Yorkshire Terrier",
+        "Boxer",
+        "Pug"
+      ]
+    },
+    {
+      "q": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "a": [
+        "28%",
+        "13%",
+        "20%",
+        "7%"
+      ]
+    },
+    {
+      "q": "Which of the following chemicals are found in eggplant seeds?",
+      "a": [
+        "Nicotine",
+        "Mescaline",
+        "Cyanide",
+        "Psilocybin"
+      ]
+    },
+    {
+      "q": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+      "a": [
+        "7 years",
+        "2 years",
+        "8 years",
+        "6 months"
+      ]
+    },
+    {
+      "q": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+      "a": [
+        "Edward VIII",
+        "Victoria",
+        "George VI",
+        "Charles II"
+      ]
+    },
+    {
+      "q": "What is the romanized Korean word for \"heart\"?",
+      "a": [
+        "Simjang",
+        "Aejeong",
+        "Jeongsin",
+        "Segseu"
+      ]
+    },
+    {
+      "q": "The word \"aprosexia\" means which of the following?",
+      "a": [
+        "The inability to concentrate on anything",
+        "The inability to make decisions",
+        "A feverish desire to rip one's clothes off",
+        "The inability to stand up"
+      ]
+    },
+    {
+      "q": "Rolex is a company that specializes in what type of product?",
+      "a": [
+        "Watches",
+        "Cars",
+        "Computers",
+        "Sports equipment"
+      ]
+    },
+    {
+      "q": "What character was once considered to be the 27th letter of the alphabet?",
+      "a": [
+        "Ampersand",
+        "Interrobang",
+        "Tilde",
+        "Pilcrow"
+      ]
+    },
+    {
+      "q": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+      "a": [
+        "World War II",
+        "Vietnam War",
+        "American Civil War",
+        "American Revolutionary War"
+      ]
+    },
+    {
+      "q": "If a person's hair is described as 'Titian', what colour is it?",
+      "a": [
+        "Red",
+        "Blonde",
+        "Brunette",
+        "Black"
+      ]
+    },
+    {
+      "q": "What English word means to \"think deeply\"?",
+      "a": [
+        "Contemplate",
+        "Confiscate",
+        "Constipate",
+        "Condensate"
+      ]
+    },
+    {
+      "q": "What is a \"dakimakura\"?",
+      "a": [
+        "A body pillow",
+        "A Chinese meal, essentially composed of fish",
+        "A yoga posture",
+        "A word used to describe two people who truly love each other"
+      ]
+    },
+    {
+      "q": "This field is sometimes known as “The Dismal Science.”",
+      "a": [
+        "Economics",
+        "Philosophy",
+        "Politics",
+        "Physics"
+      ]
+    },
+    {
+      "q": "Which of these American singers and songwriters won a Nobel Prize in Literature?",
+      "a": [
+        "Bob Dylan",
+        "Buddy Holly",
+        "Johnny Cash",
+        "Alice Cooper"
+      ]
+    },
+    {
+      "q": "The website \"Shut Up & Sit Down\" reviews which form of media?",
+      "a": [
+        "Board Games",
+        "Television Shows",
+        "Video Games",
+        "Films"
+      ]
+    },
+    {
+      "q": "What year was the first Apple iPod introduced?",
+      "a": [
+        "2001",
+        "2000",
+        "1999",
+        "1998"
+      ]
+    },
+    {
+      "q": "In which country was the 1992 Summer Olympics Games held?",
+      "a": [
+        "Spain",
+        "Russia",
+        "Korea",
+        "USA"
+      ]
+    },
+    {
+      "q": "Who is the founder of \"The Lego Group\"?",
+      "a": [
+        "Ole Kirk Christiansen",
+        "Jens Niels Christiansen",
+        "Kirstine Christiansen",
+        "Gerhardt Kirk Christiansen"
+      ]
+    },
+    {
+      "q": "Which of these Nicktoons were NOT originally a short on Oh Yeah! Cartoons before becoming their own series?",
+      "a": [
+        "Danny Phantom",
+        "ChalkZone",
+        "My Life as a Teenage Robot",
+        "The Fairly OddParents"
+      ]
+    },
+    {
+      "q": "Which of the following correctly describes Japanese word order?",
+      "a": [
+        "Subject Object Verb",
+        "Subject Verb Object",
+        "Verb Subject Object",
+        "Verb Object Subject"
+      ]
+    },
+    {
+      "q": "A statue of Charles Darwin sits in what London museum?",
+      "a": [
+        "Natural History Museum",
+        "Tate",
+        "British Museum",
+        "Science Museum"
+      ]
+    },
+    {
+      "q": "Which mountain has the highest peak in Africa?",
+      "a": [
+        "Mount Kilimanjaro, Tanzania",
+        "Mount Kenya, Kenya",
+        "Mount Stanley, DR Congo/Uganda",
+        "Mount Speke, Uganda"
+      ]
+    },
+    {
+      "q": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+      "a": [
+        "Kilt",
+        "Skirt",
+        "Dress",
+        "Rhobes"
+      ]
+    },
+    {
+      "q": "Frank Lloyd Wright was the architect behind what famous building?",
+      "a": [
+        "The Guggenheim",
+        "Villa Savoye",
+        "Sydney Opera House",
+        "The Space Needle"
+      ]
+    },
+    {
+      "q": "When did the website \"Facebook\" launch?",
+      "a": [
+        "2004",
+        "2005",
+        "2003",
+        "2006"
+      ]
+    },
+    {
+      "q": "What is the romanized Japanese word for \"university\"?",
+      "a": [
+        "Daigaku",
+        "Toshokan",
+        "Jimusho",
+        "Shokudou"
+      ]
+    },
+    {
+      "q": "Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?",
+      "a": [
+        "282 feet",
+        "79 feet",
+        "1,640 feet",
+        "12,092 feet"
+      ]
+    },
+    {
+      "q": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a \"Guardians of the Galaxy\" themed ride?",
+      "a": [
+        "Twilight Zone Tower of Terror",
+        "The Haunted Mansion",
+        "Pirates of the Caribbean",
+        "Peter Pan's Flight"
+      ]
+    },
+    {
+      "q": "What are the three starter Pokemon available in Pokemon Black and White?",
+      "a": [
+        "Snivy, Tepig, Oshawott",
+        "Snivy, Fennekin, Froakie",
+        "Chespin, Tepig, Froakie",
+        "Chespin, Fennekin, Oshawott"
+      ]
+    },
+    {
+      "q": "When was Nintendo founded?",
+      "a": [
+        "September 23rd, 1889",
+        "October 19th, 1891",
+        "March 4th, 1887",
+        "December 27th, 1894"
+      ]
+    },
+    {
+      "q": "Which of the following carbonated soft drinks were introduced first?",
+      "a": [
+        "Dr. Pepper",
+        "Coca-Cola",
+        "Sprite",
+        "Mountain Dew"
+      ]
+    },
+    {
+      "q": "\"Gum arabic\" is a natural gum consisting of the hardened sap of which tree species?",
+      "a": [
+        "Acacia",
+        "Palm",
+        "Ficus",
+        "Eucalyptus"
+      ]
+    },
+    {
+      "q": "Which American manufactured submachine gun was informally known by the American soldiers that used it as \"Grease Gun\"?",
+      "a": [
+        "M3",
+        "Colt 9mm",
+        "Thompson",
+        "MAC-10"
+      ]
+    },
+    {
+      "q": "What is the real name of viral internet meme Grumpy Cat?",
+      "a": [
+        "Tardar Sauce",
+        "Lil Bub",
+        "Maru",
+        "Colonel Meow"
+      ]
+    },
+    {
+      "q": "Bob and Mike Bryan were well known brothers in which sport?",
+      "a": [
+        "Tennis",
+        "Basketball",
+        "Football",
+        "Baseball"
+      ]
+    },
+    {
+      "q": "What is the most-visited website out of these options?",
+      "a": [
+        "Google",
+        "YouTube",
+        "Facebook",
+        "Wikipedia"
+      ]
+    },
+    {
+      "q": "What is the largest rapid transit system in the world by number of stations, with 472 stations in operation?",
+      "a": [
+        "New York City Subway",
+        "Shanghai Metro",
+        "London Underground",
+        "Berlin U-Bahn"
+      ]
+    },
+    {
+      "q": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+      "a": [
+        "Petronas Twin Towers, Malaysia",
+        "Emirates Towers, United Arab Emirates",
+        "Huaguoyuan Towers, China",
+        "Palm Towers, Qatar"
+      ]
+    },
+    {
+      "q": "In a standard set of playing cards, which is the only king without a moustache?",
+      "a": [
+        "Hearts",
+        "Spades",
+        "Diamonds",
+        "Clubs"
+      ]
+    },
+    {
+      "q": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+      "a": [
+        "Modernism",
+        "Neoclassical",
+        "Baroque",
+        "Gothic Revival"
+      ]
+    },
+    {
+      "q": "What is the German word for \"spoon\"?",
+      "a": [
+        "Löffel",
+        "Gabel",
+        "Messer",
+        "Essstäbchen"
+      ]
+    },
+    {
+      "q": "What is the Italian word for \"tomato\"?",
+      "a": [
+        "Pomodoro",
+        "Aglio",
+        "Cipolla",
+        "Peperoncino"
+      ]
+    },
+    {
+      "q": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+      "a": [
+        "Shogun",
+        "Ninja",
+        "Samurai",
+        "Shinobi"
+      ]
+    },
+    {
+      "q": "When was the Declaration of Independence approved by the Second Continental Congress?",
+      "a": [
+        "July 4, 1776",
+        "May 4, 1776",
+        "June 4, 1776",
+        "July 2, 1776"
+      ]
+    },
+    {
+      "q": "Astraphobia is the irrational fear of what?",
+      "a": [
+        "Thunder",
+        "Rain",
+        "Wind",
+        "Snow"
+      ]
+    },
+    {
+      "q": "Which country drives on the left side of the road?",
+      "a": [
+        "Japan",
+        "Germany",
+        "Russia",
+        "China"
+      ]
+    },
+    {
+      "q": "Only 9% of US Households owned a television in",
+      "a": [
+        "1950",
+        "1965",
+        "1913",
+        "1969"
+      ]
+    },
+    {
+      "q": "Coleslaw originated from which European country?",
+      "a": [
+        "The Netherlands",
+        "United Kingdom",
+        "Denmark",
+        "Germany"
+      ]
+    },
+    {
+      "q": "What direction does the Statue of Liberty face?",
+      "a": [
+        "Southeast",
+        "Southwest",
+        "Northwest",
+        "Northeast"
+      ]
+    },
+    {
+      "q": "What was the original name of the search engine \"Google\"?",
+      "a": [
+        "BackRub",
+        "CatMassage",
+        "SearchPro",
+        "Netscape Navigator"
+      ]
+    },
+    {
+      "q": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+      "a": [
+        "456 ft",
+        "500 ft",
+        "429 ft",
+        "396 ft"
+      ]
+    },
+    {
+      "q": "Which of the General Mills Corporation's monster cereals was the last to be released in the 1970's?",
+      "a": [
+        "Fruit Brute",
+        "Count Chocula",
+        "Franken Berry",
+        "Boo-Berry"
+      ]
+    },
+    {
+      "q": "What is the official language in Barcelona beside Spanish?",
+      "a": [
+        "Catalan",
+        "Galician",
+        "French",
+        "Basque"
+      ]
+    },
+    {
+      "q": "What is the last letter of the Greek alphabet?",
+      "a": [
+        "Omega",
+        "Mu",
+        "Epsilon",
+        "Kappa"
+      ]
+    },
+    {
+      "q": "What does the \"G\" mean in \"G-Man\"?",
+      "a": [
+        "Government",
+        "Going",
+        "Ghost",
+        "Geronimo"
+      ]
+    },
+    {
+      "q": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "a": [
+        "Josh DeSeno",
+        "Justin DeSeno",
+        "John DeSeno",
+        "Jimmy DeSeno"
+      ]
+    },
+    {
+      "q": "According to the United States' CDC, one in how many Americans die annually due to smoking?",
+      "a": [
+        "Five",
+        "Twenty",
+        "Ten",
+        "One hundred"
+      ]
+    },
+    {
+      "q": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "a": [
+        "Hewlett-Packard",
+        "Toshiba",
+        "Asus",
+        "Dell"
+      ]
+    },
+    {
+      "q": "What is a Burgee?",
+      "a": [
+        "A flag",
+        "A rope",
+        "A window",
+        "A type of food"
+      ]
+    },
+    {
+      "q": "What is the name of the popular animatronic singing fish prop, singing such hits such as \"Don't Worry, Be Happy\"?",
+      "a": [
+        "Big Mouth Billy Bass",
+        "Big Billy Bass",
+        "Singing Fish",
+        "Sardeen"
+      ]
+    },
+    {
+      "q": "When was WhatsApp founded?",
+      "a": [
+        "2009",
+        "2007",
+        "2012",
+        "2010"
+      ]
+    },
+    {
+      "q": "What is the unit of currency in Laos?",
+      "a": [
+        "Kip",
+        "Ruble",
+        "Konra",
+        "Dollar"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT one of Aesop's fables?",
+      "a": [
+        "The Fox and the Hound",
+        "The Fox and the Grapes",
+        "The Tortoise and the Hare",
+        "The Frog and the Ox"
+      ]
+    },
+    {
+      "q": "What Latin phrase roughly translates to \"seize the day\"?",
+      "a": [
+        "Carpe diem",
+        "Memento mori",
+        "Plus ultra",
+        "Sic semper tyrannis"
+      ]
+    },
+    {
+      "q": "Scotch whisky and Drambuie make up which cocktail?",
+      "a": [
+        "Rusty Nail",
+        "Screwdriver",
+        "Sex on the Beach",
+        "Manhattan"
+      ]
+    },
+    {
+      "q": "What is the highest number of Michelin stars a restaurant can receive?",
+      "a": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ]
+    },
+    {
+      "q": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+      "a": [
+        "Jumping over an office chair",
+        "Jumping backwards over a desk",
+        "Standing on his head",
+        "Typing on a keyboard during a handstand"
+      ]
+    },
+    {
+      "q": "The term \"scientist\" was coined in which year?",
+      "a": [
+        "1833",
+        "1933",
+        "1942",
+        "1796"
+      ]
+    },
+    {
+      "q": "The early part of which decade, did the Goth Subculture begin?",
+      "a": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "1970s"
+      ]
+    },
+    {
+      "q": "What is the defining characteristic of someone who is described as hirsute?",
+      "a": [
+        "Hairy",
+        "Rude",
+        "Funny",
+        "Tall"
+      ]
+    },
+    {
+      "q": "In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?",
+      "a": [
+        "1986",
+        "2001",
+        "1942",
+        "1909"
+      ]
+    },
+    {
+      "q": "What was the destination of the missing flight MH370?",
+      "a": [
+        "Beijing",
+        "Kuala Lumpur",
+        "Singapore",
+        "Tokyo"
+      ]
+    },
+    {
+      "q": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+      "a": [
+        "Bullfighting",
+        "Fiestas",
+        "Flamenco",
+        "Mariachi"
+      ]
+    },
+    {
+      "q": "In 2013 how much money was lost by Nigerian scams?",
+      "a": [
+        "$12.7 Billion",
+        "$95 Million",
+        "$956 Million",
+        "$2.7 Billion"
+      ]
+    },
+    {
+      "q": "Which famed architect, who died in 2019 aged 102, designed the glass pyramid at the Louvre museum in Paris?",
+      "a": [
+        "I. M. Pei",
+        "Pascale Guédot",
+        "Frank Gehry",
+        "Wang Shu"
+      ]
+    },
+    {
+      "q": "What was the soft drink Pepsi originally introduced as?",
+      "a": [
+        "Brad's Drink",
+        "Pepsin Pop",
+        "Carolina Cola",
+        "Pepsin Syrup"
+      ]
+    },
+    {
+      "q": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "a": [
+        "Ad hominem",
+        "Post hoc ergo propter hoc",
+        "Tu quoque",
+        "Argumentum ad populum"
+      ]
+    },
+    {
+      "q": "What was Mountain Dew's original slogan?",
+      "a": [
+        "Yahoo! Mountain Dew... It'll tickle your innards!",
+        "Give Me A Dew",
+        "Do The Dew",
+        "Get' that barefoot feelin' drinkin' Mountain Dew"
+      ]
+    },
+    {
+      "q": "Who is a co-founder of music streaming service Spotify?",
+      "a": [
+        "Daniel Ek",
+        "Sean Parker",
+        "Felix Miller",
+        "Michael Breidenbruecker"
+      ]
+    },
+    {
+      "q": "What is the full title of the Prime Minister of the UK?",
+      "a": [
+        "First Lord of the Treasury",
+        "Duke of Cambridge",
+        "Her Majesty's Loyal Opposition",
+        "Manager of the Crown Estate"
+      ]
+    },
+    {
+      "q": "Which river flows through the Scottish city of Glasgow?",
+      "a": [
+        "Clyde",
+        "Tay",
+        "Dee",
+        "Tweed"
+      ]
+    },
+    {
+      "q": "What does a milliner make and sell?",
+      "a": [
+        "Hats",
+        "Shoes",
+        "Belts",
+        "Shirts"
+      ]
+    },
+    {
+      "q": "In what year was McDonald's founded?",
+      "a": [
+        "1955",
+        "1964",
+        "1951",
+        "1947"
+      ]
+    },
+    {
+      "q": "What is the Portuguese word for \"Brazil\"?",
+      "a": [
+        "Brasil",
+        "Brazil",
+        "Brasilia",
+        "Brasíl"
+      ]
+    },
+    {
+      "q": "Which is the most popular spoken language in the Southern Hemisphere?",
+      "a": [
+        "Portuguese",
+        "English",
+        "Spanish",
+        "French"
+      ]
+    },
+    {
+      "q": "What is the star sign of someone born on Valentines day?",
+      "a": [
+        "Aquarius",
+        "Pisces",
+        "Capricorn",
+        "Scorpio"
+      ]
+    },
+    {
+      "q": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+      "a": [
+        "Yale University",
+        "Princeton University",
+        "Harvard University",
+        "Columbia University"
+      ]
+    }
+  ]
+}

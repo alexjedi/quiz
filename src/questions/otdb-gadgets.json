@@ -1,0 +1,187 @@
+{
+  "id": "otdb-gadgets",
+  "title": "Gadgets",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Who built the first laser?",
+      "a": [
+        "Theodore Harold Maiman",
+        "Nikola Tesla",
+        "Jack Kilby",
+        "Edith Clarke"
+      ]
+    },
+    {
+      "q": "Which of the following cellular device companies is NOT headquartered in Asia?",
+      "a": [
+        "Nokia",
+        "LG Electronics",
+        "Samsung",
+        "HTC"
+      ]
+    },
+    {
+      "q": "Which of the following is the standard THX subwoofer crossover frequency?",
+      "a": [
+        "80 Hz",
+        "70 Hz",
+        "90 Hz",
+        "100 Hz"
+      ]
+    },
+    {
+      "q": "Which round does a WW2 M1 Garand fire?",
+      "a": [
+        ".30-06",
+        ".308",
+        "7.62",
+        "7.62x51mm"
+      ]
+    },
+    {
+      "q": "Which of the following is used to measure blood pressure?",
+      "a": [
+        "Sphygmomanometer",
+        "Barometer",
+        "Ruler",
+        "Haemoerythrometer"
+      ]
+    },
+    {
+      "q": "Who patented a steam engine that produced continuous rotary motion?",
+      "a": [
+        "James Watt",
+        "Nikola Tesla",
+        "Albert Einstein",
+        "Alessandro Volta"
+      ]
+    },
+    {
+      "q": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+      "a": [
+        "Challenger and Columbia",
+        "Enterprise and Atlantis",
+        "Discovery and Endeavour",
+        "None of the Above"
+      ]
+    },
+    {
+      "q": "When was the compact disc player first released?",
+      "a": [
+        "1982",
+        "1983",
+        "1981",
+        "1980"
+      ]
+    },
+    {
+      "q": "How does a centrifuge separate heavy and light particles?",
+      "a": [
+        "Spinning",
+        "Vibrating",
+        "Sifting",
+        "Ionizing"
+      ]
+    },
+    {
+      "q": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+      "a": [
+        "2012",
+        "2010",
+        "2011",
+        "2013"
+      ]
+    },
+    {
+      "q": "This former Air Force and NASA engineer is the inventor of the Super Soaker water gun.",
+      "a": [
+        "Lonnie Johnson",
+        "Bruce D'Andrade",
+        "Frances Northcutt",
+        "Ashitey Trebi-Ollennu"
+      ]
+    },
+    {
+      "q": "What was the first Infinity Coaster in the world and where is it located?",
+      "a": [
+        "The Smiler, Alton Towers, UK",
+        "Madagascar Mad Pursuit, Motiongate Dubai, UAE",
+        "Gold Rush, Slagharen, Netherlands",
+        "Monster, Adventureland Altoona, USA"
+      ]
+    },
+    {
+      "q": "Apple's Voice Assistant, Siri, debuted on which iPhone?",
+      "a": [
+        "iPhone 4S",
+        "iPhone 6S",
+        "iPhone 3GS",
+        "iPhone 5S"
+      ]
+    },
+    {
+      "q": "What is the \"Mitsubishi Wakamaru\"?",
+      "a": [
+        "A robot",
+        "A pickup truck",
+        "An motorcycle",
+        "A motorboat"
+      ]
+    },
+    {
+      "q": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+      "a": [
+        "Typewriters",
+        "Blenders",
+        "Ceiling Fans",
+        "Door Knobs"
+      ]
+    },
+    {
+      "q": "Mobile hardware and software company \"Blackberry Limited\" was founded in which country?",
+      "a": [
+        "Canada",
+        "Norway",
+        "United States of America",
+        "United Kingdom"
+      ]
+    },
+    {
+      "q": "Which company designed the \"Betamax\" video cassette format?",
+      "a": [
+        "Sony",
+        "Panasonic",
+        "LG",
+        "Fujitsu"
+      ]
+    },
+    {
+      "q": "Which company manufactured the iconic TR-808 drum machine?",
+      "a": [
+        "Roland",
+        "Technics",
+        "Korg",
+        "Casio"
+      ]
+    },
+    {
+      "q": "What are the base station trackers used for the HTC Vive called?",
+      "a": [
+        "Lighthouse",
+        "Motion",
+        "Constellation",
+        "Trackers"
+      ]
+    },
+    {
+      "q": "Which company developed the Hololens?",
+      "a": [
+        "Microsoft",
+        "HTC",
+        "Oculus",
+        "Tobii"
+      ]
+    }
+  ]
+}

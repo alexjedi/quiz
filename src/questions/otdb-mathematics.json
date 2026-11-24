@@ -1,0 +1,349 @@
+{
+  "id": "otdb-mathematics",
+  "title": "Mathematics",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "The notion of a \"set that contains all sets which do not contain themselves\" is a paradoxical idea attributed to which English philosopher?",
+      "a": [
+        "Bertrand Russel",
+        "Francis Bacon",
+        "John Locke",
+        "Alfred North Whitehead"
+      ]
+    },
+    {
+      "q": "What is the fourth digit of π?",
+      "a": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "q": "The decimal number 31 in hexadecimal would be what?",
+      "a": [
+        "1F",
+        "3D",
+        "2E",
+        "1B"
+      ]
+    },
+    {
+      "q": "How many zeptometres are inside one femtometre?",
+      "a": [
+        "1,000,000",
+        "10",
+        "1,000,000,000",
+        "1000"
+      ]
+    },
+    {
+      "q": "What is the derivative of Acceleration with respect to time?",
+      "a": [
+        "Jerk",
+        "Shift",
+        "Bump",
+        "Slide"
+      ]
+    },
+    {
+      "q": "Which of the following famous mathematicians died in a duel at the age of 20?",
+      "a": [
+        "Galois",
+        "Abel",
+        "Euler",
+        "Gauss"
+      ]
+    },
+    {
+      "q": "Which of the following mathematicians made major contributions to game theory?",
+      "a": [
+        "John Von Neumann",
+        "Carl Friedrich Gauss",
+        "Leonhard Euler",
+        "Stefan Banach"
+      ]
+    },
+    {
+      "q": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+      "a": [
+        "1729",
+        "91",
+        "561",
+        "4104"
+      ]
+    },
+    {
+      "q": "How many Millibars (mbar) to 1 Inch of Mercury (inHg)",
+      "a": [
+        "33.9",
+        "30.0",
+        "27.4",
+        "10.6"
+      ]
+    },
+    {
+      "q": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+      "a": [
+        "1.58 x 10^20",
+        "1.58 x 10^22",
+        "1.58 x  10^18",
+        "1.58 x 10^24"
+      ]
+    },
+    {
+      "q": "What is the only Millennium Prize Problem that has been solved so far?",
+      "a": [
+        "Poincaré conjecture",
+        "P vs. NP problem",
+        "Riemann Hypothesis",
+        "Fermat's conjecture"
+      ]
+    },
+    {
+      "q": "What is the plane curve proposed by Descartes to challenge Fermat's extremum-finding techniques called?",
+      "a": [
+        "Folium of Descartes",
+        "Elliptic Paraboloid of Descartes",
+        "Cartesian Coordinates",
+        "Descarte's Helicoid"
+      ]
+    },
+    {
+      "q": "Which of these did mathematician Leonhard Euler NOT develop?",
+      "a": [
+        "An improvement to the Fast Fourier Transform",
+        "A method of solving first-order differential equations",
+        "An identity linking the numbers e, pi and i",
+        "A formula linking vertices, edges and faces on a graph"
+      ]
+    },
+    {
+      "q": "Integration is the reverse of what mathematical operation?",
+      "a": [
+        "Derivation",
+        "Division",
+        "Standard Deviation",
+        "Multiplication"
+      ]
+    },
+    {
+      "q": "The French mathematician Évariste Galois is primarily known for his work in which?",
+      "a": [
+        "Galois Theory",
+        "Galois' Continued Fractions",
+        "Galois' Method for PDE's",
+        "Abelian Integration"
+      ]
+    },
+    {
+      "q": "What is the approximate value of mathematical constant e?",
+      "a": [
+        "2.72",
+        "3.14",
+        "1.62",
+        "1.41"
+      ]
+    },
+    {
+      "q": "What Greek letter is used to signify summation?",
+      "a": [
+        "Sigma",
+        "Delta",
+        "Alpha",
+        "Omega"
+      ]
+    },
+    {
+      "q": "At what temperature does temp in °C equal temp in °F?",
+      "a": [
+        "-40",
+        "+40",
+        "0",
+        "+100"
+      ]
+    },
+    {
+      "q": "Which mathematician refused the Fields Medal?",
+      "a": [
+        "Grigori Perelman",
+        "Andrew Wiles",
+        "Terence Tao",
+        "Edward Witten"
+      ]
+    },
+    {
+      "q": "What is the alphanumeric representation of the imaginary number?",
+      "a": [
+        "i",
+        "e",
+        "n",
+        "x"
+      ]
+    },
+    {
+      "q": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+      "a": [
+        "90",
+        "180",
+        "270",
+        "0"
+      ]
+    },
+    {
+      "q": "Which greek mathematician ran through the streets of Syracuse naked while shouting \"Eureka\" after discovering the principle of displacement?",
+      "a": [
+        "Archimedes",
+        "Euclid",
+        "Homer",
+        "Eratosthenes"
+      ]
+    },
+    {
+      "q": "What is the derivative of sin(x)",
+      "a": [
+        "cos(x)",
+        "csc(x)",
+        "-cos(x)",
+        "-sin(x)"
+      ]
+    },
+    {
+      "q": "To the nearest whole number, how many radians are in a whole circle?",
+      "a": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "q": "In the hexadecimal system, what number comes after 9?",
+      "a": [
+        "The Letter A",
+        "10",
+        "The Number 0",
+        "16"
+      ]
+    },
+    {
+      "q": "In a normal distribution, 95% of the data lies within how many standard deviations of the mean?",
+      "a": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "q": "A mathematical constant, known as \"The Golden Ratio\", is most commonly represented by which greek letter?",
+      "a": [
+        "Φ (phi)",
+        "π (pi)",
+        "Ψ (psi)",
+        "Τ (tau)"
+      ]
+    },
+    {
+      "q": "Which of these probability distributions is NOT discrete?",
+      "a": [
+        "Normal",
+        "Binomial",
+        "Poisson",
+        "Hyper-geometric"
+      ]
+    },
+    {
+      "q": "What type of function is x²+2x+1?",
+      "a": [
+        "Quadratic",
+        "Rational",
+        "Linear",
+        "Exponential"
+      ]
+    },
+    {
+      "q": "What is the first Mersenne prime exponent over 1000?",
+      "a": [
+        "1279",
+        "2203",
+        "1009",
+        "1069"
+      ]
+    },
+    {
+      "q": "What is the area of a circle with a diameter of 20 inches if π= 3.1415?",
+      "a": [
+        "314.15 Inches",
+        "380.1215 Inches",
+        "3141.5 Inches",
+        "1256.6 Inches"
+      ]
+    },
+    {
+      "q": "What is the Roman numeral for 500?",
+      "a": [
+        "D",
+        "L",
+        "C",
+        "X"
+      ]
+    },
+    {
+      "q": "How many zeros are there in a googol?",
+      "a": [
+        "100",
+        "10",
+        "1,000",
+        "1,000,000"
+      ]
+    },
+    {
+      "q": "Which of the following dice is not a platonic solid?",
+      "a": [
+        "10-sided die",
+        "12-sided die",
+        "20-sided die",
+        "8-sided die"
+      ]
+    },
+    {
+      "q": "What numbers are in the 5th row of Pascal's Triangle?",
+      "a": [
+        "1 4 6 4 1",
+        "1 3 3 1",
+        "1 5 10 10 5 1",
+        "1 6 15 20 15 6 1"
+      ]
+    },
+    {
+      "q": "What are the first 6 digits of the number \"Pi\"?",
+      "a": [
+        "3.14159",
+        "3.14169",
+        "3.12423",
+        "3.25812"
+      ]
+    },
+    {
+      "q": "How many books are in Euclid's Elements of Geometry?",
+      "a": [
+        "13",
+        "8",
+        "10",
+        "17"
+      ]
+    },
+    {
+      "q": "What shape does sin(x) or cos(x) make on a graph?",
+      "a": [
+        "Waves",
+        "A Parabola",
+        "A Straight Line",
+        "Zig-Zags"
+      ]
+    }
+  ]
+}

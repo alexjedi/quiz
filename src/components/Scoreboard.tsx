@@ -23,16 +23,15 @@ export function Scoreboard({
             key={player.id}
             player={player}
             self={player.id === selfId}
-            index={index}
             leading={<span className="w-6 text-center text-lg font-black tabular-nums">{index + 1}</span>}
             trailing={
               <span className="flex items-center gap-2 tabular-nums">
                 {player.id === fastestId && (
-                  <span className="animate-pop text-gold" title="Fastest">
+                  <span className="text-gold" title="Fastest">
                     <BoltIcon size={20} />
                   </span>
                 )}
-                {gain > 0 && <span className="animate-rise text-sm font-black text-good-edge">+{gain}</span>}
+                {gain > 0 && <span className="text-sm font-black text-good-edge">+{gain}</span>}
                 <span className="text-lg font-black">{player.score}</span>
               </span>
             }

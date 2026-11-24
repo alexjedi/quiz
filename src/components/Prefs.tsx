@@ -28,7 +28,7 @@ export function Prefs() {
               style={{ background: theme.swatch }}
               className={cx(
                 "size-11 rounded-full border-[3px] shadow-[inset_0_-4px_0_rgb(0_0_0/0.25)]",
-                prefs.theme === theme.id ? "scale-110 border-accent" : "border-edge",
+                prefs.theme === theme.id ? "scale-110 border-accent" : "border-edge hover:border-ink",
                 press,
               )}
             />

@@ -7,13 +7,11 @@ import { CrownIcon } from "./icons";
 export function PlayerRow({
   player,
   self,
-  index,
   leading,
   trailing,
 }: {
   player: PlayerView | null;
   self?: boolean;
-  index: number;
   leading?: ReactNode;
   trailing?: ReactNode;
 }) {
@@ -28,11 +26,10 @@ export function PlayerRow({
   return (
     <li
       className={cx(
-        "flex h-14 animate-rise items-center gap-3 rounded-full border-[3px] border-edge pr-4 pl-1.5 transition-[scale,opacity,background-color] duration-200 ease-spring hover:scale-[1.02]",
+        "flex h-14 items-center gap-3 rounded-full border-[3px] border-edge pr-4 pl-1.5",
         self ? "bg-key text-key-ink shadow-[inset_0_-4px_0_var(--color-key-edge)]" : "bg-well text-ink",
         !player.connected && "opacity-50",
       )}
-      style={{ animationDelay: `${index * 45}ms` }}
     >
       {leading}
       <Avatar seed={player.avatar} size={42} />

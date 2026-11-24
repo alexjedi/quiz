@@ -28,8 +28,7 @@ const RULES = [
   { icon: <ClockIcon />, text: `Streak of ${milestoneFor("time")}: double your time` },
 ];
 
-const credit =
-  "inline-block underline decoration-2 underline-offset-2 transition-[scale,color] duration-150 ease-spring hover:scale-105 hover:text-ink";
+const credit = "inline-block underline decoration-2 underline-offset-2 hover:text-ink";
 
 type Tab = "rules" | "prefs";
 
@@ -70,9 +69,7 @@ export function Home({
                 onClick={() => setPrefs({ avatar: (prefs.avatar + 1) % AVATAR_COUNT })}
                 className={`relative rounded-full ${press}`}
               >
-                <span key={prefs.avatar} className="block animate-pop">
-                  <Avatar seed={prefs.avatar} size={104} />
-                </span>
+                <Avatar seed={prefs.avatar} size={104} />
                 <span
                   className={`absolute -right-1 -bottom-1 flex size-9 items-center justify-center rounded-full border-[3px] border-edge ${lip.accent}`}
                 >
@@ -122,12 +119,8 @@ export function Home({
               <Prefs />
             ) : (
               <ul className="flex flex-col gap-3">
-                {RULES.map((rule, index) => (
-                  <li
-                    key={rule.text}
-                    className="flex animate-rise items-center gap-3 text-base font-extrabold"
-                    style={{ animationDelay: `${index * 60}ms` }}
-                  >
+                {RULES.map((rule) => (
+                  <li key={rule.text} className="flex items-center gap-3 text-base font-extrabold">
                     <span className="flex size-10 shrink-0 items-center justify-center rounded-xl border-[3px] border-edge bg-well text-accent">
                       {rule.icon}
                     </span>

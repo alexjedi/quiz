@@ -12,7 +12,7 @@ export function StreakMeter({ streak }: { streak: number }) {
       className="flex h-14 items-center gap-2 rounded-2xl border-[3px] border-edge bg-well px-3"
       title={`Streak: ${streak}`}
     >
-      <span className={cx("origin-bottom", streak > 0 ? "animate-flicker text-gold" : "text-ink-2/50")}>
+      <span className={streak > 0 ? "text-gold" : "text-ink-2/50"}>
         <FlameIcon size={26} />
       </span>
       <span className="w-6 text-center text-xl font-black tabular-nums">{streak}</span>
@@ -21,9 +21,9 @@ export function StreakMeter({ streak }: { streak: number }) {
           <span
             key={pip}
             className={cx(
-              "rounded-full border-2 border-edge transition-[background-color,scale] duration-300 ease-spring",
+              "rounded-full border-2 border-edge",
               MARKS.has(pip) ? "size-4" : "size-2.5",
-              pip <= streak ? "scale-110 bg-gold" : "bg-panel",
+              pip <= streak ? "bg-gold" : "bg-panel",
             )}
           />
         ))}

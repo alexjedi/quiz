@@ -1,0 +1,412 @@
+{
+  "id": "otdb-vehicles",
+  "title": "Vehicles",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Which Variable Valve Timing technology is used by BMW?",
+      "a": [
+        "VANOS",
+        "VVT-iw",
+        "VVEL",
+        "MultiAir"
+      ]
+    },
+    {
+      "q": "Which car is the first mass-produced hybrid vehicle?",
+      "a": [
+        "Toyota Prius",
+        "Chevrolet Volt",
+        "Honda Fit",
+        "Peugeot 308 R HYbrid"
+      ]
+    },
+    {
+      "q": "What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in \"The Railway Series\"?",
+      "a": [
+        "LB&SCR A1X",
+        "LB&SCR E2",
+        "LB&SCR J1",
+        "LB&SCR D1"
+      ]
+    },
+    {
+      "q": "In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?",
+      "a": [
+        "Faulty ignition switch",
+        "Malfunctioning gas pedal",
+        "Breaking fuel lines",
+        "Faulty brake pads"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a car model produced by Malaysian car manufacturer Proton?",
+      "a": [
+        "Kelisa",
+        "Saga",
+        "Perdana",
+        "Inspira"
+      ]
+    },
+    {
+      "q": "What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?",
+      "a": [
+        "Volvo",
+        "Ferrari",
+        "Ford",
+        "Renault"
+      ]
+    },
+    {
+      "q": "Which one of these chassis codes are used by BMW 3-series?",
+      "a": [
+        "E46",
+        "E39",
+        "E85",
+        "F10"
+      ]
+    },
+    {
+      "q": "Which one of the following is NOT a sub-company of the Volkswagen Group?",
+      "a": [
+        "Opel",
+        "Porsche",
+        "Bugatti",
+        "Bentley"
+      ]
+    },
+    {
+      "q": "What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?",
+      "a": [
+        "Cherry",
+        "Sunny",
+        "Bluebird",
+        "Skyline"
+      ]
+    },
+    {
+      "q": "What model was the sports car gifted to Yuri Gagarin by the French government in 1965?",
+      "a": [
+        "Matra Djet",
+        "Porsche 911",
+        "Alpine A110",
+        "AC Cobra"
+      ]
+    },
+    {
+      "q": "The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:",
+      "a": [
+        "0.1m",
+        "1m",
+        "10m",
+        "100m"
+      ]
+    },
+    {
+      "q": "Which of the following Union Pacific 'Big Boy' locomotives was restored to working order in 2019?",
+      "a": [
+        "4014",
+        "4012",
+        "4004",
+        "4000"
+      ]
+    },
+    {
+      "q": "What engine is in the Lexus SC400?",
+      "a": [
+        "1UZ-FE",
+        "2JZ-GTE",
+        "7M-GTE",
+        "5M-GE"
+      ]
+    },
+    {
+      "q": "Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?",
+      "a": [
+        "15 Degree",
+        "30 Degree",
+        "45 Degree",
+        "90 Degree"
+      ]
+    },
+    {
+      "q": "How much horsepower is produced by the SD40-2 Locomotive?",
+      "a": [
+        "3,000",
+        "3,200",
+        "2,578",
+        "2,190"
+      ]
+    },
+    {
+      "q": "Which Audi does not use Haldex based all wheel drive system?",
+      "a": [
+        "Audi A8",
+        "Audi TT",
+        "Audi S3",
+        "Audi A3"
+      ]
+    },
+    {
+      "q": "Which of the following FIA Rally cars was approved for use in the Group B class first?",
+      "a": [
+        "Porsche 911 Turbo",
+        "Audi Quattro A2",
+        "BMW M1",
+        "Lancia Rally 037"
+      ]
+    },
+    {
+      "q": "What year did the Chevrolet LUV mini truck make its debut?",
+      "a": [
+        "1972",
+        "1982",
+        "1975",
+        "1973"
+      ]
+    },
+    {
+      "q": "Which of the following countries has officially banned the civilian use of dash cams in cars?",
+      "a": [
+        "Austria",
+        "United States",
+        "Czechia",
+        "South Korea"
+      ]
+    },
+    {
+      "q": "Which of the following vehicles featured a full glass roof at base model?",
+      "a": [
+        "Renault Avantime",
+        "Chevy Volt",
+        "Mercedes-Benz A-Class",
+        "Honda Odyssey"
+      ]
+    },
+    {
+      "q": "Which of the following passenger jets is the longest?",
+      "a": [
+        "Boeing 747-8",
+        "Airbus A350-1000",
+        "Airbus A330-200",
+        "Boeing 787-10"
+      ]
+    },
+    {
+      "q": "What manufacturer made the car used in Back to the Future?",
+      "a": [
+        "DeLorean",
+        "Ford",
+        "Toyota",
+        "Daihatsu"
+      ]
+    },
+    {
+      "q": "Which car manufacturer created the \"Aventador\"?",
+      "a": [
+        "Lamborghini",
+        "Ferrari",
+        "Pagani",
+        "Bugatti"
+      ]
+    },
+    {
+      "q": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+      "a": [
+        "Alfa Romeo",
+        "Auto Union",
+        "Mercedes Benz",
+        "Bentley"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a Russian car manufacturer?",
+      "a": [
+        "BYD",
+        "Silant",
+        "Dragon",
+        "GAZ"
+      ]
+    },
+    {
+      "q": "Which of the following car models has been badge-engineered (rebadged) the most?",
+      "a": [
+        "Isuzu Trooper",
+        "Holden Monaro",
+        "Suzuki Swift",
+        "Chevy Camaro"
+      ]
+    },
+    {
+      "q": "What was the first vehicle that came with air conditioning as a factory standard?",
+      "a": [
+        "Packard",
+        "Tucker",
+        "Ford",
+        "Hudson"
+      ]
+    },
+    {
+      "q": "Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?",
+      "a": [
+        "Testarossa",
+        "Enzo Ferrari",
+        "F40",
+        "288 GTO"
+      ]
+    },
+    {
+      "q": "Which car brand does NOT belong to General Motors?",
+      "a": [
+        "Ford",
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ]
+    },
+    {
+      "q": "The British Rail Class 700, Class 707 and the Class 717 are part of what train family?",
+      "a": [
+        "Desiro City",
+        "Networker",
+        "Aventra",
+        "Electrostar"
+      ]
+    },
+    {
+      "q": "Which one of the following is not made by Ford?",
+      "a": [
+        "Camry",
+        "Fusion",
+        "Model A",
+        "F-150"
+      ]
+    },
+    {
+      "q": "Which country has the international vehicle registration letter 'A'?",
+      "a": [
+        "Austria",
+        "Afghanistan",
+        "Australia",
+        "Armenia"
+      ]
+    },
+    {
+      "q": "Which one is NOT the function of engine oil in car engines?",
+      "a": [
+        "Combustion",
+        "Lubrication",
+        "Cooling",
+        "Reduce corrosion"
+      ]
+    },
+    {
+      "q": "Which animal features on the logo for Abarth, the motorsport division of Fiat?",
+      "a": [
+        "Scorpion",
+        "Snake",
+        "Bull",
+        "Horse"
+      ]
+    },
+    {
+      "q": "What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?",
+      "a": [
+        "Gimli Glider",
+        "Gimli Microlight",
+        "Gimli Chaser",
+        "Gimli Superb"
+      ]
+    },
+    {
+      "q": "When was Tesla founded?",
+      "a": [
+        "2003",
+        "2008",
+        "2005",
+        "2007"
+      ]
+    },
+    {
+      "q": "Which of these car models are produced by Lamborghini?",
+      "a": [
+        "Aventador",
+        "Huayra",
+        "918",
+        "Chiron"
+      ]
+    },
+    {
+      "q": "When was Cadillac founded?",
+      "a": [
+        "1902",
+        "1964",
+        "1898",
+        "1985"
+      ]
+    },
+    {
+      "q": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
+      "a": [
+        "Camshaft",
+        "Piston",
+        "Drive shaft",
+        "Crankshaft"
+      ]
+    },
+    {
+      "q": "What do the 4 Rings in Audi's Logo represent?",
+      "a": [
+        "Previously independent automobile manufacturers",
+        "States in which Audi makes the most sales",
+        "Main cities vital to Audi",
+        "Countries in which Audi makes the most sales"
+      ]
+    },
+    {
+      "q": "Which Japanese company is the world's largest manufacturer of motorcycles?",
+      "a": [
+        "Honda",
+        "Yamaha",
+        "Suzuki",
+        "Kawasaki"
+      ]
+    },
+    {
+      "q": "Which supercar company is from Sweden?",
+      "a": [
+        "Koenigsegg",
+        "Bugatti",
+        "Lamborghini",
+        "McLaren"
+      ]
+    },
+    {
+      "q": "What country is the Hussarya supercar, made by the car manufacturer \"Arrinera\", assembled in?",
+      "a": [
+        "Poland",
+        "China",
+        "Sweden",
+        "Italy"
+      ]
+    },
+    {
+      "q": "Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?",
+      "a": [
+        "Nissan",
+        "Honda",
+        "Hyundai",
+        "Subaru"
+      ]
+    },
+    {
+      "q": "What was the aircraft registration for the last Concorde built?",
+      "a": [
+        "G-BOAF",
+        "F-BTSC",
+        "G-BOAC",
+        "F-BVFF"
+      ]
+    }
+  ]
+}

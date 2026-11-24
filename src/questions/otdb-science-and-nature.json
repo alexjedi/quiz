@@ -1,0 +1,1357 @@
+{
+  "id": "otdb-science-and-nature",
+  "title": "Science & Nature",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+      "a": [
+        "Graviton",
+        "Z boson",
+        "Tau neutrino",
+        "Gluon"
+      ]
+    },
+    {
+      "q": "Which of these is a stop codon in DNA?",
+      "a": [
+        "TAA",
+        "ACT",
+        "ACA",
+        "GTA"
+      ]
+    },
+    {
+      "q": "Which of the following liquids is least viscous? Assume temperature is 25°C.",
+      "a": [
+        "Acetone",
+        "Water",
+        "Mercury",
+        "Benzene"
+      ]
+    },
+    {
+      "q": "Which of the following is the term for \"surgical complications resulting from surgical sponges left inside the patient's body?",
+      "a": [
+        "Gossypiboma",
+        "Gongoozler",
+        "Jentacular",
+        "Meupareunia"
+      ]
+    },
+    {
+      "q": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+      "a": [
+        "Gauss's Law",
+        "Faraday's Law",
+        "Ampere's Law",
+        "Biot-Savart Law"
+      ]
+    },
+    {
+      "q": "Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?",
+      "a": [
+        "Sneeze",
+        "Cough",
+        "Yawn",
+        "Hiccup"
+      ]
+    },
+    {
+      "q": "Which of the following is considered classical conditioning?",
+      "a": [
+        "Pavlov's dog experiments",
+        "Skinner box experiment",
+        "Schrödinger's cat experiment",
+        "Harlow’s monkey experiments"
+      ]
+    },
+    {
+      "q": "How much radiation does a banana emit?",
+      "a": [
+        "0.1 Microsievert",
+        "0.3 Microsievert",
+        "0.5 Microsievert",
+        "0.7 Microsievert"
+      ]
+    },
+    {
+      "q": "Which country first successfully farm-hatched and raised bluefin tuna in 1979?",
+      "a": [
+        "Japan",
+        "France",
+        "USA",
+        "Philippines"
+      ]
+    },
+    {
+      "q": "Which of these animals belongs in class Chondrichthyes?",
+      "a": [
+        "Great white shark",
+        "Octopus",
+        "Killer whale",
+        "Catfish"
+      ]
+    },
+    {
+      "q": "Which Landsat Satellite failed to reach orbit?",
+      "a": [
+        "Landsat 6",
+        "Landsat 5",
+        "Landsat 4",
+        "Landsat 3"
+      ]
+    },
+    {
+      "q": "What is the scientific name for the extinct hominin known as \"Lucy\"?",
+      "a": [
+        "Australopithecus Afarensis",
+        "Australopithecus Africanus",
+        "Australopithecus Architeuthis",
+        "Australopithecus Antaris"
+      ]
+    },
+    {
+      "q": "What is \"Stenoma\"?",
+      "a": [
+        "A genus of moths",
+        "A combat stimulant from WW2",
+        "A type of seasoning",
+        "A port city in the carribean"
+      ]
+    },
+    {
+      "q": "The Western Lowland Gorilla is scientifically know as?",
+      "a": [
+        "Gorilla Gorilla Gorilla",
+        "Gorilla Gorilla Diehli",
+        "Gorilla Beringei Graueri",
+        "Gorilla Beringei Beringei"
+      ]
+    },
+    {
+      "q": "Which scientific unit is named after an Italian nobleman?",
+      "a": [
+        "Volt",
+        "Pascal",
+        "Ohm",
+        "Hertz"
+      ]
+    },
+    {
+      "q": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+      "a": [
+        "Jacob's Syndrome",
+        "Klinefelter's Syndrome",
+        "Turner's Syndrome",
+        "Down Syndrome"
+      ]
+    },
+    {
+      "q": "What was the first organic compound to be synthesized from inorganic compounds?",
+      "a": [
+        "Urea",
+        "Propane",
+        "Ethanol",
+        "Formaldehyde"
+      ]
+    },
+    {
+      "q": "Which Landsat Satellite currently has had the longest operational life?",
+      "a": [
+        "Landsat 5",
+        "Landsat 8",
+        "Landsat 7",
+        "Landsat 6"
+      ]
+    },
+    {
+      "q": "Which of these chemical compounds is NOT found in gastric acid?",
+      "a": [
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Potassium chloride",
+        "Sodium chloride"
+      ]
+    },
+    {
+      "q": "What is the scientific name of the red fox?",
+      "a": [
+        "Vulpes Vulpes",
+        "Vulpes Redus",
+        "Red Fox",
+        "Vulpes Vulpie"
+      ]
+    },
+    {
+      "q": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+      "a": [
+        "Noether's Theorem",
+        "Bell's Theorem",
+        "Wick's Theorem",
+        "Carnot's Theorem"
+      ]
+    },
+    {
+      "q": "Botanically speaking, which of these fruits is NOT a berry?",
+      "a": [
+        "Strawberry",
+        "Blueberry",
+        "Banana",
+        "Concord Grape"
+      ]
+    },
+    {
+      "q": "Which of these is a semiconductor amplifying device?",
+      "a": [
+        "transistor",
+        "tube",
+        "diode",
+        "P-N junction"
+      ]
+    },
+    {
+      "q": "What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?",
+      "a": [
+        "Abnormal Shrimp",
+        "Deformed Fish",
+        "Strange Crab",
+        "Anomalous Clam"
+      ]
+    },
+    {
+      "q": "The 'Islets of Langerhans' is found in which human organ?",
+      "a": [
+        "Pancreas",
+        "Kidney",
+        "Liver",
+        "Brain"
+      ]
+    },
+    {
+      "q": "What is considered the rarest form of color blindness?",
+      "a": [
+        "Blue",
+        "Red",
+        "Green",
+        "Purple"
+      ]
+    },
+    {
+      "q": "How many objects are equivalent to one mole?",
+      "a": [
+        "6.022 x 10^23",
+        "6.002 x 10^22",
+        "6.022 x 10^22",
+        "6.002 x 10^23"
+      ]
+    },
+    {
+      "q": "What causes the sound of a heartbeat?",
+      "a": [
+        "Closure of the heart valves",
+        "Contraction of the heart chambers",
+        "Blood exiting the heart",
+        "Relaxation of the heart chambers"
+      ]
+    },
+    {
+      "q": "Folic acid is the synthetic form of which vitamin?",
+      "a": [
+        "Vitamin B",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D"
+      ]
+    },
+    {
+      "q": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+      "a": [
+        "Cretaceous-Paleogene",
+        "Triassic–Jurassic",
+        "Permian–Triassic",
+        "Ordovician–Silurian"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a real element?",
+      "a": [
+        "Vitrainium",
+        "Praseodymium",
+        "Hassium",
+        "Lutetium"
+      ]
+    },
+    {
+      "q": "What is the same in Celsius and Fahrenheit?",
+      "a": [
+        "-40",
+        "32",
+        "-39",
+        "-42"
+      ]
+    },
+    {
+      "q": "Which of the following is a major muscle of the back?",
+      "a": [
+        "Trapezius",
+        "Trapezium",
+        "Trapezoid",
+        "Triquetrum"
+      ]
+    },
+    {
+      "q": "What is the standard SI unit for luminous intensity?",
+      "a": [
+        "Candela",
+        "Lumen",
+        "Faraday",
+        "Coulomb"
+      ]
+    },
+    {
+      "q": "What is the scientific name of the knee cap?",
+      "a": [
+        "Patella",
+        "Femur",
+        "Foramen Magnum",
+        "Scapula"
+      ]
+    },
+    {
+      "q": "In the Scoville scale, what is the hottest chemical?",
+      "a": [
+        "Resiniferatoxin",
+        "Capsaicin",
+        "Dihydrocapsaicin",
+        "Tinyatoxin"
+      ]
+    },
+    {
+      "q": "\"The Big Bang Theory\" was first theorized by a priest of what religious ideology?",
+      "a": [
+        "Catholic",
+        "Christian",
+        "Jewish",
+        "Islamic"
+      ]
+    },
+    {
+      "q": "Which constellation contains the center of the Milky Way?",
+      "a": [
+        "Sagittarius",
+        "Scorpius",
+        "Ophiuchus",
+        "Capricornus"
+      ]
+    },
+    {
+      "q": "Muscle fiber is constructed of bundles small long organelles called what?",
+      "a": [
+        "Myofibrils",
+        "Epimysium",
+        "Myofiaments",
+        "Myocardium"
+      ]
+    },
+    {
+      "q": "Where in the human body is the Pineal Gland located?",
+      "a": [
+        "Brain",
+        "Groin",
+        "Chest",
+        "Throat"
+      ]
+    },
+    {
+      "q": "A comet's gaseous envelope (which creates the tail) is called what?",
+      "a": [
+        "The coma",
+        "The wake",
+        "The backwash",
+        "The ablative"
+      ]
+    },
+    {
+      "q": "The word \"science\" stems from the word \"scire\" meaning what?",
+      "a": [
+        "To know",
+        "To measure",
+        "To live",
+        "To count"
+      ]
+    },
+    {
+      "q": "Where is the Gluteus Maximus muscle located?",
+      "a": [
+        "Butt",
+        "Arm",
+        "Head",
+        "Torso"
+      ]
+    },
+    {
+      "q": "What is the unit of electrical inductance?",
+      "a": [
+        "Henry",
+        "Weber",
+        "Coulomb",
+        "Mho"
+      ]
+    },
+    {
+      "q": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+      "a": [
+        "Titan",
+        "Europa",
+        "Miranda",
+        "Callisto"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a word used to describe an earthquake?",
+      "a": [
+        "Drop-slide",
+        "Foreshock",
+        "Strike-slip",
+        "Temblor"
+      ]
+    },
+    {
+      "q": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+      "a": [
+        "Shepard Tone",
+        "Glissandro Illusion",
+        "Fransen Effect",
+        "McGurck Effect"
+      ]
+    },
+    {
+      "q": "Burning which of these metals will produce a bright white flame?",
+      "a": [
+        "Magnesium",
+        "Copper",
+        "Lithium",
+        "Lead"
+      ]
+    },
+    {
+      "q": "What does the term \"isolation\" refer to in microbiology?",
+      "a": [
+        "The separation of a strain from a natural, mixed population of living microbes",
+        "A lack of nutrition in microenviroments",
+        "The nitrogen level in soil",
+        "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+      ]
+    },
+    {
+      "q": "Coulrophobia is the irrational fear of what?",
+      "a": [
+        "Clowns",
+        "Cemeteries",
+        "Needles",
+        "Tunnels"
+      ]
+    },
+    {
+      "q": "Which one of these is scientific term for \"Brain Freeze\"?",
+      "a": [
+        "Sphenopalatine Ganglioneuralgia",
+        "Hyacinthoides Italica",
+        "Amaranthus Retroflexus",
+        "Amblyomma Americanum"
+      ]
+    },
+    {
+      "q": "What element on the periodic table has 92 electrons?",
+      "a": [
+        "Uranium",
+        "Sulfur",
+        "Hydrogen",
+        "Iron"
+      ]
+    },
+    {
+      "q": "What is the most potent toxin known?",
+      "a": [
+        "Botulinum toxin",
+        "Ricin",
+        "Cyanide",
+        "Asbestos"
+      ]
+    },
+    {
+      "q": "Which of these is used to show that Earth spins on an axis?",
+      "a": [
+        "Foucault Pendulum",
+        "Polaris",
+        "Sundial",
+        "Tectonic Plates"
+      ]
+    },
+    {
+      "q": "Which is not a type of neuron?",
+      "a": [
+        "Perceptual Neuron",
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron"
+      ]
+    },
+    {
+      "q": "What nucleotide pairs with guanine?",
+      "a": [
+        "Cytosine",
+        "Thymine",
+        "Adenine",
+        "Uracil"
+      ]
+    },
+    {
+      "q": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+      "a": [
+        "Boron",
+        "Oxygen",
+        "Carbon",
+        "Iron"
+      ]
+    },
+    {
+      "q": "How many legs is it biologically impossible for a centipede to have?",
+      "a": [
+        "100",
+        "26",
+        "50",
+        "74"
+      ]
+    },
+    {
+      "q": "The core of the Sun can reach which temperature?",
+      "a": [
+        "27° Million F (15° Million C)",
+        "938,000° F (521093.3° C)",
+        "8° Billion F (°4.4 Billion C)",
+        "Absolute Zero (Both F and C)"
+      ]
+    },
+    {
+      "q": "What is the molecular formula of Glucose?",
+      "a": [
+        "C6H12O6",
+        "C2H4O2",
+        "K+",
+        "CH4"
+      ]
+    },
+    {
+      "q": "What is the molecular formula of Ozone?",
+      "a": [
+        "O3",
+        "C6H2O6",
+        "N2O",
+        "SO4"
+      ]
+    },
+    {
+      "q": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+      "a": [
+        "Gale",
+        "Storm",
+        "Hurricane",
+        "Breeze"
+      ]
+    },
+    {
+      "q": "What is isobutylphenylpropanoic acid more commonly known as?",
+      "a": [
+        "Ibuprofen",
+        "Morphine",
+        "Ketamine",
+        "Aspirin"
+      ]
+    },
+    {
+      "q": "Which is the chemical name of H2O?",
+      "a": [
+        "Dihydrogen Monoxide",
+        "Ammonium chloride",
+        "Anhydrous Sodium Carbonate",
+        "Manganese dioxide"
+      ]
+    },
+    {
+      "q": "Which of the following are cells of the adaptive immune system?",
+      "a": [
+        "Cytotoxic T cells",
+        "Dendritic cells",
+        "Natural killer cells",
+        "White blood cells"
+      ]
+    },
+    {
+      "q": "An organic compound is considered an alcohol if it has what functional group?",
+      "a": [
+        "Hydroxyl",
+        "Carbonyl",
+        "Alkyl",
+        "Aldehyde"
+      ]
+    },
+    {
+      "q": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+      "a": [
+        "Haplogroup U",
+        "Haplogroup L",
+        "Haplogroup T",
+        "Haplogroup J"
+      ]
+    },
+    {
+      "q": "Which horizon in a soil profile consists of bedrock?",
+      "a": [
+        "R",
+        "O",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "q": "If you planted the seeds of Quercus robur what would grow?",
+      "a": [
+        "Trees",
+        "Flowers",
+        "Vegtables",
+        "Grains"
+      ]
+    },
+    {
+      "q": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+      "a": [
+        "Polyvinylchloride (PVC)",
+        "Polyethylene (PE)",
+        "Polypropylene (PP)",
+        "Polystyrene (PS)"
+      ]
+    },
+    {
+      "q": "How many types of quarks are there in the standard model of physics?",
+      "a": [
+        "6",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "q": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+      "a": [
+        "Shin Splints",
+        "Tennis Elbow",
+        "Carpal Tunnel",
+        "Housemaid's Knee"
+      ]
+    },
+    {
+      "q": "How many protons are in an oxygen atom?",
+      "a": [
+        "Eight",
+        "Four",
+        "Two",
+        "Six"
+      ]
+    },
+    {
+      "q": "How long is a light-year?",
+      "a": [
+        "9.461 Trillion Kilometres",
+        "1 AU",
+        "105.40 Earth-years",
+        "501.2 Million Miles"
+      ]
+    },
+    {
+      "q": "What is the molecular formula of the active component of chili peppers(Capsaicin)?",
+      "a": [
+        "C18H27NO3",
+        "C21H23NO3",
+        "C6H4Cl2",
+        "C13H25NO4"
+      ]
+    },
+    {
+      "q": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+      "a": [
+        "Lift",
+        "Thrust",
+        "Drag",
+        "Weight"
+      ]
+    },
+    {
+      "q": "What cell organelle is known as \"the powerhouse of the cell?\"",
+      "a": [
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ]
+    },
+    {
+      "q": "Which of these elements on the Periodic Table is a Noble Gas?",
+      "a": [
+        "Neon",
+        "Potassium",
+        "Iodine",
+        "Colbalt"
+      ]
+    },
+    {
+      "q": "Which planet in the Solar System is the closest to the Sun?",
+      "a": [
+        "Mercury",
+        "Earth",
+        "Mars",
+        "Venus"
+      ]
+    },
+    {
+      "q": "The human right lung has how many lobes?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "q": "What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?",
+      "a": [
+        "Dunning-Kruger effect",
+        "Meyers-Briggs effect",
+        "Müller-Lyer effect",
+        "Freud-Hall effect"
+      ]
+    },
+    {
+      "q": "What is the medical term for low blood sugar?",
+      "a": [
+        "Hypoglycemia",
+        "Hypothyroidism",
+        "Hypothermia",
+        "Hypoxia"
+      ]
+    },
+    {
+      "q": "What is radiation measured in?",
+      "a": [
+        "Gray",
+        "Watt",
+        "Decibel",
+        "Kelvin"
+      ]
+    },
+    {
+      "q": "What do you study if you are studying entomology?",
+      "a": [
+        "Insects",
+        "Humans",
+        "the Brain",
+        "Fish"
+      ]
+    },
+    {
+      "q": "At what temperature does water boil?",
+      "a": [
+        "212°F",
+        "200°F",
+        "181°F",
+        "178°F"
+      ]
+    },
+    {
+      "q": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+      "a": [
+        "STS-107",
+        "STS-51-L",
+        "STS-61-C",
+        "STS-109"
+      ]
+    },
+    {
+      "q": "What part of the body produces insulin?",
+      "a": [
+        "Pancreas",
+        "Kidney",
+        "Liver",
+        "Stomach"
+      ]
+    },
+    {
+      "q": "What is the colour of unoxidized blood?",
+      "a": [
+        "Red",
+        "Blue",
+        "Purple",
+        "Green"
+      ]
+    },
+    {
+      "q": "The Sun consists of mostly which two elements?",
+      "a": [
+        "Hydrogen & Helium",
+        "Hydrogen & Nitrogen",
+        "Carbon & Nitrogen",
+        "Carbon & Helium"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a passive electrical component?",
+      "a": [
+        "Transistor",
+        "Resistor",
+        "Capacitor",
+        "Inductor"
+      ]
+    },
+    {
+      "q": "What is the mathematical formula of Ohm's law?",
+      "a": [
+        "V = I*R",
+        "I = V*R",
+        "R = V*I",
+        "V = I / R"
+      ]
+    },
+    {
+      "q": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+      "a": [
+        "Female Flower",
+        "Leaves",
+        "Male Flower",
+        "Root Ball"
+      ]
+    },
+    {
+      "q": "Deionized water is water with which of the following removed?",
+      "a": [
+        "Iron",
+        "Oxygen",
+        "Hydrogen",
+        "Uncharged atoms"
+      ]
+    },
+    {
+      "q": "Which of the following men does not have a chemical element named after him?",
+      "a": [
+        "Sir Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Enrico Fermi"
+      ]
+    },
+    {
+      "q": "Tetsuya Fujita was a scientist that developed the scale for which natural disaster?",
+      "a": [
+        "Tornadoes",
+        "Hurricanes",
+        "Earthquakes",
+        "Volcanoes"
+      ]
+    },
+    {
+      "q": "What causes Lyme disease?",
+      "a": [
+        "A bacteria",
+        "A virus",
+        "A parasitic worm",
+        "An amoeba"
+      ]
+    },
+    {
+      "q": "An organism described as \"heliotropic\" has a tendancy to move towards which of these things?",
+      "a": [
+        "Light",
+        "Water",
+        "Trees",
+        "Pollen"
+      ]
+    },
+    {
+      "q": "What is Hypernatremia?",
+      "a": [
+        "Increase in blood sodium",
+        "Decrease in blood potassium",
+        "Increase in blood glucose",
+        "Decrease in blood iron"
+      ]
+    },
+    {
+      "q": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+      "a": [
+        "2",
+        "0",
+        "1",
+        "5"
+      ]
+    },
+    {
+      "q": "Which chemical element has the lowest boiling point?",
+      "a": [
+        "Helium",
+        "Hydrogen",
+        "Neon",
+        "Nitrogen"
+      ]
+    },
+    {
+      "q": "What is the unit of electrical capacitance?",
+      "a": [
+        "Farad",
+        "Gauss",
+        "Henry",
+        "Watt"
+      ]
+    },
+    {
+      "q": "What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?",
+      "a": [
+        "Cardiopulmonary resuscitation",
+        "Chronic pain relief",
+        "Cancer pain release",
+        "Contraceptive prevalence rate"
+      ]
+    },
+    {
+      "q": "What is an alternative name for multiple personality disorder?",
+      "a": [
+        "Dissociative identity disorder",
+        "Body integrity identity disorder",
+        "Identity crisis",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "q": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+      "a": [
+        "Beryllium",
+        "Gallium",
+        "Caesium",
+        "Mercury"
+      ]
+    },
+    {
+      "q": "How old is the universe?",
+      "a": [
+        "13.8 Billion Years",
+        "4.5 Billion Years",
+        "7.9 Billion Years",
+        "16.2 Billion Years"
+      ]
+    },
+    {
+      "q": "Which of these is a type of stretch/deep tendon reflex?",
+      "a": [
+        "Ankle jerk reflex",
+        "Gag reflex",
+        "Pupillary light reflex",
+        "Scratch reflex"
+      ]
+    },
+    {
+      "q": "How many degrees Fahrenheit is 100 degrees Celsius?",
+      "a": [
+        "212",
+        "326",
+        "100",
+        "451"
+      ]
+    },
+    {
+      "q": "The \"Tibia\" is found in which part of the body?",
+      "a": [
+        "Leg",
+        "Arm",
+        "Hand",
+        "Head"
+      ]
+    },
+    {
+      "q": "What is the atomic number of the element Strontium?",
+      "a": [
+        "38",
+        "73",
+        "47",
+        "11"
+      ]
+    },
+    {
+      "q": "What is the scientific term for 'taste'?",
+      "a": [
+        "Gustatory Perception",
+        "Olfaction",
+        "Somatosensation",
+        "Auditory Perception"
+      ]
+    },
+    {
+      "q": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "a": [
+        "24",
+        "8",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "q": "Approximately how long is a year on Uranus?",
+      "a": [
+        "84 Earth years",
+        "47 Earth years",
+        "62 Earth years",
+        "109 Earth years"
+      ]
+    },
+    {
+      "q": "What are the smallest blood vessels in the human body?",
+      "a": [
+        "Capillaries",
+        "Arterioles",
+        "Veinules",
+        "Lymphatics"
+      ]
+    },
+    {
+      "q": "What term is best associated with Sigmund Freud?",
+      "a": [
+        "Psychoanalysis",
+        "Cognitive-Behavioral Therapy",
+        "Theory of Gravity",
+        "Dialectical Behavior Therapy"
+      ]
+    },
+    {
+      "q": "When was the first mammal successfully cloned?",
+      "a": [
+        "1996",
+        "2009",
+        "1999",
+        "1985"
+      ]
+    },
+    {
+      "q": "Au on the Periodic Table refers to which element?",
+      "a": [
+        "Gold",
+        "Silver",
+        "Oxygen",
+        "Nickel"
+      ]
+    },
+    {
+      "q": "Which of the following spacecraft never touched the moon?",
+      "a": [
+        "Mariner 4",
+        "Apollo 11",
+        "Luna 2",
+        "SMART-1"
+      ]
+    },
+    {
+      "q": "What is the Linnean name of the domestic apple tree?",
+      "a": [
+        "Malus pumila",
+        "Malus americana",
+        "Pomus domestica",
+        "Appelus delectica"
+      ]
+    },
+    {
+      "q": "What mineral has the lowest number on the Mohs scale?",
+      "a": [
+        "Talc",
+        "Quartz",
+        "Diamond",
+        "Gypsum"
+      ]
+    },
+    {
+      "q": "What is the name of the Supermassive Black Hole in the centre of the Milky Way?",
+      "a": [
+        "Sagittarius A*",
+        "Messier 87",
+        "Alpha Centauri",
+        "Andromeda"
+      ]
+    },
+    {
+      "q": "Which chemical element was originally known as Alabamine?",
+      "a": [
+        "Astatine",
+        "Selenium",
+        "Antimony",
+        "Molybdenum"
+      ]
+    },
+    {
+      "q": "Which continent do sweet potatoes originally come from?",
+      "a": [
+        "South America",
+        "Asia",
+        "Africa",
+        "Europe"
+      ]
+    },
+    {
+      "q": "Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?",
+      "a": [
+        "Carl Jung",
+        "Jean Piaget",
+        "Alice Miller",
+        "Hermann Rorschach"
+      ]
+    },
+    {
+      "q": "What polymer is used to make CDs, safety goggles and riot shields?",
+      "a": [
+        "Polycarbonate",
+        "Rubber",
+        "Nylon",
+        "Bakelite"
+      ]
+    },
+    {
+      "q": "At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",
+      "a": [
+        "15 Feet / 5 Meters",
+        "25 Feet / 7.5 Meters",
+        "50 Feet / 15 Meters",
+        "75 Feet / 23 Meters"
+      ]
+    },
+    {
+      "q": "What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?",
+      "a": [
+        "Category 5",
+        "Category 1",
+        "Category 4",
+        "Category 2"
+      ]
+    },
+    {
+      "q": "Approximately what percentage of Earth's atmosphere is Oxygen?",
+      "a": [
+        "21%",
+        "54%",
+        "78%",
+        "7%"
+      ]
+    },
+    {
+      "q": "Who developed the first successful polio vaccine in the 1950s?",
+      "a": [
+        "Jonas Salk",
+        "John F. Enders",
+        "Thomas Weller",
+        "Frederick Robbins"
+      ]
+    },
+    {
+      "q": "What is the standard SI unit for electric current?",
+      "a": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ]
+    },
+    {
+      "q": "Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003?",
+      "a": [
+        "Columbia",
+        "Challenger",
+        "Discovery",
+        "Endeavour"
+      ]
+    },
+    {
+      "q": "Where did the dog breed \"Chihuahua\" originate?",
+      "a": [
+        "Mexico",
+        "France",
+        "Spain",
+        "Russia"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a part of the structure of a typical neuron?",
+      "a": [
+        "Islets of Langerhans",
+        "Node of Ranvier",
+        "Schwann cell",
+        "Myelin sheath"
+      ]
+    },
+    {
+      "q": "What is the lowest layer of the Earth's atmosphere named?",
+      "a": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ]
+    },
+    {
+      "q": "What is the chemical symbol for lead?",
+      "a": [
+        "Pb",
+        "Ld",
+        "Le",
+        "Pm"
+      ]
+    },
+    {
+      "q": "What is the study of the cells and tissues of plants and animals?",
+      "a": [
+        "Histology",
+        "Microbiology",
+        "Anatomy",
+        "Biochemistry"
+      ]
+    },
+    {
+      "q": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "a": [
+        "Cognitive Dissonance",
+        "Flip-Flop Syndrome",
+        "Split-Brain",
+        "Blind Sight"
+      ]
+    },
+    {
+      "q": "A positron is an antiparticle of a what?",
+      "a": [
+        "Electron",
+        "Neutron",
+        "Proton",
+        "Photon"
+      ]
+    },
+    {
+      "q": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+      "a": [
+        "8 Minutes",
+        "6 Minutes",
+        "2 Minutes",
+        "12 Minutes"
+      ]
+    },
+    {
+      "q": "Gannymede is the largest moon of which planet?",
+      "a": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Mars"
+      ]
+    },
+    {
+      "q": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+      "a": [
+        "Ernest Rutherford",
+        "Joseph John Thomson",
+        "Archimedes",
+        "Niels Henrik David Bohr"
+      ]
+    },
+    {
+      "q": "How many teeth does the average adult mouth have (except for wisdom teeth)?",
+      "a": [
+        "32",
+        "36",
+        "20",
+        "28"
+      ]
+    },
+    {
+      "q": "After which Danish city is the 72th element on the periodic table named?",
+      "a": [
+        "Copenhagen",
+        "Odense",
+        "Herning",
+        "Skagen"
+      ]
+    },
+    {
+      "q": "Which part of the body does glaucoma affect?",
+      "a": [
+        "Eyes",
+        "Throat",
+        "Stomach",
+        "Blood"
+      ]
+    },
+    {
+      "q": "What was the first living creature in space?",
+      "a": [
+        "Fruit Flies",
+        "Monkey",
+        "Dog",
+        "Mouse"
+      ]
+    },
+    {
+      "q": "How many baby/milk teeth does a human child have in total?",
+      "a": [
+        "20",
+        "10",
+        "15",
+        "25"
+      ]
+    },
+    {
+      "q": "In Chemistry, how many isomers does Butanol (C4H9OH) have?",
+      "a": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "q": "What is the half-life of Uranium-235?",
+      "a": [
+        "703,800,000 years",
+        "4,300,400,000 years",
+        "1,260,900,000 years",
+        "Uranium-235 is a stable isotope"
+      ]
+    },
+    {
+      "q": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+      "a": [
+        "Uranus",
+        "Jupiter",
+        "Venus",
+        "Neptune"
+      ]
+    },
+    {
+      "q": "What is the chemical formula for ammonia?",
+      "a": [
+        "NH3",
+        "CO2",
+        "NO3",
+        "CH4"
+      ]
+    },
+    {
+      "q": "Myopia is the scientific term for which condition?",
+      "a": [
+        "Shortsightedness",
+        "Farsightedness",
+        "Double Vision",
+        "Clouded Vision"
+      ]
+    }
+  ]
+}

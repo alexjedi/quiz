@@ -1,0 +1,394 @@
+{
+  "id": "otdb-politics",
+  "title": "Politics",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?",
+      "a": [
+        "The Prince",
+        "The Rape of Lucrece",
+        "Will to Power",
+        "Love's Labours Lost"
+      ]
+    },
+    {
+      "q": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+      "a": [
+        "Robert Byrd",
+        "Daniel Inouye",
+        "Strom Thurmond",
+        "Joe Biden"
+      ]
+    },
+    {
+      "q": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "a": [
+        "Yomba Shoshone Tribe",
+        "Standing Rock Sioux Tribe",
+        "Kiowa Tribe of Oklahoma",
+        "Pawnee Nation of Oklahoma"
+      ]
+    },
+    {
+      "q": "Which of the following United States Presidents served the shortest term in office?",
+      "a": [
+        "William Henry Harrison",
+        "Zachary Taylor",
+        "James A. Garfield",
+        "Warren G. Harding"
+      ]
+    },
+    {
+      "q": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+      "a": [
+        "Qatar",
+        "Bahrain",
+        "United States of America",
+        "Russia"
+      ]
+    },
+    {
+      "q": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+      "a": [
+        "Strom Thurmond",
+        "Roy Blunt",
+        "John Barrasso",
+        "Chuck Schumer"
+      ]
+    },
+    {
+      "q": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+      "a": [
+        "2009",
+        "2012",
+        "2006",
+        "1997"
+      ]
+    },
+    {
+      "q": "Which of these was an official candidate in the 2017 British General Election?",
+      "a": [
+        "Lord Buckethead",
+        "James Francis",
+        "Robert Wimbledon",
+        "Sir Crumpetsby"
+      ]
+    },
+    {
+      "q": "\"Yes, America Can!\" was this United States politician's de facto campaign slogan in 2004.",
+      "a": [
+        "George W. Bush",
+        "John Kerry",
+        "Barack Obama",
+        "Al Gore"
+      ]
+    },
+    {
+      "q": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+      "a": [
+        "A",
+        "X",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "q": "Which major bank's collapse was notable as one of the causes of the Financal Crisis of 2008?",
+      "a": [
+        "Lehman Brothers",
+        "HSBC",
+        "Barclays",
+        "Lloyds"
+      ]
+    },
+    {
+      "q": "What is centralism?",
+      "a": [
+        "Concentration of power and authority in a central organization.",
+        "Conforming to one single common political agenda.",
+        "Remaining politically neutral.",
+        "The grey area in the spectrum of political left and right."
+      ]
+    },
+    {
+      "q": "Who is the only US president to serve two non-consecutive terms in office?",
+      "a": [
+        "Grover Cleveland",
+        "James K. Polk",
+        "Franklin D. Roosevelt",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "q": "Starting from 2000, China banned manufacturing and sales of all video game consoles. On which year was this ban lifted?",
+      "a": [
+        "2015",
+        "2012",
+        "2008",
+        "2017"
+      ]
+    },
+    {
+      "q": "Which US state was the first to allow women to vote in 1869?",
+      "a": [
+        "Wyoming",
+        "California",
+        "Delaware",
+        "Virginia"
+      ]
+    },
+    {
+      "q": "Which nation joined NATO as its 29th member in 2017?",
+      "a": [
+        "Montenegro",
+        "Estonia",
+        "Andorra",
+        "Iceland"
+      ]
+    },
+    {
+      "q": "Who was elected leader of the UK Labour Party in September 2015?",
+      "a": [
+        "Jeremy Corbyn",
+        "Ed Miliband",
+        "David Cameron",
+        "Theresa May"
+      ]
+    },
+    {
+      "q": "Who is one of the co-princes of Andorra?",
+      "a": [
+        "The president of France",
+        "The monarch of the UK",
+        "The Pope",
+        "No-one (the position is vacant)"
+      ]
+    },
+    {
+      "q": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+      "a": [
+        "India",
+        "United States of America",
+        "Soviet Union",
+        "Poland"
+      ]
+    },
+    {
+      "q": "What is former United States President Bill Clinton's full name?",
+      "a": [
+        "William Jefferson Clinton",
+        "William Roosevelt Clinton",
+        "William Truman Clinton",
+        "William Lincoln Clinton"
+      ]
+    },
+    {
+      "q": "Which former US president used \"Let's Make America Great Again\" as his campaign slogan before Donald Trump's campaign?",
+      "a": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "Gerald Ford",
+        "Richard Nixon"
+      ]
+    },
+    {
+      "q": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+      "a": [
+        "Chinese Taipei",
+        "Chinese Taiwan",
+        "Republic of Taiwan",
+        "Republic of Taipei"
+      ]
+    },
+    {
+      "q": "Who was the 40th President of the USA?",
+      "a": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "Bill Clinton",
+        "Richard Nixon"
+      ]
+    },
+    {
+      "q": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+      "a": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "q": "Which city is the seat of government of the Netherlands?",
+      "a": [
+        "The Hague",
+        "Amsterdam",
+        "Utrecht",
+        "Rotterdam"
+      ]
+    },
+    {
+      "q": "Before 2011, \"True Capitalist Radio\" was known by a different name. What was that name?",
+      "a": [
+        "True Conservative Radio",
+        "True Republican Radio",
+        "Texan Capitalist Radio",
+        "United Capitalists"
+      ]
+    },
+    {
+      "q": "The Watergate Scandal occured in what year?",
+      "a": [
+        "1972",
+        "1973",
+        "1974",
+        "1971"
+      ]
+    },
+    {
+      "q": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+      "a": [
+        "Preventing unreasonable searches and seizures",
+        "Preventing cruel and unusual punishments",
+        "Protecting against imprisonment without due process of law",
+        "Protecting the right to keep and bear arms"
+      ]
+    },
+    {
+      "q": "Who was the British Prime Minister at the outbreak of the Second World War?",
+      "a": [
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Winston Churchill",
+        "Stanley Baldwin"
+      ]
+    },
+    {
+      "q": "Which of these is NOT one of Donald Trump's children?",
+      "a": [
+        "Julius",
+        "Donald Jr.",
+        "Ivanka",
+        "Eric"
+      ]
+    },
+    {
+      "q": "The 2014 movie \"The Raid 2: Berandal\" was mainly filmed in which Asian country?",
+      "a": [
+        "Indonesia",
+        "Thailand",
+        "Brunei",
+        "Malaysia"
+      ]
+    },
+    {
+      "q": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "a": [
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ]
+    },
+    {
+      "q": "What year did Gerald Ford Become President?",
+      "a": [
+        "1974",
+        "1977",
+        "1973",
+        "1969"
+      ]
+    },
+    {
+      "q": "Which U.S. president is said to have had the longest beard?",
+      "a": [
+        "Rutherford B. Hayes",
+        "Zachary Taylor",
+        "John Quincy Adams",
+        "James A. Garfield"
+      ]
+    },
+    {
+      "q": "Who became Prime Minister of the United Kingdom in July 2016?",
+      "a": [
+        "Theresa May",
+        "Boris Johnson",
+        "David Cameron",
+        "Tony Blair"
+      ]
+    },
+    {
+      "q": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+      "a": [
+        "Justin and Pierre",
+        "John and Louis",
+        "Brian and Justin",
+        "Brian and Pierre"
+      ]
+    },
+    {
+      "q": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+      "a": [
+        "Chile",
+        "Ethiopia",
+        "Indonesia",
+        "Nicaragua"
+      ]
+    },
+    {
+      "q": "Who was the only president to not be in office in Washington D.C?",
+      "a": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Richard Nixon",
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "q": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "a": [
+        "The Kingfish",
+        "The Champ",
+        "The Hoot Owl",
+        "The Oracle"
+      ]
+    },
+    {
+      "q": "Before 2016, in which other year did Donald Trump run for President?",
+      "a": [
+        "2000",
+        "2012",
+        "1988",
+        "2008"
+      ]
+    },
+    {
+      "q": "Which United Nations principal organ has been suspended since 1994?",
+      "a": [
+        "Trusteeship Council",
+        "Secretariat",
+        "General Assembly",
+        "Economic and Social Council"
+      ]
+    },
+    {
+      "q": "Which of the following Argentinian presidents was elected in 2015?",
+      "a": [
+        "Mauricio Macri",
+        "Cristina Fernandez de Kirchner",
+        "Nestor Kirchner",
+        "Juan Domingo Peron"
+      ]
+    },
+    {
+      "q": "Which president erased the national debt of the United States?",
+      "a": [
+        "Andrew Jackson",
+        "Ronald Reagan",
+        "John F. Kennedy",
+        "Franklin Roosevelt"
+      ]
+    }
+  ]
+}

@@ -74,11 +74,11 @@ export function Round({ state }: { state: RoomState }) {
     <div className="flex flex-1 flex-col gap-4">
       <header className="flex items-center justify-between gap-3">
         <div className="flex items-center gap-3">
-          <span key={index} className="animate-pop text-4xl font-black [text-shadow:0_3px_0_var(--color-edge)]">
+          <span className="text-4xl font-black [text-shadow:0_3px_0_var(--color-edge)]">
             {index + 1}/{question.total}
           </span>
           {blitz && (
-            <span className="flex animate-pop items-center gap-1 rounded-full border-[3px] border-edge bg-gold px-3 py-1 text-sm font-black tracking-wide text-edge uppercase">
+            <span className="flex items-center gap-1 rounded-full border-[3px] border-edge bg-gold px-3 py-1 text-sm font-black tracking-wide text-edge uppercase">
               <BoltIcon size={16} />
               Blitz
             </span>
@@ -93,7 +93,7 @@ export function Round({ state }: { state: RoomState }) {
           running={revealing || !expired}
         />
       </header>
-      <Panel key={index} className="flex min-h-32 items-center justify-center">
+      <Panel key={index} className="flex min-h-32 animate-fade items-center justify-center">
         <p className="text-center text-2xl leading-snug font-black sm:text-3xl">{question.text}</p>
       </Panel>
       <div key={`answers-${index}`} className="grid gap-3 sm:grid-cols-2">
@@ -110,25 +110,12 @@ export function Round({ state }: { state: RoomState }) {
         ))}
       </div>
       <div className="flex items-center justify-between gap-3">
-        <Heading
-          key={verdict}
-          className={cx(
-            "animate-pop text-left text-lg",
-            revealing && (gain > 0 ? "text-good" : "text-bad"),
-          )}
-        >
+        <Heading className={cx("text-left text-lg", revealing && (gain > 0 ? "text-good" : "text-bad"))}>
           {verdict}
         </Heading>
         <div className="flex -space-x-2">
           {players.map((player) => (
-            <span
-              key={player.id}
-              className={cx(
-                "transition-[opacity,scale] duration-300 ease-spring",
-                player.answered ? "scale-100 opacity-100" : "scale-85 opacity-40",
-              )}
-              title={player.name}
-            >
+            <span key={player.id} className={player.answered ? undefined : "opacity-40"} title={player.name}>
               <Avatar seed={player.avatar} size={34} />
             </span>
           ))}

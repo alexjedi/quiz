@@ -902,6 +902,312 @@
         "Amstrad PLC",
         "Commodore Business Machines"
       ]
+    },
+    {
+      "q": "The Harvard architecture for micro-controllers added which additional bus?",
+      "a": [
+        "Instruction",
+        "Address",
+        "Data",
+        "Control"
+      ]
+    },
+    {
+      "q": "Who invented the \"Spanning Tree Protocol\"?",
+      "a": [
+        "Radia Perlman",
+        "Paul Vixie",
+        "Vint Cerf",
+        "Michael Roberts"
+      ]
+    },
+    {
+      "q": "Which of these is not a layer in the OSI model for data communications?",
+      "a": [
+        "Connection Layer",
+        "Application Layer",
+        "Transport Layer",
+        "Physical Layer"
+      ]
+    },
+    {
+      "q": "Which of these names was an actual codename for a cancelled Microsoft project?",
+      "a": [
+        "Neptune",
+        "Enceladus",
+        "Pollux",
+        "Saturn"
+      ]
+    },
+    {
+      "q": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "a": [
+        "Heartbleed",
+        "Shellshock",
+        "Corrupted Blood",
+        "Shellscript"
+      ]
+    },
+    {
+      "q": "Which kind of algorithm is Ron Rivest not famous for creating?",
+      "a": [
+        "Secret sharing scheme",
+        "Hashing algorithm",
+        "Asymmetric encryption",
+        "Stream cipher"
+      ]
+    },
+    {
+      "q": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+      "a": [
+        "Quantum Teleportation",
+        "Super Dense Coding",
+        "Quantum Entanglement",
+        "Quantum Programming"
+      ]
+    },
+    {
+      "q": "How many Hz does the video standard PAL support?",
+      "a": [
+        "50",
+        "59",
+        "60",
+        "25"
+      ]
+    },
+    {
+      "q": "What was the name of the first Bulgarian personal computer?",
+      "a": [
+        "IMKO-1",
+        "Pravetz 82",
+        "Pravetz 8D",
+        "IZOT 1030"
+      ]
+    },
+    {
+      "q": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "a": [
+        "Game Maker",
+        "Stencyl",
+        "Construct",
+        "Torque 2D"
+      ]
+    },
+    {
+      "q": "Which of the following is the oldest of these computers by release date?",
+      "a": [
+        "TRS-80",
+        "Commodore 64",
+        "ZX Spectrum",
+        "Apple 3"
+      ]
+    },
+    {
+      "q": "Which internet company began life as an online bookstore called 'Cadabra'?",
+      "a": [
+        "Amazon",
+        "eBay",
+        "Overstock",
+        "Shopify"
+      ]
+    },
+    {
+      "q": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "a": [
+        "Motorola 68000",
+        "Zilog Z80",
+        "Yamaha YM2612",
+        "Intel 8088"
+      ]
+    },
+    {
+      "q": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "a": [
+        "Midnight, January 1, 1970",
+        "Midnight, July 4, 1976",
+        "Midnight on the creator of Unix's birthday",
+        "Midnight, July 4, 1980"
+      ]
+    },
+    {
+      "q": "What does RAID stand for?",
+      "a": [
+        "Redundant Array of Independent Disks",
+        "Rapid Access for Indexed Devices",
+        "Range of Applications with Identical Designs",
+        "Randomized Abstract Identification Description"
+      ]
+    },
+    {
+      "q": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "a": [
+        "Non-impact printer",
+        "Impact printer",
+        "Daisywheel printer",
+        "Dot matrix printer"
+      ]
+    },
+    {
+      "q": "Which of these people was NOT a founder of Apple Inc?",
+      "a": [
+        "Jonathan Ive",
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Steve Wozniak"
+      ]
+    },
+    {
+      "q": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+      "a": [
+        "Bliss",
+        "Azul",
+        "Red moon desert",
+        "Tulips"
+      ]
+    },
+    {
+      "q": "The teapot often seen in many 3D modeling applications is called what?",
+      "a": [
+        "Utah Teapot",
+        "Pixar Teapot",
+        "3D Teapot",
+        "Tennessee Teapot"
+      ]
+    },
+    {
+      "q": "What does the term MIME stand for, in regards to computing?",
+      "a": [
+        "Multipurpose Internet Mail Extensions",
+        "Mail Internet Mail Exchange",
+        "Multipurpose Interleave Mail Exchange",
+        "Mail Interleave Method Exchange"
+      ]
+    },
+    {
+      "q": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "a": [
+        "The Onion Router",
+        "The Only Router",
+        "The Orange Router",
+        "The Ominous Router"
+      ]
+    },
+    {
+      "q": "Which programming language was developed by Sun Microsystems in 1995?",
+      "a": [
+        "Java",
+        "Python",
+        "Solaris OS",
+        "C++"
+      ]
+    },
+    {
+      "q": "How many bits make up the significand portion of a single precision floating point number?",
+      "a": [
+        "23",
+        "8",
+        "53",
+        "15"
+      ]
+    },
+    {
+      "q": "In the server hosting industry IaaS stands for...",
+      "a": [
+        "Infrastructure as a Service",
+        "Internet as a Service",
+        "Internet and a Server",
+        "Infrastructure as a Server"
+      ]
+    },
+    {
+      "q": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "a": [
+        "C#",
+        "Java",
+        "C++",
+        "Objective-C"
+      ]
+    },
+    {
+      "q": "Which operating system was released first?",
+      "a": [
+        "Mac OS",
+        "Windows",
+        "Linux",
+        "OS/2"
+      ]
+    },
+    {
+      "q": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "a": [
+        "Heat Sink",
+        "CPU Vent",
+        "Temperature Decipator",
+        "Heat Vent"
+      ]
+    },
+    {
+      "q": "How many bytes are in a single Kibibyte?",
+      "a": [
+        "1024",
+        "2400",
+        "1000",
+        "1240"
+      ]
+    },
+    {
+      "q": "On which day did the World Wide Web go online?",
+      "a": [
+        "December 20, 1990",
+        "December 17, 1996",
+        "November 12, 1990",
+        "November 24, 1995"
+      ]
+    },
+    {
+      "q": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "a": [
+        "Inkscape",
+        "Paint.NET",
+        "GIMP",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "q": "What is the name of the default theme that is installed with Windows XP?",
+      "a": [
+        "Luna",
+        "Neptune",
+        "Whistler",
+        "Bliss"
+      ]
+    },
+    {
+      "q": "What does the acronym CDN stand for in terms of networking?",
+      "a": [
+        "Content Delivery Network",
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network"
+      ]
+    },
+    {
+      "q": "Linus Torvalds created which of these?",
+      "a": [
+        "Linux",
+        "Microsoft Windows",
+        "Python",
+        "Wikipedia"
+      ]
+    },
+    {
+      "q": "Generally, which component of a computer draws the most power?",
+      "a": [
+        "Video Card",
+        "Hard Drive",
+        "Processor",
+        "Power Supply"
+      ]
     }
   ]
 }

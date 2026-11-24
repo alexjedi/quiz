@@ -1,0 +1,340 @@
+{
+  "id": "otdb-celebrities",
+  "title": "Celebrities",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Billy Herrington is from which US state?",
+      "a": [
+        "New York",
+        "Arizona",
+        "California",
+        "Georgia"
+      ]
+    },
+    {
+      "q": "What was the religion of famous singer \"Freddie Mercury\"?",
+      "a": [
+        "Zoroastrianism",
+        "Paganism",
+        "Ashurism",
+        "Judaism"
+      ]
+    },
+    {
+      "q": "The eccentric natural philosopher Tycho Brahe kept what as a pet?",
+      "a": [
+        "Moose",
+        "Dog",
+        "Bear",
+        "Goat"
+      ]
+    },
+    {
+      "q": "Who was Donald Trump's first wife?",
+      "a": [
+        "Ivana Zelníčková",
+        "Melania Knauss",
+        "Marla Maples",
+        "Nancy Davis"
+      ]
+    },
+    {
+      "q": "Gabe Newell was born in which year?",
+      "a": [
+        "1962",
+        "1970",
+        "1960",
+        "1972"
+      ]
+    },
+    {
+      "q": "How tall is Tom Cruise?",
+      "a": [
+        "5′ 7″",
+        "5′ 9″",
+        "5′ 4″",
+        "5′ 5″"
+      ]
+    },
+    {
+      "q": "Which school in Surrey, England did Steve Backshall attend?",
+      "a": [
+        "Collingwood College",
+        "Tomlinscote School",
+        "Kings International College",
+        "Lyndhurst School"
+      ]
+    },
+    {
+      "q": "How old was Muhammad Ali when he died?",
+      "a": [
+        "74",
+        "61",
+        "He's still alive",
+        "56"
+      ]
+    },
+    {
+      "q": "Nikki Diamond portrayed which Gladiator in the 1992 TV show \"Gladiators\"?",
+      "a": [
+        "Scorpio",
+        "Jet",
+        "Nightshade",
+        "Falcon"
+      ]
+    },
+    {
+      "q": "What year was O.J. Simpson aquitted of his murder charges?",
+      "a": [
+        "1995",
+        "1992",
+        "1996",
+        "1991"
+      ]
+    },
+    {
+      "q": "What year did radio icon Howard Stern start a job at radio station WNBC?",
+      "a": [
+        "1982",
+        "1985",
+        "1984",
+        "1995"
+      ]
+    },
+    {
+      "q": "What is generally considered to be William Shakespeare's birth date?",
+      "a": [
+        "April 23rd, 1564",
+        "July 4th, 1409",
+        "September 29th, 1699",
+        "December 1st, 1750"
+      ]
+    },
+    {
+      "q": "In which of these TV shows did the chef Gordon Ramsay not appear?",
+      "a": [
+        "Auction Hunters",
+        "Ramsay's Kitchen Nightmares",
+        "Hotel Hell",
+        "Hell's Kitchen"
+      ]
+    },
+    {
+      "q": "Paul McCartney has always used his middle name. What is his real first name?",
+      "a": [
+        "James",
+        "John",
+        "Jack",
+        "Justin"
+      ]
+    },
+    {
+      "q": "Where was Kanye West born?",
+      "a": [
+        "Atlanta, Georgia",
+        "Chicago, Illinois",
+        "Los Angeles, California",
+        "Detroit, Michigan"
+      ]
+    },
+    {
+      "q": "When was Elvis Presley born?",
+      "a": [
+        "January 8, 1935",
+        "December 13, 1931",
+        "July 18, 1940",
+        "April 17, 1938"
+      ]
+    },
+    {
+      "q": "Which radio personality calls himself \"The King of All Media\"?",
+      "a": [
+        "Howard Stern",
+        "Rush Limbaugh",
+        "Pete Tong",
+        "Ryan Seacrest"
+      ]
+    },
+    {
+      "q": "Which famous New York Yankees outfielder did Marilyn Monroe marry?",
+      "a": [
+        "Joe DiMaggio",
+        "Tino Martinez",
+        "Babe Ruth",
+        "Mason Williams"
+      ]
+    },
+    {
+      "q": "Donald J. Trump's Middle Name is...",
+      "a": [
+        "John",
+        "Jeff",
+        "Jerald",
+        "Jason"
+      ]
+    },
+    {
+      "q": "Which TV chef wrote an autobiography titled \"Humble Pie\"?",
+      "a": [
+        "Gordon Ramsay",
+        "Jamie Oliver",
+        "Ainsley Harriott",
+        "Antony Worrall Thompson"
+      ]
+    },
+    {
+      "q": "Who out of these actresses is the youngest?",
+      "a": [
+        "Kiernan Shipka",
+        "Ariel Winter",
+        "Emma Watson",
+        "Bonnie Wright"
+      ]
+    },
+    {
+      "q": "What is Doug Walker's YouTube name?",
+      "a": [
+        "The Nostalgia Critic",
+        "The Angry Video Game Nerd",
+        "AngryJoeShow",
+        "The Cinema Snob"
+      ]
+    },
+    {
+      "q": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+      "a": [
+        "Bing Crosby",
+        "Elvis Presley",
+        "Charlie Chaplin",
+        "Groucho Marx"
+      ]
+    },
+    {
+      "q": "What is the real name of \"moot\", founder of the imageboard 4chan?",
+      "a": [
+        "Christopher Poole",
+        "Mark Zuckerberg",
+        "Allison Harvard",
+        "Catie Wayne"
+      ]
+    },
+    {
+      "q": "What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
+      "a": [
+        "Bullying",
+        "Criminal Record",
+        "Nomination for Worst Actor",
+        "Racism"
+      ]
+    },
+    {
+      "q": "How much weight did Chris Pratt lose for his role as Star-Lord in \"Guardians of the Galaxy\"?",
+      "a": [
+        "60 lbs",
+        "30 lbs",
+        "50 lbs",
+        "70 lbs"
+      ]
+    },
+    {
+      "q": "Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",
+      "a": [
+        "The Party",
+        "The Weather Girls",
+        "The Pussycat Dolls",
+        "The Cheetah Girls"
+      ]
+    },
+    {
+      "q": "Which television show has Dan Gheesling been on?",
+      "a": [
+        "Big Brother",
+        "Jeopardy",
+        "Survivor",
+        "The Bachelor"
+      ]
+    },
+    {
+      "q": "Which of these celebrities was not a member of the Jackson 5?",
+      "a": [
+        "Bo Jackson",
+        "Tito Jackson",
+        "Jermaine Jackson",
+        "Marlon Jackson"
+      ]
+    },
+    {
+      "q": "In what year did \"Bob Ross\" die?",
+      "a": [
+        "1995",
+        "1986",
+        "1989",
+        "1997"
+      ]
+    },
+    {
+      "q": "What was the name of Marilyn Monroe's first husband?",
+      "a": [
+        "James Dougherty",
+        "Joe Dimaggio",
+        "Kirk Douglas",
+        "Arthur Miller"
+      ]
+    },
+    {
+      "q": "Which actress's real name was Frances Ethel Gumm?",
+      "a": [
+        "Judy Garland",
+        "Doris Day",
+        "Julie Andrews",
+        "Marilyn Monroe"
+      ]
+    },
+    {
+      "q": "If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",
+      "a": [
+        "2035",
+        "2030",
+        "2040",
+        "2045"
+      ]
+    },
+    {
+      "q": "Which of these people is NOT a part of the Internet comedy group Mega64?",
+      "a": [
+        "Jon Jafari",
+        "Rocco Botte",
+        "Derrick Acosta",
+        "Shawn Chatfield"
+      ]
+    },
+    {
+      "q": "Who is \"James Rolfe\" better known as?",
+      "a": [
+        "The Angry Video Game Nerd",
+        "TotalBiscuit",
+        "PeanutButterGamer",
+        "PewDiePie"
+      ]
+    },
+    {
+      "q": "In which situation was musician John Lennon assassinated?",
+      "a": [
+        "Attempting to enter the Dakota Apartments building",
+        "During an impromptu walk through Central Park",
+        "Signing an autograph outside the Record Plant studio",
+        "Waiting outside a music venue in Manhattan following a gig"
+      ]
+    },
+    {
+      "q": "In 2014, this new top 100 rapper who featured in \"Computers\" and \"Body Dance\" was arrested in a NYPD sting for murder.",
+      "a": [
+        "Bobby Shmurda",
+        "DJ Snake",
+        "Swae Lee",
+        "Young Thug"
+      ]
+    }
+  ]
+}

@@ -80,7 +80,7 @@ export function App() {
       <Background tone={tone} shift={shift} />
       <main className="relative mx-auto flex min-h-full w-full max-w-5xl flex-col gap-5 px-4 py-5 sm:px-8 sm:py-8">
         {state && !room.connected && (
-          <div className="animate-pop self-center rounded-full border-[3px] border-edge bg-bad px-4 py-1.5 text-sm font-black uppercase">
+          <div className="animate-fade self-center rounded-full border-[3px] border-edge bg-bad px-4 py-1.5 text-sm font-black uppercase">
             Reconnecting…
           </div>
         )}

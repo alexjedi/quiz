@@ -902,6 +902,384 @@
         "Ronald Ratzenberger",
         "Gilles Villeneuve"
       ]
+    },
+    {
+      "q": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "a": [
+        "Nine",
+        "Ten",
+        "Seven",
+        "Eight"
+      ]
+    },
+    {
+      "q": "Which year was the third Super Bowl held?",
+      "a": [
+        "1969",
+        "1968",
+        "1971",
+        "1970"
+      ]
+    },
+    {
+      "q": "What is “The Sport of Kings”?",
+      "a": [
+        "Horse Racing",
+        "Chess",
+        "Jousting",
+        "Fencing"
+      ]
+    },
+    {
+      "q": "Which of these NHL players have never won a Hart Trophy for Regular Season MVP?",
+      "a": [
+        "Steve Yzerman",
+        "Chris Pronger",
+        "Jose Theodore",
+        "Henrik Sedin"
+      ]
+    },
+    {
+      "q": "What is the full name of the footballer \"Cristiano Ronaldo\"?",
+      "a": [
+        "Cristiano Ronaldo dos Santos Aveiro",
+        "Cristiano Ronaldo los Santos Diego",
+        "Cristiano Armando Diego Ronaldo",
+        "Cristiano Luis Armando Ronaldo"
+      ]
+    },
+    {
+      "q": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+      "a": [
+        "Hammer",
+        "Wrench",
+        "Drill",
+        "Screwdriver"
+      ]
+    },
+    {
+      "q": "With which doubles partner did John McEnroe have most success?",
+      "a": [
+        "Peter Fleming",
+        "Mark Woodforde",
+        "Michael Stich",
+        "Mary Carillo"
+      ]
+    },
+    {
+      "q": "At which race was the 2018 F1 Drivers Championship won?",
+      "a": [
+        "Mexico",
+        "United States",
+        "Belgium",
+        "Abu Dhabi"
+      ]
+    },
+    {
+      "q": "Which city features all of their professional sports teams' jersey's with the same color scheme?",
+      "a": [
+        "Pittsburgh",
+        "New York",
+        "Seattle",
+        "Tampa Bay"
+      ]
+    },
+    {
+      "q": "In Canadian football, scoring a rouge is worth how many points?",
+      "a": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "q": "Which football manager won more trophies than any other during his tenure at English football club Manchester United?",
+      "a": [
+        "Sir Alex Ferguson",
+        "David Moyes",
+        "Louis van Gaal",
+        "José Mourinho"
+      ]
+    },
+    {
+      "q": "Which of the following player scored a hat-trick during their Manchester United debut?",
+      "a": [
+        "Wayne Rooney",
+        "Cristiano Ronaldo",
+        "Robin Van Persie",
+        "David Beckham"
+      ]
+    },
+    {
+      "q": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+      "a": [
+        "Shaquille O'Neal",
+        "Allen Iverson",
+        "Kobe Bryant",
+        "Paul Pierce"
+      ]
+    },
+    {
+      "q": "Hockey player Wayne Gretzky was born in what Canadian province?",
+      "a": [
+        "Ontario",
+        "British Columbia",
+        "Quebec",
+        "Alberta"
+      ]
+    },
+    {
+      "q": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+      "a": [
+        "India",
+        "Australia",
+        "Turkey",
+        "Cambodia"
+      ]
+    },
+    {
+      "q": "Which soccer team won the Copa América 2015 Championship ?",
+      "a": [
+        "Chile",
+        "Argentina",
+        "Brazil",
+        "Paraguay"
+      ]
+    },
+    {
+      "q": "What country hosted the 2014 Winter Olympics?",
+      "a": [
+        "Russia",
+        "Canada",
+        "United States",
+        "Germany"
+      ]
+    },
+    {
+      "q": "In what country were the 2014 Winter Olympics held in the town of Sochi?",
+      "a": [
+        "Russia",
+        "South Korea",
+        "Norway",
+        "Canada"
+      ]
+    },
+    {
+      "q": "What year was hockey legend Wayne Gretzky born?",
+      "a": [
+        "1961",
+        "1965",
+        "1959",
+        "1963"
+      ]
+    },
+    {
+      "q": "Which German sportswear company's logo is the 'Formstripe'?",
+      "a": [
+        "Puma",
+        "Nike",
+        "Adidas",
+        "Reebok"
+      ]
+    },
+    {
+      "q": "Who is Manchester United's top premier league goal scorer?",
+      "a": [
+        "Wayne Rooney",
+        "Sir Bobby Charlton",
+        "Ryan Giggs",
+        "David Beckham"
+      ]
+    },
+    {
+      "q": "Who won NFL Super Bowl LI? (51)",
+      "a": [
+        "Patriots",
+        "Falcons",
+        "Broncos",
+        "Eagles"
+      ]
+    },
+    {
+      "q": "In a game of snooker, what colour ball is worth 3 points?",
+      "a": [
+        "Green",
+        "Yellow",
+        "Brown",
+        "Blue"
+      ]
+    },
+    {
+      "q": "Which player has scored the most goals in the England Premier League (EPL)?",
+      "a": [
+        "Alan Shearer",
+        "Wayne Rooney",
+        "Lionel Messi",
+        "Didier Drogba"
+      ]
+    },
+    {
+      "q": "How many scoring zones are there on a conventional dart board?",
+      "a": [
+        "82",
+        "62",
+        "42",
+        "102"
+      ]
+    },
+    {
+      "q": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+      "a": [
+        "Carlos Sainz Jr.",
+        "Daniil Kvyat",
+        "Jolyon Palmer",
+        "Rio Haryanto"
+      ]
+    },
+    {
+      "q": "Which nation hosted the FIFA World Cup in 2006?",
+      "a": [
+        "Germany",
+        "United Kingdom",
+        "Brazil",
+        "South Africa"
+      ]
+    },
+    {
+      "q": "How many games did Arsenal FC go unbeaten during the 2003-2004 season of the English Premier League",
+      "a": [
+        "38",
+        "51",
+        "49",
+        "22"
+      ]
+    },
+    {
+      "q": "Who was the top scorer of the 2014 FIFA World Cup?",
+      "a": [
+        "James Rodríguez",
+        "Thomas Müller",
+        "Lionel Messi",
+        "Neymar"
+      ]
+    },
+    {
+      "q": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+      "a": [
+        "Duck",
+        "Bye",
+        "Beamer",
+        "Carry"
+      ]
+    },
+    {
+      "q": "Which darts player has won the most World Championship titles?",
+      "a": [
+        "Phil Taylor",
+        "Michael van Gerwen",
+        "Raymond van Barneveld",
+        "Eric Bristow"
+      ]
+    },
+    {
+      "q": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+      "a": [
+        "Madeira",
+        "Terceira",
+        "Santa Maria",
+        "Porto Santo"
+      ]
+    },
+    {
+      "q": "Who won the \"Champions League\" in 1999?",
+      "a": [
+        "Manchester United",
+        "Barcelona",
+        "Bayern Munich",
+        "Liverpool"
+      ]
+    },
+    {
+      "q": "In what sport does Fanny Chmelar compete for Germany?",
+      "a": [
+        "Skiing",
+        "Swimming",
+        "Showjumping",
+        "Gymnastics"
+      ]
+    },
+    {
+      "q": "Who was the British professional wrestler Shirley Crabtree better known as?",
+      "a": [
+        "Big Daddy",
+        "Giant Haystacks",
+        "Kendo Nagasaki",
+        "Masambula"
+      ]
+    },
+    {
+      "q": "Who won the 2015 College Football Playoff (CFP) National Championship?",
+      "a": [
+        "Ohio State Buckeyes",
+        "Alabama Crimson Tide",
+        "Clemson Tigers",
+        "Wisconsin Badgers"
+      ]
+    },
+    {
+      "q": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+      "a": [
+        "Porsche",
+        "Toyota",
+        "Audi",
+        "Chevrolet"
+      ]
+    },
+    {
+      "q": "Why was The Green Monster at Fenway Park was originally built?",
+      "a": [
+        "To prevent viewing games from outside the park.",
+        "To make getting home runs harder.",
+        "To display advertisements.",
+        "To provide extra seating."
+      ]
+    },
+    {
+      "q": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+      "a": [
+        "Jordan",
+        "Benetton",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "q": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+      "a": [
+        "Porsche",
+        "Toyota",
+        "Audi",
+        "Ferrari"
+      ]
+    },
+    {
+      "q": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+      "a": [
+        "84.39m",
+        "100m",
+        "100yd",
+        "109.36yd"
+      ]
+    },
+    {
+      "q": "How many French Open's did Björn Borg win?",
+      "a": [
+        "6",
+        "4",
+        "9",
+        "2"
+      ]
     }
   ]
 }

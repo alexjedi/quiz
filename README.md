@@ -36,7 +36,10 @@ To import more packs from the Open Trivia Database:
 ```sh
 pnpm import:otdb              # lists the categories
 pnpm import:otdb 22 25        # writes src/questions/otdb-<name>.json for those category ids
+pnpm import:otdb 22 --limit=150 --difficulty=hard,medium
 ```
+
+Existing pack files are kept: up to `--limit` new questions are appended and duplicates are skipped. With `--difficulty`, the limit is split across the listed levels and later levels make up any shortfall.
 
 Then register the new files in `src/questions/index.ts`.
 

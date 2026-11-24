@@ -1,43 +1,53 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { serverNow } from "../state/room";
 import { cx } from "./cx";
 
 const RADIUS = 21;
-const LENGTH = 2 * Math.PI * RADIUS;
-const TICK_MS = 100;
+
+const secondsUntil = (endsAt: number) => Math.ceil(Math.max(0, endsAt - serverNow()) / 1000);
 
 export function Timer({ endsAt, totalMs, running }: { endsAt: number; totalMs: number; running: boolean }) {
-  const [left, setLeft] = useState(() => Math.max(0, endsAt - serverNow()));
+  const [seconds, setSeconds] = useState(() => secondsUntil(endsAt));
 
   useEffect(() => {
-    setLeft(Math.max(0, endsAt - serverNow()));
-    if (!running) return;
-    const interval = setInterval(() => setLeft(Math.max(0, endsAt - serverNow())), TICK_MS);
-    return () => clearInterval(interval);
+    let timeout: ReturnType<typeof setTimeout>;
+    const tick = () => {
+      const left = Math.max(0, endsAt - serverNow());
+      setSeconds(Math.ceil(left / 1000));
+      if (running && left > 0) timeout = setTimeout(tick, (left % 1000) + 5);
+    };
+    tick();
+    return () => clearTimeout(timeout);
   }, [endsAt, running]);
 
-  const seconds = Math.ceil(left / 1000);
+  const ring = useMemo(() => {
+    const left = Math.max(0, endsAt - serverNow());
+    return {
+      from: 100 * (1 - Math.min(1, left / totalMs)),
+      animation: running && left > 0 ? `drain ${left}ms linear forwards` : "none",
+    };
+  }, [endsAt, totalMs, running]);
+
   const urgent = running && seconds <= 3;
   return (
     <div
-      className={cx(
-        "relative flex size-16 shrink-0 items-center justify-center rounded-full border-[3px] border-edge bg-well",
-        urgent && "animate-pulse-fast",
-      )}
+      className="relative flex size-16 shrink-0 items-center justify-center rounded-full border-[3px] border-edge bg-well"
       role="timer"
       aria-label={`${seconds} seconds left`}
     >
       <svg viewBox="0 0 50 50" className="absolute inset-0 -rotate-90">
         <circle
+          key={`${endsAt}-${running}`}
           cx="25"
           cy="25"
           r={RADIUS}
           fill="none"
           strokeWidth="6"
           strokeLinecap="round"
-          strokeDasharray={LENGTH}
-          strokeDashoffset={LENGTH * (1 - Math.min(1, left / totalMs))}
-          className={cx("transition-[stroke] duration-300", urgent ? "stroke-bad" : "stroke-accent")}
+          pathLength={100}
+          strokeDasharray={100}
+          style={{ strokeDashoffset: ring.from, animation: ring.animation }}
+          className={urgent ? "stroke-bad" : "stroke-accent"}
         />
       </svg>
       <span className={cx("relative text-xl font-black tabular-nums", urgent && "text-bad")}>{seconds}</span>

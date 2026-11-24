@@ -1,0 +1,1357 @@
+{
+  "id": "otdb-geography",
+  "title": "Geography",
+  "source": "Open Trivia Database, CC BY-SA 4.0",
+  "questions": [
+    {
+      "q": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+      "a": [
+        "Egypt and Sudan",
+        "Israel and Jordan",
+        "Chad and Libya",
+        "Iraq and Saudi Arabia"
+      ]
+    },
+    {
+      "q": "What is the tallest mountain in Canada?",
+      "a": [
+        "Mount Logan",
+        "Mont Tremblant",
+        "Whistler Mountain",
+        "Blue Mountain"
+      ]
+    },
+    {
+      "q": "Where is Fort Marlborough located?",
+      "a": [
+        "Bengkulu",
+        "Singapore",
+        "London",
+        "Dover"
+      ]
+    },
+    {
+      "q": "What is the name of the Canadian national anthem?",
+      "a": [
+        "O Canada",
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+      ]
+    },
+    {
+      "q": "How many countries share a land border with Russia? (Not including disputed territories)",
+      "a": [
+        "14",
+        "12",
+        "10",
+        "8"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a real tectonic plate?",
+      "a": [
+        "Atlantic Plate",
+        "North American Plate",
+        "Eurasian Plate",
+        "Nazca Plate"
+      ]
+    },
+    {
+      "q": "What is the capital of Wisconsin, USA?",
+      "a": [
+        "Madison",
+        "Milwaukee",
+        "Wisconsin Dells",
+        "Green Bay"
+      ]
+    },
+    {
+      "q": "The Svalbard Archipelago is a dependency of which country?",
+      "a": [
+        "Norway",
+        "Denmark",
+        "Iceland",
+        "Russia"
+      ]
+    },
+    {
+      "q": "Which country is the Taedong River in?",
+      "a": [
+        "North Korea",
+        "South Korea",
+        "Japan",
+        "China"
+      ]
+    },
+    {
+      "q": "Where is the fast food chain \"Panda Express\" headquartered?",
+      "a": [
+        "Rosemead, California",
+        "Sacramento, California",
+        "Fresno, California",
+        "San Diego, California"
+      ]
+    },
+    {
+      "q": "With which country does France share its largest land border",
+      "a": [
+        "Brazil",
+        "Germany",
+        "Spain",
+        "Canada"
+      ]
+    },
+    {
+      "q": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+      "a": [
+        "Lishana Deni",
+        "Hulaulá",
+        "Lishan Didan",
+        "Chaldean Neo-Aramaic"
+      ]
+    },
+    {
+      "q": "What is the world's smallest country by population?",
+      "a": [
+        "Vatican City",
+        "Nauru",
+        "Marshall Islands",
+        "Lichtenstein"
+      ]
+    },
+    {
+      "q": "In which country is Tallinn located?",
+      "a": [
+        "Estonia",
+        "Finland",
+        "Sweden",
+        "Poland"
+      ]
+    },
+    {
+      "q": "Which river was dammed to create Gatun Lake and the Panama Canal?",
+      "a": [
+        "Chagres River",
+        "Tuira River",
+        "Chucunaque River",
+        "Chepo River"
+      ]
+    },
+    {
+      "q": "Ouagadougou is the capital of which African country?",
+      "a": [
+        "Burkina Faso",
+        "Central African Republic",
+        "Senegal",
+        "Zambia"
+      ]
+    },
+    {
+      "q": "Which city is the capital of Michigan?",
+      "a": [
+        "Lansing",
+        "Kalamazoo",
+        "Ann Arbor",
+        "Detroit"
+      ]
+    },
+    {
+      "q": "Which of these countries is NOT a part of the Asian continent?",
+      "a": [
+        "Suriname",
+        "Georgia",
+        "Russia",
+        "Singapore"
+      ]
+    },
+    {
+      "q": "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch is located on which Welsh island?",
+      "a": [
+        "Anglesey",
+        "Barry",
+        "Bardsey",
+        "Caldey"
+      ]
+    },
+    {
+      "q": "What is the capital of Suriname?",
+      "a": [
+        "Paramaribo",
+        "Antananarivo",
+        "Tegucigalpa",
+        "Sucre"
+      ]
+    },
+    {
+      "q": "What is the second-largest city in Lithuania?",
+      "a": [
+        "Kaunas",
+        "Panevėžys",
+        "Vilnius",
+        "Klaipėda"
+      ]
+    },
+    {
+      "q": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+      "a": [
+        "Chinese",
+        "Japanese",
+        "Russian",
+        "Indian"
+      ]
+    },
+    {
+      "q": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+      "a": [
+        "India",
+        "Vietnam",
+        "Thailand",
+        "Indonesia"
+      ]
+    },
+    {
+      "q": "What is the capital of Burkina Faso?",
+      "a": [
+        "Ouagadougou",
+        "Yaoundé",
+        "Yamoussoukro",
+        "Abidjan"
+      ]
+    },
+    {
+      "q": "Which of the following landlocked countries is entirely contained within another country?",
+      "a": [
+        "Lesotho",
+        "Burkina Faso",
+        "Mongolia",
+        "Luxembourg"
+      ]
+    },
+    {
+      "q": "Which of these countries is NOT the only country to start with that letter of the alphabet?",
+      "a": [
+        "Zambia",
+        "Qatar",
+        "Yemen",
+        "Oman"
+      ]
+    },
+    {
+      "q": "How many countries border Kyrgyzstan?",
+      "a": [
+        "4",
+        "3",
+        "1",
+        "6"
+      ]
+    },
+    {
+      "q": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+      "a": [
+        "Grand Banks",
+        "Great Barrier Reef",
+        "Mariana Trench",
+        "Hudson Bay"
+      ]
+    },
+    {
+      "q": "What is the Finnish word for \"Finland\"?",
+      "a": [
+        "Suomi",
+        "Eesti",
+        "Magyarország",
+        "Sverige"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a province in China?",
+      "a": [
+        "Yangtze",
+        "Fujian",
+        "Sichuan",
+        "Guangdong"
+      ]
+    },
+    {
+      "q": "Which is the largest freshwater lake in the world?",
+      "a": [
+        "Lake Superior",
+        "Caspian Sea",
+        "Lake Michigan",
+        "Lake Huron"
+      ]
+    },
+    {
+      "q": "What is the largest freshwater lake by volume?",
+      "a": [
+        "Lake Baikal",
+        "Lake Superior",
+        "Lake Huron",
+        "Lake Michigan"
+      ]
+    },
+    {
+      "q": "Which of these island countries is located in the Caribbean?",
+      "a": [
+        "Barbados",
+        "Fiji",
+        "Maldives",
+        "Seychelles"
+      ]
+    },
+    {
+      "q": "What country is not a part of Scandinavia?",
+      "a": [
+        "Finland",
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ]
+    },
+    {
+      "q": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+      "a": [
+        "Indonesia",
+        "Chile",
+        "New Zealand",
+        "Fiji"
+      ]
+    },
+    {
+      "q": "In which city is the Big Nickel located in Canada?",
+      "a": [
+        "Sudbury, Ontario",
+        "Calgary, Alberta",
+        "Halifax, Nova Scotia",
+        "Victoria, British Columbia"
+      ]
+    },
+    {
+      "q": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+      "a": [
+        "Inuktitut",
+        "Inuinnaqtun",
+        "Greenlandic",
+        "Inupiat"
+      ]
+    },
+    {
+      "q": "The mountainous Khyber Pass connects which of the two following countries?",
+      "a": [
+        "Afghanistan and Pakistan",
+        "India and Nepal",
+        "Pakistan and India",
+        "Tajikistan and Kyrgyzstan"
+      ]
+    },
+    {
+      "q": "Which of these cities is NOT in England?",
+      "a": [
+        "Edinburgh",
+        "Oxford",
+        "Manchester",
+        "Southampton"
+      ]
+    },
+    {
+      "q": "In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
+      "a": [
+        "Anglesey",
+        "Pembrokeshire",
+        "Wrexham",
+        "Bridgend"
+      ]
+    },
+    {
+      "q": "Which country was NOT formerly part of Yugoslavia?",
+      "a": [
+        "Albania",
+        "Croatia",
+        "Serbia",
+        "Macedonia"
+      ]
+    },
+    {
+      "q": "Which of these is NOT a city in India?",
+      "a": [
+        "Islamabad",
+        "Hyderabad",
+        "Ahmedabad",
+        "Ghaziabad"
+      ]
+    },
+    {
+      "q": "The Suez Canal is located in which African country?",
+      "a": [
+        "Egypt",
+        "Libya",
+        "Ghana",
+        "Nigeria"
+      ]
+    },
+    {
+      "q": "What is special about Lake Titicaca?",
+      "a": [
+        "Highest navigable lake",
+        "Longest lake in the world",
+        "Deepest lake in the world",
+        "Remains frozen all year round"
+      ]
+    },
+    {
+      "q": "Which of these African countries displays a gun on their flag?",
+      "a": [
+        "Mozambique",
+        "Uganda",
+        "Ethiopia",
+        "Nigeria"
+      ]
+    },
+    {
+      "q": "What is the county seat of King County, Washington?",
+      "a": [
+        "Seattle",
+        "Bellevue",
+        "Enumclaw",
+        "Skykomish"
+      ]
+    },
+    {
+      "q": "What is the most populous Muslim-majority nation in 2010?",
+      "a": [
+        "Indonesia",
+        "Saudi Arabia",
+        "Iran",
+        "Sudan"
+      ]
+    },
+    {
+      "q": "What is the official German name of the Swiss Federal Railways?",
+      "a": [
+        "Schweizerische Bundesbahnen",
+        "Schweizerische Nationalbahnen",
+        "Bundesbahnen der Schweiz",
+        "Schweizerische Staatsbahnen"
+      ]
+    },
+    {
+      "q": "What city is known as the Rose Capital of the World?",
+      "a": [
+        "Tyler, Texas",
+        "San Diego, California",
+        "Miami, Florida",
+        "Anaheim, California"
+      ]
+    },
+    {
+      "q": "Which of these is an official currency of the Cook Islands?",
+      "a": [
+        "New Zealand Dollar",
+        "United States Dollar",
+        "British Pound",
+        "Australian Dollar"
+      ]
+    },
+    {
+      "q": "What is the largest city and commercial capital of Sri Lanka?",
+      "a": [
+        "Colombo",
+        "Moratuwa",
+        "Negombo",
+        "Kandy"
+      ]
+    },
+    {
+      "q": "Which of the following is a castle?",
+      "a": [
+        "Elizabeth Castle",
+        "Frank Castle",
+        "Richard Castle",
+        "Olivia Castle"
+      ]
+    },
+    {
+      "q": "What North American tourist attraction is served by the \"Maid of the Mist\" tour company?",
+      "a": [
+        "Niagara Falls",
+        "Whistler, British Columbia",
+        "Disney World",
+        "Yosemite National Park"
+      ]
+    },
+    {
+      "q": "What is the land connecting North America and South America?",
+      "a": [
+        "Isthmus of Panama",
+        "Isthmus of Suez",
+        "Urals",
+        "Australasia"
+      ]
+    },
+    {
+      "q": "What is the name of rocky region that spans most of eastern Canada?",
+      "a": [
+        "Canadian Shield",
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Himalayas"
+      ]
+    },
+    {
+      "q": "Which country is completely landlocked by South Africa?",
+      "a": [
+        "Lesotho",
+        "Swaziland",
+        "Botswana",
+        "Zimbabwe"
+      ]
+    },
+    {
+      "q": "How many islands does Kuwait have?",
+      "a": [
+        "9",
+        "3",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "q": "What was the original name of Ho Chi Minh City?",
+      "a": [
+        "Saigon",
+        "Hanoi",
+        "Dar Es Salaam",
+        "Angkor Wat"
+      ]
+    },
+    {
+      "q": "What is the most common climbing route for the second highest mountain in the world, K2?",
+      "a": [
+        "Abruzzi Spur",
+        "Magic Line",
+        "Cesen Route",
+        "Polish Line"
+      ]
+    },
+    {
+      "q": "What is the capital of Mauritius?",
+      "a": [
+        "Port Louis",
+        "Port Moresby",
+        "Port Vila",
+        "Port-au-Prince"
+      ]
+    },
+    {
+      "q": "What is the area of Vatican City?",
+      "a": [
+        "0.44km^2",
+        "0.10km^2",
+        "0.86km^2",
+        "12.00km^2"
+      ]
+    },
+    {
+      "q": "When does Finland celebrate their independence day?",
+      "a": [
+        "December 6th",
+        "January 2nd",
+        "November 12th",
+        "February 8th"
+      ]
+    },
+    {
+      "q": "How many stations does the Central Line have on the London Underground?",
+      "a": [
+        "49",
+        "51",
+        "43",
+        "47"
+      ]
+    },
+    {
+      "q": "The Hunua Ranges is located in...",
+      "a": [
+        "New Zealand",
+        "Nepal",
+        "China",
+        "Mexico"
+      ]
+    },
+    {
+      "q": "What national museum will you find in Cooperstown, New York?",
+      "a": [
+        "National Baseball Hall of Fame",
+        "Metropolitan Museum of Art",
+        "National Toy Hall of Fame",
+        "Museum of Modern Art"
+      ]
+    },
+    {
+      "q": "Into which basin does the Jordan River flow into?",
+      "a": [
+        "Dead Sea",
+        "Aral Sea",
+        "Caspian Sea",
+        "Salton Sea"
+      ]
+    },
+    {
+      "q": "Where is the city of Haarlem located?",
+      "a": [
+        "The Netherlands",
+        "Germany",
+        "United States",
+        "Switzerland"
+      ]
+    },
+    {
+      "q": "Where is Timbuktu located?",
+      "a": [
+        "Mali, Africa",
+        "Azerbaijan, Asia",
+        "Bangladesh, Asia",
+        "Mauritania, Africa"
+      ]
+    },
+    {
+      "q": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+      "a": [
+        "Crown",
+        "Bird",
+        "Sickle",
+        "Tree"
+      ]
+    },
+    {
+      "q": "What is Canada's largest island?",
+      "a": [
+        "Baffin Island",
+        "Prince Edward Island",
+        "Vancouver Island",
+        "Newfoundland"
+      ]
+    },
+    {
+      "q": "Which is not a country in Africa?",
+      "a": [
+        "Guyana",
+        "Senegal",
+        "Liberia",
+        "Somalia"
+      ]
+    },
+    {
+      "q": "Santorini is an island belonging to what European Country?",
+      "a": [
+        "Greece",
+        "Italy",
+        "Spain",
+        "Turkey"
+      ]
+    },
+    {
+      "q": "Which of these cities has a 4° East longitude.",
+      "a": [
+        "Amsterdam",
+        "Rio de Janero",
+        "Toronto",
+        "Hong Kong"
+      ]
+    },
+    {
+      "q": "What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?",
+      "a": [
+        "Longyearbyen",
+        "Sveagruva",
+        "Ny-Ålesund",
+        "Barentsburg"
+      ]
+    },
+    {
+      "q": "What year is on the flag of the US state Wisconsin?",
+      "a": [
+        "1848",
+        "1634",
+        "1783",
+        "1901"
+      ]
+    },
+    {
+      "q": "What is the official language of Bhutan?",
+      "a": [
+        "Dzongkha",
+        "Ladakhi",
+        "Karen",
+        "Groma"
+      ]
+    },
+    {
+      "q": "Which of the following is the longest river in Europe?",
+      "a": [
+        "Volga",
+        "Danube",
+        "Ural",
+        "Dnieper"
+      ]
+    },
+    {
+      "q": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+      "a": [
+        "Europe and Africa",
+        "Europe, Africa and Asia",
+        "Europe",
+        "Europe and Asia"
+      ]
+    },
+    {
+      "q": "What is the capital of Seychelles?",
+      "a": [
+        "Victoria",
+        "Luanda",
+        "N'Djamena",
+        "Tripoli"
+      ]
+    },
+    {
+      "q": "Bikini Atoll is in which country?",
+      "a": [
+        "Marshall Islands",
+        "Fiji",
+        "Christmas Islands",
+        "Bahamas"
+      ]
+    },
+    {
+      "q": "The formerly East-Prussian city of Königsberg is known as which Russian City today?",
+      "a": [
+        "Kaliningrad",
+        "Kazan",
+        "Kursk",
+        "Krasnodar"
+      ]
+    },
+    {
+      "q": "Which stretch of water connects the Atlantic Ocean to the Mediterranean Sea?",
+      "a": [
+        "Strait of Gibraltar",
+        "Gibraltar Way",
+        "Spanish Straits",
+        "Channelle de Tangiers"
+      ]
+    },
+    {
+      "q": "In which English county is Stonehenge?",
+      "a": [
+        "Wiltshire",
+        "Somerset",
+        "Cumbria",
+        "Herefordshire"
+      ]
+    },
+    {
+      "q": "Which of the following language families is the most controversial amongst modern linguists?",
+      "a": [
+        "Altaic",
+        "Sino-Tibetan",
+        "Dravidian",
+        "Indo-European"
+      ]
+    },
+    {
+      "q": "Which of these countries is the smallest by population?",
+      "a": [
+        "Norway",
+        "Slovakia",
+        "Finland",
+        "Hong Kong"
+      ]
+    },
+    {
+      "q": "What is the capital city of the U.S. state of Texas?",
+      "a": [
+        "Austin",
+        "Dallas",
+        "Houston",
+        "San Antonio"
+      ]
+    },
+    {
+      "q": "Which state of the United States is the smallest?",
+      "a": [
+        "Rhode Island",
+        "Maine",
+        "Vermont",
+        "Massachusetts"
+      ]
+    },
+    {
+      "q": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+      "a": [
+        "Zambia & Zimbabwe",
+        "Togo & Benin",
+        "Lesotho & Swaziland",
+        "Rwanda & Burundi"
+      ]
+    },
+    {
+      "q": "What is the capital of Brazil?",
+      "a": [
+        "Brasilia",
+        "Rio de Janeiro",
+        "Sao Paolo",
+        "Curitiba"
+      ]
+    },
+    {
+      "q": "Which German city is located on the River Isar?",
+      "a": [
+        "Munich",
+        "Berlin",
+        "Hamburg",
+        "Dortmund"
+      ]
+    },
+    {
+      "q": "Which of the following is NOT a capital city?",
+      "a": [
+        "Sydney",
+        "Cairo",
+        "Moscow",
+        "Beijing"
+      ]
+    },
+    {
+      "q": "Which Canadian province has Charlottetown as its capital?",
+      "a": [
+        "Prince Edward Island",
+        "Saskachewan",
+        "Northwest Terrirories",
+        "Ontario"
+      ]
+    },
+    {
+      "q": "Which country ranks first in the number of historically active volcanoes?",
+      "a": [
+        "Indonesia",
+        "Japan",
+        "USA",
+        "India"
+      ]
+    },
+    {
+      "q": "Frankenmuth, a US city nicknamed \"Little Bavaria\", is located in what state?",
+      "a": [
+        "Michigan",
+        "Pennsylvania",
+        "Kentucky",
+        "Virginia"
+      ]
+    },
+    {
+      "q": "Which Oceanian nation is known in Māori as Aotearoa?",
+      "a": [
+        "New Zealand",
+        "Australia",
+        "Solomon Islands",
+        "New Caledonia"
+      ]
+    },
+    {
+      "q": "The Japanese district Akihabara is also known by what nickname?",
+      "a": [
+        "Electric Town",
+        "Moon Walk River",
+        "Otaku Central",
+        "Big Eyes"
+      ]
+    },
+    {
+      "q": "Which of the following is not a megadiverse country - one that harbors a high number of the earth's endemic species?",
+      "a": [
+        "Thailand",
+        "Peru",
+        "Mexico",
+        "South Africa"
+      ]
+    },
+    {
+      "q": "What are the four corner states of the US?",
+      "a": [
+        "Utah, Colorado, Arizona, New Mexico",
+        "Oregon, Idaho, Nevada, Utah",
+        "Kansas, Oklahoma, Arkansas, Louisiana",
+        "South Dakota, Minnesota, Nebraska, Iowa"
+      ]
+    },
+    {
+      "q": "How many countries are inside the United Kingdom?",
+      "a": [
+        "Four",
+        "Two",
+        "Three",
+        "One"
+      ]
+    },
+    {
+      "q": "Where is Hadrian's Wall located?",
+      "a": [
+        "Carlisle, England",
+        "Rome, Italy",
+        "Alexandria, Egypt",
+        "Dublin, Ireland"
+      ]
+    },
+    {
+      "q": "How many states are in Australia?",
+      "a": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "q": "The land of Gotland is located in which European country?",
+      "a": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Germany"
+      ]
+    },
+    {
+      "q": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+      "a": [
+        "United Kingdom",
+        "Spain",
+        "Portugal",
+        "France"
+      ]
+    },
+    {
+      "q": "Colchester Overpass, otherwise known as \"Bunny Man Bridge\", is located where?",
+      "a": [
+        "Fairfax County, Virginia",
+        "Medford, Oregon",
+        "Braxton County, Virgina",
+        "Lemon Grove, California"
+      ]
+    },
+    {
+      "q": "Which one of these archipelagos are NOT a part of the United Kingdom?",
+      "a": [
+        "The Channel Islands",
+        "Orkney Islands",
+        "Isles of Scilly",
+        "Shetland Islands"
+      ]
+    },
+    {
+      "q": "How many sovereign states are members of the United Nations?",
+      "a": [
+        "195",
+        "201",
+        "153",
+        "178"
+      ]
+    },
+    {
+      "q": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+      "a": [
+        "Wales",
+        "Scotland",
+        "Ireland",
+        "Isle of Wight"
+      ]
+    },
+    {
+      "q": "What European country is not a part of the EU?",
+      "a": [
+        "Norway",
+        "Lithuania",
+        "Ireland",
+        "Czechia"
+      ]
+    },
+    {
+      "q": "How many countries share a land border with Luxembourg?",
+      "a": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "q": "Which is the smallest country in the world?",
+      "a": [
+        "Vatican City",
+        "Lesotho",
+        "Monaco City",
+        "Titania"
+      ]
+    },
+    {
+      "q": "Where is the ancient city of Petra located?",
+      "a": [
+        "Jordan",
+        "Egypt",
+        "Israel",
+        "Italy"
+      ]
+    },
+    {
+      "q": "Lake Titicaca is located between which two nations?",
+      "a": [
+        "Peru and Bolivia",
+        "Kenya and Uganda",
+        "Mexico and the United States",
+        "India and Bangladesh"
+      ]
+    },
+    {
+      "q": "What is the capital of Slovakia?",
+      "a": [
+        "Bratislava",
+        "Sofia",
+        "Ljubljana",
+        "Sarajevo"
+      ]
+    },
+    {
+      "q": "Kuala Lumpur is the capital of which country?",
+      "a": [
+        "Malaysia",
+        "Indonesia",
+        "Singapore",
+        "Thailand"
+      ]
+    },
+    {
+      "q": "Which of these countries is not a United Nations member state?",
+      "a": [
+        "Niue",
+        "Tuvalu",
+        "South Sudan",
+        "Montenegro"
+      ]
+    },
+    {
+      "q": "Where is the world's oldest still operational space launch facility located?",
+      "a": [
+        "Kazakhstan",
+        "Russia",
+        "Iran",
+        "United States"
+      ]
+    },
+    {
+      "q": "Where is the Volga River?",
+      "a": [
+        "Russia",
+        "Bulgaria",
+        "India",
+        "Sweden"
+      ]
+    },
+    {
+      "q": "What is the capital of Lithuania?",
+      "a": [
+        "Vilnius",
+        "Tallinn",
+        "Helsinki",
+        "Riga"
+      ]
+    },
+    {
+      "q": "What continent is the country Lesotho in?",
+      "a": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Europe"
+      ]
+    },
+    {
+      "q": "Which of the following countries banned the use of personal genetic ancestry tests?",
+      "a": [
+        "Germany",
+        "Austria",
+        "Canada",
+        "Sweden"
+      ]
+    },
+    {
+      "q": "How many rivers are in Saudi Arabia?",
+      "a": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "q": "Which country has three capital cities?",
+      "a": [
+        "South Africa",
+        "Somalia",
+        "China",
+        "United Kingdom"
+      ]
+    },
+    {
+      "q": "What is the capital of Cyprus?",
+      "a": [
+        "Nicosia",
+        "Paphos",
+        "Limassol",
+        "Larnaca"
+      ]
+    },
+    {
+      "q": "Which of these American cities has fewer than 1,000,000 people?",
+      "a": [
+        "San Francisco, California",
+        "Phoenix, Arizona",
+        "San Antonio, Texas",
+        "Philadelphia, Pennsylvania"
+      ]
+    },
+    {
+      "q": "The Pyrenees mountains are located on the border of which two countries?",
+      "a": [
+        "France and Spain",
+        "Italy and Switzerland",
+        "Norway and Sweden",
+        "Russia and Ukraine"
+      ]
+    },
+    {
+      "q": "What is the busiest port in Europe?",
+      "a": [
+        "Port of Rotterdam",
+        "Port of Antwerp",
+        "Port of Hamburg",
+        "Port of Amsterdam"
+      ]
+    },
+    {
+      "q": "Which of these is NOT an island that is part of the Philippines?",
+      "a": [
+        "Java",
+        "Luzon",
+        "Mindanao",
+        "Palawan"
+      ]
+    },
+    {
+      "q": "Bridgetown is the capital of which island country in the Carribean?",
+      "a": [
+        "Barbados",
+        "Cuba",
+        "Jamaica‎",
+        "Dominica"
+      ]
+    },
+    {
+      "q": "What is the capital of the State of Washington, United States?",
+      "a": [
+        "Olympia",
+        "Washington D.C.",
+        "Seattle",
+        "Yukon"
+      ]
+    },
+    {
+      "q": "Which is the largest of these 4 islands?",
+      "a": [
+        "Borneo",
+        "Great Britain",
+        "Cuba",
+        "Madagascar"
+      ]
+    },
+    {
+      "q": "Which of these countries is not written in its native language?",
+      "a": [
+        "Slovaško",
+        "Suomi",
+        "Schweiz",
+        "Elláda"
+      ]
+    },
+    {
+      "q": "Which country claims ownership of the disputed state Kosovo?",
+      "a": [
+        "Serbia",
+        "Croatia",
+        "Albania",
+        "Macedonia"
+      ]
+    },
+    {
+      "q": "Which of the following countries is an island?",
+      "a": [
+        "Cyprus",
+        "Azerbaijan",
+        "El Salvador",
+        "Djibouti"
+      ]
+    },
+    {
+      "q": "What is the capital of Vietnam?",
+      "a": [
+        "Hanoi",
+        "Da Nang",
+        "Hai Phong",
+        "Ho Chi Minh City"
+      ]
+    },
+    {
+      "q": "What is the fifth largest country by area?",
+      "a": [
+        "Brazil",
+        "United States",
+        "Australia",
+        "India"
+      ]
+    },
+    {
+      "q": "What is the largest non-continental island in the world?",
+      "a": [
+        "Greenland",
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ]
+    },
+    {
+      "q": "The towns of Brugelette, Arlon and Ath are located in which country?",
+      "a": [
+        "Belgium",
+        "Andorra",
+        "France",
+        "Luxembourg"
+      ]
+    },
+    {
+      "q": "What is the capital of Chile?",
+      "a": [
+        "Santiago",
+        "Valparaíso",
+        "Copiapó",
+        "Antofagasta"
+      ]
+    },
+    {
+      "q": "The US state of New York has about as many inhabitants as?",
+      "a": [
+        "Romania",
+        "Poland",
+        "Germany",
+        "Hungary"
+      ]
+    },
+    {
+      "q": "What is the capital of British Columbia, Canada?",
+      "a": [
+        "Victoria",
+        "Vancouver",
+        "Hope",
+        "Kelowna"
+      ]
+    },
+    {
+      "q": "Which of these Mediterranian islands is under the sovereign rule of France?",
+      "a": [
+        "Corsica",
+        "Majorca",
+        "Sardinia",
+        "Malta"
+      ]
+    },
+    {
+      "q": "What was the African nation of Zimbabwe formerly known as?",
+      "a": [
+        "Rhodesia",
+        "Zambia",
+        "Mozambique",
+        "Bulawayo"
+      ]
+    },
+    {
+      "q": "Which city is the capital of Switzerland?",
+      "a": [
+        "Bern",
+        "Zürich",
+        "Frankfurt",
+        "Wien"
+      ]
+    },
+    {
+      "q": "What is the capital of Belarus?",
+      "a": [
+        "Minsk",
+        "Warsaw",
+        "Kiev",
+        "Vilnius"
+      ]
+    },
+    {
+      "q": "Where is the area commonly known as the Bermuda Triangle?",
+      "a": [
+        "North Atlantic Ocean, between Florida and Puerto Rico",
+        "North Pacific Ocean, between Japan and the USA",
+        "In the Caribbean Sea",
+        "South Pacific Ocean, far off Chile"
+      ]
+    },
+    {
+      "q": "What Texas city is nicknamed \"The Yellow Rose of Texas\"?",
+      "a": [
+        "Amarillo",
+        "Corpus Christi",
+        "Frisco",
+        "Houston"
+      ]
+    },
+    {
+      "q": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+      "a": [
+        "103",
+        "10",
+        "59",
+        "79"
+      ]
+    },
+    {
+      "q": "Which of these countries is \"doubly landlocked\" (surrounded entirely by one or more landlocked countries)?",
+      "a": [
+        "Uzbekistan",
+        "Switzerland",
+        "Bolivia",
+        "Ethiopia"
+      ]
+    },
+    {
+      "q": "What is the capital of Estonia?",
+      "a": [
+        "Tallinn",
+        "Helsinki",
+        "Tartu",
+        "Riga"
+      ]
+    },
+    {
+      "q": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+      "a": [
+        "Urutora",
+        "Rungata",
+        "London",
+        "Washington"
+      ]
+    }
+  ]
+}

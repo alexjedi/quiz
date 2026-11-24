@@ -902,6 +902,60 @@
         "William Shakespeare",
         "William Wordsworth"
       ]
+    },
+    {
+      "q": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+      "a": [
+        "The Grapes of Wrath",
+        "Hamlet",
+        "The Great Gatsby",
+        "Peter Pan"
+      ]
+    },
+    {
+      "q": "In \"The Lord of the Rings,\" who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",
+      "a": [
+        "Glorfindel",
+        "Arwen",
+        "Aragorn",
+        "Haldir"
+      ]
+    },
+    {
+      "q": "What is the name of the author of book series 'Percy Jackson'?",
+      "a": [
+        "Rick Riordan",
+        "J.K. Rowling",
+        "Sandra Bullock",
+        "Roald Dahl"
+      ]
+    },
+    {
+      "q": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+      "a": [
+        "Anna Karenina",
+        "Notes from the Underground",
+        "Crime and Punishment",
+        "The Brothers Karamazov"
+      ]
+    },
+    {
+      "q": "What was the pen name of novelist, Mary Ann Evans?",
+      "a": [
+        "George Eliot",
+        "George Orwell",
+        "George Bernard Shaw",
+        "George Saunders"
+      ]
+    },
+    {
+      "q": "In \"Little Women\", which of the March sisters married Laurie?",
+      "a": [
+        "Amy",
+        "Beth",
+        "Jo",
+        "Meg"
+      ]
     }
   ]
 }
