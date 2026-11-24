@@ -60,6 +60,10 @@ pnpm deploy
 
 Deploys a Cloudflare Worker with static assets and one Durable Object per room to `quiz.alexvoid.com` (see `wrangler.jsonc`). `.env` needs the variables listed in `.env.example`.
 
+## License
+
+The code, art and audio (`public/audio/`) are released under the [MIT License](LICENSE). The Open Trivia Database question packs are the exception, see below.
+
 ## Credits
 
 The packs in `src/questions/otdb-*.json` come from the [Open Trivia Database](https://opentdb.com/) and are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). They were imported with `scripts/import-opentdb.mjs`, which decodes the text and drops true/false questions; the questions are otherwise unchanged. These files stay under CC BY-SA 4.0.
